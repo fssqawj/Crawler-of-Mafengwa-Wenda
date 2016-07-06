@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+*.txt
+*.swp
+/detail
+/japan
+/mfwdata
