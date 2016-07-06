@@ -1,0 +1,94 @@
+REGIN:日本
+ID:2725323
+TITLE:#东京#求日本介绍美食的网站？
+DESC:日本有没有跟中国美团网或大众点评网类似的网站，就是介绍美食的网站。
+TAGS:美食#日本#东京#
+PUBTIME:2015-06-08 15:15:08
+RETRESSIZE:29
+RETRES_0_CONTENT:灵敏死胖子LV.35金牌大师奖励20蜂蜜题主采纳首先呢， 你可以参考链接中的游记，里面介绍了很多关于东京，大阪，京都的美食和餐饮。当然是中文的http://www.mafengwo.cn/i/3211350.html另外，还有一个类似于大众点评网站，虽然都是日语的，但是里面介绍的还是蛮靠谱的http://tabelog.com/还有就是如果你到日本之后一定要活用google ，google会给你各种信息，而且非常靠谱
+RETRES_0_CNTZAN:240
+RETRES_0_PTIME:发布于 2015-06-08 18:43
+RETRES_1_CONTENT:小满背包瞎转LV.21咕嘟妈咪，http://www.gnavi.co.jp/咕嘟妈咪（Gourmet Navigator）是日本规模最大的介绍各种美食及饭店，餐厅信息的网站。在这里，您不仅可以查找您想去的日本地方的饭店，餐厅信息，还可以预先查阅详细的菜单。关于日本全国饮食点的信息，什么地方好吃这里都可以找到。不仅推荐的美食都不错，而且有很多优惠券可以下载~雅虎美食检索网站ヤフーグルメサーチ  http://gourmet.yahoo.co.jp/restaurant/很全面，也是常用的介绍美食搜索小吃店的网站~希望能帮到你
+RETRES_1_CNTZAN:71
+RETRES_1_PTIME:发布于 2015-06-08 15:25
+RETRES_2_CONTENT:angel °LV.2有啊，http://tabelog.com 就是日本类似大众点评的网站，还有个find-travel   也是日本网站，在日本很人气的，再还有一个是我非常推荐的      http://www.japantrip.cn/   ，我去东京旅游就是参考这个的，里面内容很实用，是摘取些日本的网站的文章翻译成中文的，所以不会日语都可以尝到正真地道的，日本人推荐的餐厅
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2016-03-15 11:23
+RETRES_3_CONTENT:任爱月无痕LV.21レシピ検索No.1　http://cookpad.com/【レシピ大百科】味の素KK　http://www.ajinomoto.co.jp/recipe/特集レシピ一覧　http://www.recipe.nestle.co.jp/special/ほくでん：おすすめレシピ　http://www.hepco.co.jp/recipe/家庭料理の簡単レシピ　http://www.k2.dion.ne.jp/~aikiku/
+RETRES_3_CNTZAN:3
+RETRES_3_PTIME:发布于 2016-01-23 21:01
+RETRES_4_CONTENT:燚烨之脩LV.21咕嘟妈咪（Gourmet Navigator）是日本规模最大的介绍各种美食及饭店，餐厅信息的网站。
+RETRES_4_CNTZAN:21
+RETRES_4_PTIME:发布于 2015-09-25 00:20
+RETRES_5_CONTENT:sugar1216LV.20指路人东京http://tabelog.com 日本的大众点评然后推荐看下 美食日剧里的推荐啦  比如孤独的美食家  和歌子酒另外还有日本综艺节目也有专门推荐美食的 挺赞的。中国的大众点评也有一些日本餐厅的评价
+RETRES_5_CNTZAN:9
+RETRES_5_PTIME:发布于 2015-11-23 12:57
+RETRES_6_CONTENT:ICEYLV.9推荐一个网站，有吃住玩儿的很多信息，第一个网站有中文的，比较方便。我没有通过网站订过。不过去之前参考了一些： http://www.japanican.com/cn/
+RETRES_6_CNTZAN:7
+RETRES_6_PTIME:发布于 2015-10-20 07:32
+RETRES_7_CONTENT:tarocatLV.21有啊，http://tabelog.com 就是日本类似大众点评的网站，不过评价都是日文，不会的话难以看懂。但是如果只是查找或者看地址的话，用中文也可以的。
+RETRES_7_CNTZAN:2
+RETRES_7_PTIME:发布于 2015-10-29 00:27
+RETRES_8_CONTENT:橼亓LV.24http://tabelog.com 日本的大众点评
+RETRES_8_CNTZAN:12
+RETRES_8_PTIME:发布于 2015-10-27 09:06
+RETRES_9_CONTENT:愚蠢的欧豆豆LV.10日本走咕噜，其实大众点评也不错，很多人在日本用，里面地址和环境都写的很清楚，推荐这个，不懂日文的话比较好用
+RETRES_9_CNTZAN:6
+RETRES_9_PTIME:发布于 2015-10-25 10:38
+RETRES_10_CONTENT:杀龙手LV.24日本料理专门网 COOKPAD日本食谱网咕嘟妈咪可果美食品
+RETRES_10_CNTZAN:5
+RETRES_10_PTIME:发布于 2015-11-24 19:49
+RETRES_11_CONTENT:（成都）田大力LV.17咕嘟妈咪（Gourmet Navigator）是日本规模最大的介绍各种美食及饭店，还有大众点评
+RETRES_11_CNTZAN:1
+RETRES_11_PTIME:发布于 2016-01-20 08:51
+RETRES_12_CONTENT:sophia_yan1209LV.17日本的大众点评tablog非常好。如果app用不来，可以看网页版的。
+RETRES_12_CNTZAN:1
+RETRES_12_PTIME:发布于 2016-02-29 21:41
+RETRES_13_CONTENT:DanvnnldLV.9点评也不错，很多人在日本用，里面地址和环境都写的很清楚
+RETRES_13_CNTZAN:1
+RETRES_13_PTIME:发布于 2015-12-29 19:45
+RETRES_14_CONTENT:半月冬琉LV.19马蜂窝的游记 穷游宝典 大众点评都可以的
+RETRES_14_CNTZAN:2
+RETRES_14_PTIME:发布于 2016-02-07 00:19
+RETRES_15_CONTENT:团团团儿LV.16用大众点评网也很方便还是中文
+RETRES_15_CNTZAN:3
+RETRES_15_PTIME:发布于 2015-12-05 20:08
+RETRES_16_CONTENT:chrisLV.21我觉得在蚂蜂窝里看看就有很多很多啦：）
+RETRES_16_CNTZAN:2
+RETRES_16_PTIME:发布于 2015-11-04 11:47
+RETRES_17_CONTENT:abbyLV.16有，hotpepper就是
+RETRES_17_CNTZAN:2
+RETRES_17_PTIME:发布于 2015-10-16 09:23
+RETRES_18_CONTENT:绿茶慕司LV.16重点你该先说你看不看的懂日文吧
+RETRES_18_CNTZAN:1
+RETRES_18_PTIME:发布于 2016-01-05 23:28
+RETRES_19_CONTENT:hongkLV.17日本也有大众点评
+RETRES_19_CNTZAN:2
+RETRES_19_PTIME:发布于 2015-12-13 09:08
+RETRES_20_CONTENT:Kudoran_SwiftLV.17日本也有大众点评
+RETRES_20_CNTZAN:2
+RETRES_20_PTIME:发布于 2015-10-09 18:00
+RETRES_21_CONTENT:wuxw08LV.17请搜索下载ぐるなび
+RETRES_21_CNTZAN:1
+RETRES_21_PTIME:发布于 2016-01-13 10:24
+RETRES_22_CONTENT:ingyLV.17日本也有大众点评
+RETRES_22_CNTZAN:1
+RETRES_22_PTIME:发布于 2016-01-22 14:04
+RETRES_23_CONTENT:晚翠LV.26日本走咕噜，还有大众点评
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2016-02-22 09:06
+RETRES_24_CONTENT:hopeforeverLV.16蚂蜂窝里就应该有的
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2016-05-11 11:19
+RETRES_25_CONTENT:ZYJLV.15松坂牛肉 神户牛肉
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2016-03-03 20:57
+RETRES_26_CONTENT:白加黑LV.26大众点评
+RETRES_26_CNTZAN:1
+RETRES_26_PTIME:发布于 2015-12-15 02:15
+RETRES_27_CONTENT:hibeLV.20日本料理专门网
+RETRES_27_CNTZAN:0
+RETRES_27_PTIME:发布于 2016-03-04 15:58
+RETRES_28_CONTENT:のＣherish'LV.19COOKPAD
+RETRES_28_CNTZAN:0
+RETRES_28_PTIME:发布于 2016-02-14 11:25

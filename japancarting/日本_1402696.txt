@@ -1,0 +1,16 @@
+REGIN:日本
+ID:1402696
+TITLE:东京附近有赤坂亭等日本自助料理吗
+DESC:东京附近有赤坂亭等日本自助料理吗，或者类似的自助餐厅也可以介绍，东京附近的
+TAGS:美食#餐厅#日本#东京#
+PUBTIME:2014-08-13 11:33:23
+RETRESSIZE:3
+RETRES_0_CONTENT:大瑶熊LV.25指路人东京东京的自助餐厅还真不多，日本是以服务文明的，怎么能让您自助呢，呵呵。
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 2014-08-13 15:21
+RETRES_1_CONTENT:小芯带你游东京LV.3日本自助料理也有，不过不是铁板烧，推荐台场日航酒店内的自助餐。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2014-08-15 15:06
+RETRES_2_CONTENT:一直特立独行的猪LV.5赤坂亭本店就在东京赤坂见附站旁边
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 20小时前

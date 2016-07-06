@@ -1,0 +1,15 @@
+REGIN:日本
+ID:1350662
+TITLE:求东京铁塔周边吃货必去的美食店
+DESC:如题！~求东京铁塔周边步行15分钟可到范围的吃货必经目的地！
+
+日本有没有类似大众点评一样的网站的阿？
+TAGS:美食#东京#
+PUBTIME:2014-08-01 10:16:24
+RETRESSIZE:2
+RETRES_0_CONTENT:Justin段LV.17其实在东京的感觉是随便逛，路边哪一家进去都是绝对美食，不用刻意找某一家。旁边JR滨松汀车站楼下有一排小吃店，多数是本地人去光顾的，可以去感受下
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2014-08-03 10:55
+RETRES_1_CONTENT:Ninomae_jyuyichiLV.14http://tabelog.com/  这个网址类似，能找吃的
+RETRES_1_CNTZAN:4
+RETRES_1_PTIME:发布于 2014-08-01 11:36
