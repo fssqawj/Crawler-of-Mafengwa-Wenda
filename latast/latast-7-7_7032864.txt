@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7032864
+TITLE:中央车站怎么去马六甲
+DESC:我住在中央车站旁的中环酒店，请问怎么去马六甲？
+TAGS:马六甲#交通#
+PUBTIME:2016-07-07 13:29:47
+RETRESSIZE:1
+RETRES_0_CONTENT:加加LV.20指路人从中央车站KTM 火车到南湖车站(bandar tasek selatan),车票2.4马币。然后在南湖车站买到马六甲的车票。这是部分巴士公司的时间表。车票大约10至12马币。 推荐坐kkkl， delima 的巴士，比较舒服。
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 5小时前

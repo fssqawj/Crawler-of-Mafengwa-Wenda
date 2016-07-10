@@ -1,0 +1,28 @@
+REGIN:latast-7-7
+ID:7032721
+TITLE:韩国游玩用得着身份证吗
+DESC:酒店住宿，购物其他方便需要身份证吗
+TAGS:韩国#身份证#
+PUBTIME:2016-07-07 13:14:29
+RETRESSIZE:7
+RETRES_0_CONTENT:韩游网LV.33指路人首尔基本上是用不到的，出国的话护照就是身份证明，国内的身份证在国外是不具有法律效益的酒店住宿、购物、景点参观什么的都不需要身份证，需要核实身份的时候只需要护照就可以了。不过过海关或者办理值机的时候可能需要身份证，不过这种情况很少，我本人确实有用过，但不是每一次都用。以防万一还是带上吧，有备无患嘛
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 7小时前
+RETRES_1_CONTENT:哈哈GDLV.21不用的  国外的话都是看护照的，如果楼主抵达国内之后需要坐高铁或者动车，那身份证就带着
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 6小时前
+RETRES_2_CONTENT:在韩故事LV.6身份证基本上用不上了，出国护照更重要，很多地方，比如购物，住宿什么的，出示护照就可以了
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 3小时前
+RETRES_3_CONTENT:SerenaLV.16护照！护照！护照！重要的是说三遍！身份证不需要，护照一定要！买东西的时候开退税单要用的
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 3小时前
+RETRES_4_CONTENT:DOOOOLV.8不用的 到国外旅游 护照就相当于身份证 国内的身份证在外是起不到用处的
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 5小时前
+RETRES_5_CONTENT:张小HighLV.26指路人首尔……国外游玩，都只需要护照！身份证只在国内有效！
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 7小时前
+RETRES_6_CONTENT:涛声依旧LV.27带上护照，把身份证留在家里。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 7小时前

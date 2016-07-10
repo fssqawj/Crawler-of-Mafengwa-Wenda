@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6978241
+TITLE:新宿，池袋，哪里有潮牌街
+DESC:大品牌，大百货都逛完了，想逛逛潮牌店
+TAGS:新宿#
+PUBTIME:2016-07-01 11:43:12
+RETRESSIZE:2
+RETRES_0_CONTENT:天堂流泪LV.17指路人亲您好 回答您的问题 潮牌街的话 新宿池袋都不太好使 建议去原宿涩谷看看 池袋新宿基本都是大商场 古着店 电器商场 之类的
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 8小时前
+RETRES_1_CONTENT:DrogbyLV.30指路人两个地方比较潮，新宿附近的原宿表参道，还有就是下北泽
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 8小时前

@@ -1,0 +1,10 @@
+REGIN:日本
+ID:6961900
+TITLE:请问想去日本买乐高和变形金刚应该在哪逛？
+DESC:打算去日本玩，很想去看看乐高和变形金刚，请大家帮忙给指点个卖玩具比较集中的地方，谢谢啦！
+TAGS:日本#
+PUBTIME:2016-06-29 17:27:43
+RETRESSIZE:1
+RETRES_0_CONTENT:DrogbyLV.30指路人日本东京秋叶原电器街比较适合，各种玩具模型以及电玩等。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2天前

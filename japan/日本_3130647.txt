@@ -1,0 +1,34 @@
+REGIN:日本
+ID:3130647
+TITLE:日本通讯问题怎么解决，怎么用微信呢
+DESC:日本通讯问题怎么解决，怎么用微信，
+TAGS:通讯#行程#日本#
+PUBTIME:2015-08-04 15:35:35
+RETRESSIZE:9
+RETRES_0_CONTENT:不惑人生LV.45指路人奖励10蜂蜜题主采纳从国内租好wifi egg带过去用吧，随时可以上网刷朋友圈，可以随时查询google地图里的乘车路线。我租的环球漫游这家的，机场可以取还，比较方便，价格也不贵。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2015-08-04 15:42
+RETRES_1_CONTENT:MARMARMARMLV.3三种办法 开漫游 买当地卡 租wifi开漫游上网价格太高昂 我是学生党 不敢试这个 没经验不谈买当地卡 看看你手机什么型号 而且日本卡gsm也没有给短期游客的 买了也是纯上网卡wifi的话 去日本我最推荐这个 人多的话更方便 大家一块上网啊您也能根据自己情况再看
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 1天前
+RETRES_2_CONTENT:环岛旅行LV.7去日本租WiFi是最合算的，十几块钱一天，网速快，几个人一起的话更合算，分摊下来一天就几块钱。我去的时候租的是国际一号线的，信号很好，关键是不用交500的押金
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2015-08-04 17:04
+RETRES_3_CONTENT:大瑶熊LV.25指路人http://www.vipwifi.com/product/11000.html网上支付，机场取。1天13元，多人使用。推荐！千万别到机场租，经常没货。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2015-08-05 11:05
+RETRES_4_CONTENT:途风网LV.16短期去日本还是长期，短期的话，漫游是可以的，长期你最好办一个本地的号，漫游太贵了，一般地，当然能不能用还取决于你手机的网络制式。
+RETRES_4_CNTZAN:3
+RETRES_4_PTIME:发布于 2015-08-05 21:07
+RETRES_5_CONTENT:Joyce.WLV.3楼主什么时候后去日本，人多的话来得及建议租wifi机子，2-3个人的话建议在淘宝上买达摩卡，7天无限流量
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2015-08-04 15:37
+RETRES_6_CONTENT:姝懿LV.6同问，我们两人准备月底去大阪、北海道，来回13天，是租用无线WIFI机子还是买手机上网卡啊。。。好混乱。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2015-08-05 14:39
+RETRES_7_CONTENT:楷夫都都LV.3请问日本一周，樱花卡和达摩卡哪个好用？
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 1天前
+RETRES_8_CONTENT:newnLV.22指路人有很多移动wifi。 信号很好。
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2015-08-04 15:41

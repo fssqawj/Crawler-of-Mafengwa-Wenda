@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7034304
+TITLE:请问各路大神，从关西空港到京都站，返程是从新大阪站到关西空港，哪种交通最方便？往返套票可以用吗
+DESC:RT!
+TAGS:大阪#交通#京都#
+PUBTIME:2016-07-07 15:43:44
+RETRESSIZE:2
+RETRES_0_CONTENT:TORO VAN DAKOLV.23指路人日本你好哦，从关西机场到京都  一共3条路线可选。1.坐JR，这个最快最方便。从关西机场乘坐JR线的快速电车HARUKA，直接到京都  站，全程1小时16分，票价3370日元（指定席价格）。2.机场大巴：直接到京都  站，一般1个半小时左右能到 ，票价2550日元。3.南海本线（稍微有些折腾）：在南海电车窗口购买関空ちかトクきっぷ，到京都  票价1200日元，这个需要换乘的，需要在先在天下茶屋下车，换乘阪急线到淡路，再换车到京都  河源町下车。具体可以参考一下如下。http://www.nankai.co.jp/traffic/otoku/chikatoku.html新大阪站到关西空港新大阪的话，乘地铁御筋堂线到难波站（namba），乘南海本线直达关西空港  的火车你可以考虑买一种ICOCA＆HARUKA的优惠套票，内含HARUKA的往返票+ICOCA的1500日元充值卡+ICOCA的500日元押金，非常划算的。ICOCA是类似于交通充值卡，可适用于所有的电车线路，如果1500日元用完，可以再继续充值使用的，余额和押金都是可以退的，但是需要收取手续费。220元日币，具体的内容可以参考一下这个。https://www.westjr.co.jp/global/tc/travel-information/pass/icoca-haruka/小气少年也有很具体的介绍哦，可以查阅一下http://nicklee.tw/?p=837希望对你有帮助！旅途愉快啊！
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3小时前
+RETRES_1_CONTENT:古惑新人LV.1这两条路线推荐给你。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 4小时前

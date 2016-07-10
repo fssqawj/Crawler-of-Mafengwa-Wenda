@@ -1,0 +1,157 @@
+REGIN:日本
+ID:247862
+TITLE:在东京使用哪个网络地图软件比较好，是显示中文吗？谢谢
+DESC:打算自由行去东京，想提前下载个网络地图以免迷路，请问使用哪款比较好啊？显示的是中文还是日文啊？只要输入起始地和目的地就会显示所有方法吗？比如步行怎么去、公交地铁怎么坐、自驾怎么开。
+TAGS:网络#语言#东京#
+PUBTIME:2014-02-25 15:21:01
+RETRESSIZE:50
+RETRES_0_CONTENT:北寺LV.16奖励10蜂蜜题主采纳我们当时用的就是google map，挺好用的。怎么转车，包括公交车大概几点几分会到站都可以查到。唯一的小问题就是标注公交车站位置不太准确，有时会标记到马路中间，得自己到路口去找，但步行路线什么的就不会有这种问题。另外，强烈推荐到日本后在车站或旅行咨询处拿一份公交地图，有时根本不需要上网，看地图查询就非常方便了。
+RETRES_0_CNTZAN:33
+RETRES_0_PTIME:发布于 2014-03-14 21:10
+RETRES_1_CONTENT:檬檬萌LV.26指路人我有写一个日本交通APP的帖子，你可以根据上面的喜好筛选，从地铁、JR、公交都有，注册日本app store，下载就行，不需要日语基础，如果不放心，可以下载翻译官app，我把二维码放上去了，你可以直接扫描下载。地址在这里，希望对你有帮助。http://www.mafengwo.cn/i/2971539.html
+RETRES_1_CNTZAN:46
+RETRES_1_PTIME:发布于 2014-03-13 21:16
+RETRES_2_CONTENT:灵敏死胖子LV.35金牌大师在国内google map 可能赶不上什么百度或者高德地图，但是出了国门google map and earth 就是最好用的。在东京，如果你的网络给力，google map 的街景图，你是永远也不会迷路的。当然也可以到日本后，从google play 上面下载一些本地的软件来用，据我所知有很多东京的地铁，巴士，的地图可以下载。也可以在国内的网站上查一下。就不用到日本先找了！
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2014-03-29 22:01
+RETRES_3_CONTENT:心的旅程LV.15我有写一个日本交通APP的帖子，你可以根据上面的喜好筛选，从地铁、JR、公交都有，注册日本app store，下载就行，不需要日语基础，如果不放心，可以下载翻译官app，我把二维码放上去了，你可以直接扫描下载。地址在这里，希望对你有帮助。http://www.mafengwo.cn/i/2971539.html
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2015-03-10 08:25
+RETRES_4_CONTENT:聆風沐雪LV.19建议除了平板和手机上的各种地图（谷歌、高德、百度等）外，最好买一张详尽的日本旅行地图和东京市区地图，如果，你看得懂地图对地图比较了解的话，像德国人就很普遍对地图地理很擅长，他们不用问人看看地图就会知道路途。国人应该好好学习下人家。
+RETRES_4_CNTZAN:2
+RETRES_4_PTIME:发布于 2014-03-02 17:20
+RETRES_5_CONTENT:散尘-ZeepengLV.18建议除了平板和手机上的各种地图（谷歌、高德、百度等）外，最好买一张详尽的日本旅行地图和东京市区地图，如果，你看得懂地图对地图比较了解的话，像德国人就很普遍对地图地理很擅长，他们不用问人看看地图就会知道路途。国人应该好好学习下人家。
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2014-12-31 14:27
+RETRES_6_CONTENT:太湖珍珠LV.20日文有一些字和中文是一样的，如果能认出日文的大概意思又有WIFI的话，我还是建议到了日本下载个免费的交通换乘APP,用起来绝对比在国内下好的更方便准确。要是没有WIFI的话，也有一款东京离线地图APP还不错，虽然收费，但是不贵。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2014-02-25 15:55
+RETRES_7_CONTENT:Sunnie ☆彡LV.17google maps啊！太好用了。公共交通路线还是按时段来的，下一班车几时几分，一目了然。花费也很清楚。是快车还是慢车，要花多久到要花多少钱等等。没有google，我坐地铁票都买不清楚，因为算不清楚要几个钱...
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2014-08-11 01:38
+RETRES_8_CONTENT:qimingtongLV.17如果英文可以的话，推荐使用Google地图，地名用罗马拼音输入，而且Google地图还会告诉你用什么交通工具，很方便的。如果懂日语能下一个Yahoo换乘APP就更好了，据说这个更准一些。
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2014-02-25 16:01
+RETRES_9_CONTENT:爱玩耍的小蜜蜂LV.3楼主，如果到日本遇到语言障碍，推荐一个利器，微信公共号“外语立刻说”。输入你想说的中文，它可以自动翻译成日语以及相对应的汉字谐音，这样通过说汉字谐音直接与日本人对话，
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2014-10-09 12:48
+RETRES_10_CONTENT:静米子籽LV.20个人觉得是google map比较好用，但是肯定是日文版的，我之前去马来西亚泰国韩国都是用google map的。不过每到每个地方去，都要先拿一份当地的地图。
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2014-09-14 11:06
+RETRES_11_CONTENT:lrinnLV.15在日本建议使用google map,设置中文即显示，事先还可以下载所需离线地图（区域范围），还可以出门前设好行程线路来导航，实时中文预报走向，不需要在线。
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2014-06-26 08:33
+RETRES_12_CONTENT:东京地接Q微11620907LV.9谷歌百度都可以的、只要移动Wi-Fi给力都挺快的、我在日本用的Google比较多、主要有三D街景很方便、找地方一找一个准！
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2014-11-05 12:46
+RETRES_13_CONTENT:悟道童子LV.17比较推荐Google地图，在当地还是比较实用的，到了当地还可以买一份当地的地图，这样不用流量还比较方便直观。
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2014-09-29 10:04
+RETRES_14_CONTENT:jacquelynLV.17在国外都是用Googlemap比较准哦有个日本app navitime还不错 是line的那间公司出的
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2014-06-08 23:49
+RETRES_15_CONTENT:abbyLV.16苹果自带的地图有时也会出错，我就被带的绕了很多弯路。google地图不错，下载个关联软件还可以查地铁路线
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2015-06-17 09:23
+RETRES_16_CONTENT:suiuu.comLV.11可以下载东京地铁的官方app，会用字母加数字的方式显示地名，跟Google Map的日文显示比更好理解。
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2015-07-13 10:58
+RETRES_17_CONTENT:立白喵喵喵LV.2谷歌就不用说了~还有一款叫探途的，探途离线地图。在家里用WiFi下载好久可以了，中文的，也不怕没信号~
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 1天前
+RETRES_18_CONTENT:T_貓_TLV.16只要出了大陆google map一定是最佳选择，地点标注的是日语地名的英文写法，可能看着会有些不习惯
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 2015-09-02 10:56
+RETRES_19_CONTENT:想自由的BWLV.19根据最近的经验，建议选择蝉游记，非常方便。但是只有ios可以用，特别推荐。它最新的功能是可以导航哈。
+RETRES_19_CNTZAN:0
+RETRES_19_PTIME:发布于 2014-03-28 21:27
+RETRES_20_CONTENT:VeronicaLV.14google不错，只要3G网络就可以很清楚的标注你在哪里，要去的地方怎么走。前提是你有方向感的存在哈
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2014-07-13 12:43
+RETRES_21_CONTENT:breezeLV.17现在maps me的ios正在限免，下载离线地图，英文显示，在没有wifi的情况下还是不错的。
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2014-08-20 10:20
+RETRES_22_CONTENT:糖水妞LV.17在国外我都用谷歌地图，确实很好用，英文渣的话看起来吃力点，我就很吃力，还是坚持用哈哈哈
+RETRES_22_CNTZAN:0
+RETRES_22_PTIME:发布于 2016-02-29 00:21
+RETRES_23_CONTENT:NatureChanLV.13google以及乘换案内NAVITIME超级好用，后者可以标注清晰需要多少花费，很赞
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2016-04-14 15:18
+RETRES_24_CONTENT:精致小女人LV.8高德地图。随便找个有WIFI的店刷一下就好。另外日本有99人民币3G的流量卡。很实用
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2014-06-19 08:47
+RETRES_25_CONTENT:兔兔LV.17google map 最实用了，出国的话手机一定要在下载个翻译的软件，这样更放心！
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2015-07-22 09:25
+RETRES_26_CONTENT:モロボシ・ダンLV.10google map和yahoo 日本都是可以的，相对而言yahoo日本更详细些
+RETRES_26_CNTZAN:0
+RETRES_26_PTIME:发布于 2014-09-07 11:39
+RETRES_27_CONTENT:土豆挖俩眼LV.16google map~~或者找一下旅游网站 下载一些地铁的中英日对比地铁图~~
+RETRES_27_CNTZAN:0
+RETRES_27_PTIME:发布于 2014-07-12 09:20
+RETRES_28_CONTENT:哗啦啦LV.22明显是google 国外基本都在用这个，你在国内下个中文版的就行，全球都可以用
+RETRES_28_CNTZAN:0
+RETRES_28_PTIME:发布于 2015-06-29 08:28
+RETRES_29_CONTENT:麋鹿LV.25指路人GOOGLE还是蛮好用的，世界通用，只是在中国偏移比较大！其他国家没有问题的！
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2014-07-07 01:09
+RETRES_30_CONTENT:小云叔叔LV.19谷歌地图全世界通用，前提你先在国内下个中文版出去啊，朋友！！！！！！！！1
+RETRES_30_CNTZAN:0
+RETRES_30_PTIME:发布于 2015-03-08 17:05
+RETRES_31_CONTENT:言午LV.16Google map非常好用！
+RETRES_31_CNTZAN:4
+RETRES_31_PTIME:发布于 2014-12-21 21:40
+RETRES_32_CONTENT:泠泠夏末雨LV.18只有谷歌地图了，出国前先装好，下飞机换卡后或连wif就直接可以用了。
+RETRES_32_CNTZAN:0
+RETRES_32_PTIME:发布于 2015-02-14 22:39
+RETRES_33_CONTENT:billykimLV.15GOOGLE地图，当然也可以推荐“换乘案内”，不过这个要输入繁体字。
+RETRES_33_CNTZAN:0
+RETRES_33_PTIME:发布于 2015-11-03 02:36
+RETRES_34_CONTENT:西瓜在路上LV.16都推荐Google地图，我在国内查日本的路线也用Google，挺好的
+RETRES_34_CNTZAN:0
+RETRES_34_PTIME:发布于 2014-07-21 10:00
+RETRES_35_CONTENT:博文LV.12google map 发现谷歌在哪都非常好用~
+RETRES_35_CNTZAN:2
+RETRES_35_PTIME:发布于 2015-08-05 08:45
+RETRES_36_CONTENT:yuki_liLV.11个人推荐雅虎日本和google map一起用 地铁路线的话乘换案内
+RETRES_36_CNTZAN:0
+RETRES_36_PTIME:发布于 2016-05-31 19:59
+RETRES_37_CONTENT:见书求生LV.11Google,Google,Google,准确无误，值得信赖.
+RETRES_37_CNTZAN:0
+RETRES_37_PTIME:发布于 2014-04-16 23:05
+RETRES_38_CONTENT:供应部 苏建华LV.9google map，各种交通方式与转乘都没有问题，中文显示
+RETRES_38_CNTZAN:0
+RETRES_38_PTIME:发布于 2014-08-12 08:35
+RETRES_39_CONTENT:陶_丁LV.13出国只有google地图，提前下载国家或者地区的离线包即可。
+RETRES_39_CNTZAN:0
+RETRES_39_PTIME:发布于 2014-09-16 12:25
+RETRES_40_CONTENT:剑侠情缘LV.13诺基亚的吧，挺不错的，可以离线，谷歌下载一个区域的再出发
+RETRES_40_CNTZAN:0
+RETRES_40_PTIME:发布于 2014-07-27 09:24
+RETRES_41_CONTENT:倘若非月LV.17推荐用tripadvisor其实，适合不太会看地图的人
+RETRES_41_CNTZAN:0
+RETRES_41_PTIME:发布于 2015-06-04 09:42
+RETRES_42_CONTENT:殿下LV.11当然是Google map，中文的，只要出了中国都好用
+RETRES_42_CNTZAN:0
+RETRES_42_PTIME:发布于 2014-12-11 19:14
+RETRES_43_CONTENT:foxInSHLV.10Google  Map
+RETRES_43_CNTZAN:3
+RETRES_43_PTIME:发布于 2014-08-07 14:23
+RETRES_44_CONTENT:娃娃为你笑LV.15可以google map，或是mapswithme
+RETRES_44_CNTZAN:0
+RETRES_44_PTIME:发布于 2014-03-02 17:12
+RETRES_45_CONTENT:飞翔的羽毛球LV.5这个地图在国外完全可以用的啊，我已经试过了，呵呵！
+RETRES_45_CNTZAN:0
+RETRES_45_PTIME:发布于 2014-11-05 02:51
+RETRES_46_CONTENT:芸儿LV.24强烈推荐到日本后在车站或旅行咨询处拿一份公交地图。
+RETRES_46_CNTZAN:0
+RETRES_46_PTIME:发布于 2015-08-12 14:31
+RETRES_47_CONTENT:¤怪蜀┰┗黍²ºLV.8谷歌地图+乘换案内+繁体输入法基本可以解决所有问题
+RETRES_47_CNTZAN:0
+RETRES_47_PTIME:发布于 2015-02-19 17:44
+RETRES_48_CONTENT:GoodBye_超载LV.21google map 就够用了，时间也掐的很准！
+RETRES_48_CNTZAN:0
+RETRES_48_PTIME:发布于 2015-06-04 10:20
+RETRES_49_CONTENT:遊子LV.30指路人Navitime APP上,你要的訊息都可以查到
+RETRES_49_CNTZAN:0
+RETRES_49_PTIME:发布于 2014-04-18 17:43

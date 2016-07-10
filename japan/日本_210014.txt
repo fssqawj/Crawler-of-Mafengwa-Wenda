@@ -1,0 +1,19 @@
+REGIN:日本
+ID:210014
+TITLE:东京那里的迪斯尼的门票可以在哪买到？
+DESC:想在东京玩的时候去一下迪士尼，有人说门票可以在东京的市区买到，但是不知道具体在哪。有人知道么？谢谢。
+TAGS:门票#迪士尼#景点#东京#
+PUBTIME:2014-01-22 00:19:55
+RETRESSIZE:4
+RETRES_0_CONTENT:kidoLV.45奖励10蜂蜜题主采纳Family Mart （东京满大街到处都有的连锁便利店）有售，直接跟店员说你要买“disney ticket”就可以了~ 这里需要注意的是，东京disney分为【land】和【sea】两种，注意说清你要去哪个哈
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2014-01-27 11:10
+RETRES_1_CONTENT:灿烂90后LV.2客路这个还可以，我买了http://www.klook.com/zh-CN/activity/589-tokyo-disneyland-japan/
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2016-01-05 18:35
+RETRES_2_CONTENT:南国野狼LV.17大黑屋这里有，我上次直接买的，不用等候很久。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2014-01-22 05:27
+RETRES_3_CONTENT:御厨lzjLV.18seven-eleven 这里就可以。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2014-01-22 01:59

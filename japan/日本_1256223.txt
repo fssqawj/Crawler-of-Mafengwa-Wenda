@@ -1,0 +1,37 @@
+REGIN:日本
+ID:1256223
+TITLE:请问去日本旅游时需要带插座转换器吗？
+DESC:请问去日本旅游时需要带插座转换器吗？
+TAGS:日本#
+PUBTIME:2014-07-10 15:42:42
+RETRESSIZE:10
+RETRES_0_CONTENT:流浪の海盗LV.13奖励10蜂蜜题主采纳一般手机，笔记本都不可以用，不用带转换器，如果需要别的电器，请带转换器，另外，楼主可以看一下自己的电器，如果是110-220v的插头，全部都可以通用，前提是双孔扁插头
+RETRES_0_CNTZAN:8
+RETRES_0_PTIME:发布于 2014-07-11 08:53
+RETRES_1_CONTENT:漫兔兔LV.5首先，日本的插销孔都是2个扁头的，最简单的，离的很近的那种~其次，看下你需要充电的设备，比如iphone那个2孔的，就不用带~可以用的，充电设备多数都是100-220的交流电，上面会写~这就不用转换插头了，电脑的话就要带了。不过日本的酒店都好人性化的，一般房间里都有国际通用的那种，就算没有，你找酒店借一个也可以~
+RETRES_1_CNTZAN:3
+RETRES_1_PTIME:发布于 2014-07-10 18:50
+RETRES_2_CONTENT:xmlxmlLV.3出国都要带，小东西大麻烦。不然就自助订房吧，咨询好了再决定。http://jingyan.baidu.com.artcle.screwist.com/link.php?v=hotel
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 2015-02-27 13:40
+RETRES_3_CONTENT:文兄LV.23我刚从日本回来，走之前，在中国的五金店买到了转换插头，一个5元，日本的电源插头是双孔扁插头。在日本的民宿、酒店都用了，可以给相机SONY、手机华为P6充电
+RETRES_3_CNTZAN:4
+RETRES_3_PTIME:发布于 2015-02-27 23:26
+RETRES_4_CONTENT:zhutianeLV.221,需要带，最好带个蚂蜂窝万国插座（淘宝）2，需要变压器，日本是100v或者110v电压的。。。
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2014-07-10 18:43
+RETRES_5_CONTENT:StayfatLV.11最好自带插座转换器, 日本插座是2脚圆头的, 国内有些电器是三脚的, 就用不了的,建议自带.
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2014-08-09 16:55
+RETRES_6_CONTENT:anargLV.7需要，日本都是110V，双孔扁插头。所有240v，圆头，三向的都用不了。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2014-07-10 18:14
+RETRES_7_CONTENT:墨認LV.5要带的，我们所用的都是220V的电源，要转换成110V的
+RETRES_7_CNTZAN:1
+RETRES_7_PTIME:发布于 2014-07-10 18:52
+RETRES_8_CONTENT:哈哈LV.9带吧
+RETRES_8_CNTZAN:1
+RETRES_8_PTIME:发布于 2014-07-10 18:45
+RETRES_9_CONTENT:邵爷小七LV.15不需要~
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2014-08-09 16:50

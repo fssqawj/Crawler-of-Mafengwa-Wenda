@@ -1,0 +1,709 @@
+ <!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的... - 蚂蜂窝</title>
+<meta name="description" content="" />
+<meta name="keywords" content="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的..." />
+
+<script type="text/javascript">
+window.Env = {"WWW_HOST":"www.mafengwo.cn","IMG_HOST":"images.mafengwo.net","P_HOST":"passport.mafengwo.cn","P_HTTP":"https:\/\/passport.mafengwo.cn","UID":0,"CSTK":"8a3dcd5ed9d285c89bbe9f66f1af1bef_08bb8be0a346c27c0179efd5cfd5b837"};
+</script>
+
+<link href="http://css.mafengwo.net/css/cv/css+base:css+jquery.suggest:css+plugins:css+plugins+jquery.jgrowl:css+other+popup:css+app+topbar_v2^alw^1466649267.css" rel="stylesheet" type="text/css"/>
+
+
+<link href="http://css.mafengwo.net/css/cv/css+mfw-ask+detail_v2:css+mfw-ask+img_pop:css+mfw-ask+detail_answer_foldup:css+mfw-ask+upload_pics^al0^1467192595.css" rel="stylesheet" type="text/css"/>
+
+<script language="javascript" src="http://js.mafengwo.net/js/cv/js+jquery-1.8.1.min:js+global+json2:js+M+Module:js+M+M:js+M+Log:js+m.statistics^ZFw^1467187761.js" type="text/javascript"></script>
+
+</head>
+<body>
+    
+    <div class="topBar">
+        <div class="topBarC">
+            <div class="logo"><a title="蚂蜂窝自由行" href="/">蚂蜂窝自由行</a></div>
+            <div class="t_nav">
+                <ul id="pnl_nav" data-cs-t="headnav_wo">
+                    <li data-cs-p="index">
+                        <strong class="t"><a href="/">首页</a></strong>
+                    </li>
+                    <li data-cs-t="wenda" data-cs-p="wenda">
+                        <strong class="t"><a data-cs-p="from_wo_nav" href="/wenda/">问答</a></strong>
+                    </li>
+                    <li data-cs-t="things" data-cs-p="things">
+                        <strong class="t"><a data-cs-p="from_wo_nav" href="/mall/things.php">蚂蜂窝周边</a></strong>
+                    </li>
+                    <li data-cs-p="together">
+                        <strong class="t"><a href="/together/">结伴</a></strong>
+                    </li>
+                    <li data-cs-p="group">
+                        <strong class="t"><a href="/group/">小组</a></strong>
+                    </li>
+                    <li data-cs-p="mall">
+                        <strong class="t"><a href="/mall/">蜂蜜兑换</a></strong>
+                    </li>
+                    <li class="drop" data-cs-p="other">
+                        <strong class="t"><a href="/app/hun.php">更多<b></b></a></strong>
+                        <div class="c">
+                            <a href="/rent/" target="_blank">当地人</a>
+                            <a href="/focus/" target="_blank">真人兽</a>
+                            <a href="/postal/" target="_blank">游记纪念工厂</a>
+                            <a href="/school/" target="_blank">蚂蜂窝高校</a>
+                            <a href="/photo_pk/pk.php" target="_blank">照片PK</a>
+                            <a href="/auction/" target="_blank">蚂蜂窝拍卖行</a>
+                            <a href="/radio/" target="_blank">旅行电台</a>
+                            <a href="/club/" target="_blank">蜂首聚乐部</a>
+                            <a href="/home/vip_show.php" target="_blank">VIP</a>
+                            <a href="/game/wager.php" target="_blank">分歧终端机</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="t_search">
+                <form method="GET" action="/group/s.php" name="search">
+                    <input type="text" class="key" value="" name="q" id="word">
+                    <input type="submit" value="" class="btn">
+                </form>
+            </div>
+
+            <div class="t_info">
+                                    <div class="no_login">
+                        <span><a href="http://passport.mafengwo.cn">登录</a> / <a href="http://passport.mafengwo.cn/regist.html">注册</a></span>
+                        <a class="login-qq" href="http://passport.mafengwo.cn/qq"></a>
+                        <a class="login-weibo" href="http://passport.mafengwo.cn/weibo"></a>
+                        <a class="login-renren" href="http://passport.mafengwo.cn/renren"></a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    
+
+
+
+
+<div class="wrapper" data-cs-t="wenda" data-qid="1015493" data-uid="84072906" id="_js_wrapper">
+    <div class="detail-wrap clearfix">
+        <!-- 问答主要内容 -->
+        <div class="col-main">
+            <!-- 面包屑导航 -->
+            <div class="crumb">
+                <a href="/wenda/" target="_blank">蚂蜂窝问答</a> &gt; <span>之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的...</span>
+            </div>
+            <!-- 搜索区域 -->
+            <div class="search-box">
+                <script>
+    var suggest_default = '提问前请先搜索，看看你的问题其他蜂蜂是否已经问过';
+</script>
+
+ <div class="search-panel">
+    <div class="clearfix _j_suggest_hd">
+        <div class="sp-input"><input type="text" class="_j_suggest" value="提问前请先搜索，看看你的问题其他蜂蜂是否已经问过" data-mddid="0"></div>
+        <input type="button" class="_j_search sp-button" data-cs-p="suggest_goto_search" data-mddid="0">
+    </div>
+    <div class="bd _j_suggest_box hide">
+    </div>
+</div>
+
+
+            </div>
+            <!-- 问题区域 -->
+            <div class="q-detail" id="_js_askDetail">
+                <div class="q-content">
+                    <div class="q-title">
+                        <a href="/wenda/area-10923.html" target="_blank" class="location"><i></i>拉斯维加斯</a>
+                        <h1>之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？</h1>
+                        
+                    </div>
+                    <div class="q-desc">之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？</div>
+                    <div class="q-info1 clearfix">
+                        <div class="q-tags fl">
+                                                            <a class="a-tag" href="/wenda/tag-1829.html" target="_blank">费用</a>
+                                                            <a class="a-tag" href="/wenda/tag-1370.html" target="_blank">活动</a>
+                                                    </div>
+                        <div class="pub-bar fr">
+                            <a href="/wenda/u/84072906.html" class="photo" target="_blank"> <img src="http://file20.mafengwo.net/M00/D8/2E/wKgB3FICDbWAa7DGAAKoVUfO13M98.head.w48.jpeg" width="16" height="16"></a>
+                            <a class="name" href="/wenda/u/84072906.html" target="_blank">babyg</a>
+                            <span class="time">2014-04-20 22:30:01</span>
+                        </div>
+                    </div>
+                                    </div>
+
+                
+                <div class="q-operate clearfix">
+                    <div class="fl">
+                        <div class="q-share">
+                            <a  class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                            <div class="share-pop _j_share_pop hide clearfix" data-title="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？" data-qid="1015493">
+                                <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_q" data-cs-l="/wenda/detail-1015493.html" data-cs-d="wb"></a>
+                                <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_q" data-cs-l="/wenda/detail-1015493.html" data-cs-d="qz"></a>
+                                <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_q" data-cs-l="/wenda/detail-1015493.html" data-cs-d="wx"></a>
+                            </div>
+                        </div>
+                        <div class="seek-help _j_tip_box">
+                            <a class="_j_seek_help_new" data-cs-p="show_seek_help" mdd_name='拉斯维加斯' qid='1015493' data-cs-p="show_seek_help">邀请蜂蜂回答</a>
+                                                        <div class="txt-tips" style="display: none;"  data-tip="invite">
+                                <b class="arrow"><i></i></b>
+                                <i class="close _j_close_tip">&times;</i>
+                                <p>邀请的蜂蜂答案如被采纳，您也能获得5蜂蜜！</p>
+                            </div>
+                                                    </div>
+                        <div class="admin_hide tip-off">
+                            <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-1015493.html" data-refer-uid="84072906" data-app="qa.question">举报</a>
+                        </div>
+                                            </div>
+                    <div class="fr">
+                        <span class="atten-num">1447浏览</span>
+                        <span class="atten-num"><span id="_j_same_num">2</span>人关注</span>
+                                                <a class="btn-atten _j_same_question" rel="nofollow">关注</a>
+                        <a class="btn-answer _j_btn_goanswer" rel="nofollow">回答</a>                                            </div>
+                </div>
+                                <div class="act-pop call_friends _j_seek_help_new_box" style = "display: none;">
+                    <div class="cf_con">
+                        <input type="text" name="" id="help_focus_input" class="call_input" value="@你的好友">
+                        <input class="_j_invite_uid" type="hidden" value="" >
+                        <a href="" class="cf_sure _j_do_invite" title="确定">确定</a>
+                        <ul class="_j_seek_help_new_suggestul">
+                        </ul>
+                    </div>
+                </div>
+                
+            </div>
+
+            <!-- 回答区域 -->
+            <div class="answer-wrap">
+                                <div class="hd"><span id="_j_anum">6</span>个回答</div>
+                
+                <div data-pagelet id="pagelet-block-6cf2437eb1c2ba02c66a98cec68cc268" class="" data-controller="/js/qa/ControllerDetailAnswerList">
+<div class="bd">
+    <ul class="answer-list _j_pager_box">
+    <li class="answer-item clearfix _j_answer_item _js_answer1015792" data-aid="1015792">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/5448621.html" target="_blank"><img  src="http://file29.mafengwo.net/M00/F7/1A/wKgBpVX_rfqASWCxAAnEiBfY0d454.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>15</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/5448621.html" target="_blank">ZYM</a>
+                <a class="level" href="/rank/lv.php?uid=5448621" target="_blank" rel="nofollow">LV.35</a>
+                                                             </div>
+                        <ul class="answer-medal fr">
+                            <li class="best">
+                    <div class="i-tips">奖励<span class="icon"></span>20蜂蜜</div>
+                    <div class="btn"><i></i>题主采纳</div>
+                </li>
+                                            </ul>
+                    </div>
+        <div class="_j_answer_html">这个是在wynn酒店里预定的，Lv街边上就有这个的优惠券。我记得大概是2-500刀不等吧，赛车场的圈开两圈</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？" data-qid="1015493" data-aid="1015792">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1015792" data-cs-d="wb" data-username="ZYM"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1015792" data-cs-d="qz" data-username="ZYM"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1015792" data-cs-d="wx" data-username="ZYM"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-04-20 23:18
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-1015493.html#answer1015792" data-refer-uid="5448621" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5879584" data-aid="5879584">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/559395.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/9F/D3/wKgBs1cROSyAMcemAAfRhWeiav803.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/559395.html" target="_blank">随风飘荡</a>
+                <a class="level" href="/rank/lv.php?uid=559395" target="_blank" rel="nofollow">LV.7</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">你可以去http://www.dreamracing.com看看，是按照跑的圈数收费的。不同的车型价格不一样。赛车场在<div class="area_tags _j_tip_mdd" data-mddid="10923"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10923.html" target="_blank">拉斯维加斯</a><div class="at_info" style="display:none;"></div></div>的东北面，15号公路北往盐湖城方向，从Speedway Blvd出口出去就到了。离Strip大概20分钟车程。</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？" data-qid="1015493" data-aid="5879584">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer5879584" data-cs-d="wb" data-username="随风飘荡"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer5879584" data-cs-d="qz" data-username="随风飘荡"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer5879584" data-cs-d="wx" data-username="随风飘荡"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-04-26 18:23
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-1015493.html#answer5879584" data-refer-uid="559395" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer6403221" data-aid="6403221">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/53222224.html" target="_blank"><img  src="http://file26.mafengwo.net/M00/EF/E1/wKgB4lIornKAfcf2AABMTkWiEzs24.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/53222224.html" target="_blank">Solo柒拚</a>
+                <a class="level" href="/rank/lv.php?uid=53222224" target="_blank" rel="nofollow">LV.10</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">https://www.vegas.com/mytrip/app/Products/tour?10&amp;searchCat=VegasTourAreas:OtherTours<br />
+你可以参考下，貌似限制蛮多的，里程都是有限制的。<br />
+</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？" data-qid="1015493" data-aid="6403221">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer6403221" data-cs-d="wb" data-username="Solo柒拚"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer6403221" data-cs-d="qz" data-username="Solo柒拚"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer6403221" data-cs-d="wx" data-username="Solo柒拚"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-04-30 00:10
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-1015493.html#answer6403221" data-refer-uid="53222224" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer1016490" data-aid="1016490">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/76863646.html" target="_blank"><img  src="http://file26.mafengwo.net/M00/9D/39/wKgB4lLlYCCAP2s9AAAh9bbro7865.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>2</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/76863646.html" target="_blank">conquarY</a>
+                <a class="level" href="/rank/lv.php?uid=76863646" target="_blank" rel="nofollow">LV.11</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">如果真的喜欢，价格其实还能接受。 可以是玩下</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？" data-qid="1015493" data-aid="1016490">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1016490" data-cs-d="wb" data-username="conquarY"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1016490" data-cs-d="qz" data-username="conquarY"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1016490" data-cs-d="wx" data-username="conquarY"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-04-21 07:04
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-1015493.html#answer1016490" data-refer-uid="76863646" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer1015554" data-aid="1015554">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/48011449.html" target="_blank"><img  src="http://file21.mafengwo.net/M00/D5/DB/wKgB3FICDSSAZmHDAAEGGnN5z9s64.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/48011449.html" target="_blank">kayla</a>
+                <a class="level" href="/rank/lv.php?uid=48011449" target="_blank" rel="nofollow">LV.16</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">预订是500起 前几年的价 不知道现在怎样<br />
+但是保险很高</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？" data-qid="1015493" data-aid="1015554">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1015554" data-cs-d="wb" data-username="kayla"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1015554" data-cs-d="qz" data-username="kayla"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1015554" data-cs-d="wx" data-username="kayla"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-04-20 22:39
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-1015493.html#answer1015554" data-refer-uid="48011449" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer1017878" data-aid="1017878">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/38034663.html" target="_blank"><img  src="http://file27.mafengwo.net/M00/1D/E8/wKgB6lQn166ACdqtAADZFf7Nook52.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/38034663.html" target="_blank">阿雅</a>
+                <a class="level" href="/rank/lv.php?uid=38034663" target="_blank" rel="nofollow">LV.18</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">不清楚，建议多看下旅游攻略，对你会有所帮助！</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="之前看到有人说LV有豪车测试赛，我很想玩一下试试~~请问大家，这个怎么预订呢？大概的费用是什么样的？" data-qid="1015493" data-aid="1017878">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1017878" data-cs-d="wb" data-username="阿雅"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1017878" data-cs-d="qz" data-username="阿雅"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-1015493.html#answer1017878" data-cs-d="wx" data-username="阿雅"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-04-21 11:29
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-1015493.html#answer1017878" data-refer-uid="38034663" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+ 
+    </ul>
+</div>
+<div class="_j_pager">
+    
+</div>
+
+</div>
+
+                                <div class="answer-add clearfix _j_word" id="_js_answerText">
+                    <a name="answer"></a>
+                    <div class="aa-user">
+                                                <img src="http://images.mafengwo.net/images/pp48.gif" class="photo">
+                                            </div>
+                    <div class="tit">添加回答</div>
+                    <div class="aa_content _js_forFixTitle">
+                        <div class="aa_operate _js_answerTitle clearfix">
+                            <div class="fl insert-img" >
+                                                                <a  class="aa_addpic " id="_js_upPicBar" ><i></i>添加图片</a>
+                            </div>
+                        </div>
+                        <div class="area">
+                            <textarea name="editor" class="_j_content _j_answer_suggest" id="_js_editorText" placeholder="用自己的【真实经历】作答，而不是网上搜来的信息<br>好回答不一定特长，但一定【不是简单的一两句话】<br>永远替提问者【多想一步】，会加分哦~"></textarea>
+                        </div>
+
+                    </div>
+                    <p class="word-count"> <span class="_j_word_num">0</span> 字</p>
+                    <p class="word-count pics_count hide _js_pics_count">
+                        <span class="_j_pics_num">0</span> 图
+                    </p>
+                    <input class="btn-comment _j_publish_answer" type="button" value="提交回答" data-uid="0" data-is_expert="" data-lv_gt6="">
+                </div>
+                            </div>
+        </div>
+
+
+        <!-- 问答页面侧边栏 -->
+        <div class="col-side">
+            <!-- 我要提问 -->
+            <div class="btn-question">
+                <a href="/qa/publish.php" class="_j_show_login">我要提问</a>
+            </div>
+
+                                                                                <!-- 广告图片 -->
+            <div class="ad-box" data-cs-t="wenda">
+                <div data-pagelet id="pagelet-block-c221682a2142e33388a8e4c8bc1f27bb" class="" data-api=":qa:pagelet:TopRecommendApi" data-params="[]" data-async="1" data-controller="/js/ARecommentQu"></div>
+            </div>
+
+                        <div style="margin-top:0px;margin-bottom: 20px;">
+                <div data-pagelet id="pagelet-block-90b308cdfc78e953c8bb8b48f9805e2f" class="" data-api=":qa:pagelet:ads" data-params="{&quot;mddid&quot;:&quot;10923&quot;,&quot;tags&quot;:[&quot;\u8d39\u7528&quot;,&quot;\u6d3b\u52a8&quot;]}" data-async="1" data-controller=""></div>
+            </div>
+
+            <!-- 相关问题 -->
+            <div data-pagelet id="pagelet-block-71032ba46c77ff3dbe2447ed37a2419a" class="" data-api=":qa:pagelet:RelationQuestionApi" data-params="{&quot;relation_questions&quot;:{&quot;qid&quot;:&quot;1015493&quot;,&quot;mddid&quot;:&quot;10923&quot;,&quot;tids&quot;:&quot;1829,1370&quot;}}" data-async="1" data-controller=""></div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+<script id="_j_qa_picUp_tmpl" type="text/x-jquery-tmpl">
+    <div class="popup-inst">
+        <div class="popup-title">
+            <h2>添加图片</h2>
+        </div>
+        <div class="img-box up_list">
+            <div class="up_pics_wrap">
+                <ul id="_js_upPics">
+                </ul>
+            </div>
+        </div>
+        <div class="upload-pro clearfix">
+            <div class="up-rates">
+                <div style="width:0;" class="run-rates _j_progress"></div>
+            </div>
+            <p><span class="pics_nums"><em class="_j_finishedindex">0</em>/<span class="_j_totalcount"></span></span>张</p>
+            <div class="u-inst" id="_js_inserPics">添加图片</div>
+        </div>
+    </div>
+</script>
+<script id="_j_qa_upPics_tmpl" type="text/x-jquery-tmpl">
+    {{each(i, file) files}}
+    <li class="li_wait" id="_j_photo_${file.id}" data-file_id="${file.id}">
+        <a class="close_ico _j_remove_up mos-into"></a>
+        <div class="cover wait">
+            <p class="cover_pop"></p>
+            <p class="wait_up">等待<br>上传</p>
+            <a class="close_ico _j_remove_up"></a>
+        </div>
+        <div class="cover bar">
+            <p class="cover_pop"></p>
+            <div class="pro_bar"><i></i><span class="per">0%</span></div>
+            <a role="button" class="close_ico _j_stop_up"></a>
+        </div>
+        <div class="cover failure">
+            <p class="cover_pop"></p>
+            <div class="up_failure"><i></i>上传失败</div>
+        </div>
+    </li>
+    {{/each}}
+</script>
+
+
+<script id="_j_picdialog" type="text/x-jquery-tmpl">
+    <div class="stage-wrap">
+        <div class="aload1 _j_loading1"></div>
+        <div class="aload2 _j_loading2"></div>
+        <img class="_j_img" src="">
+    </div>
+</script>
+
+<script type="text/x-jquery-tmpl" id="_j_pagitmpl">
+{{if pageTotal > 1}}
+<div class="page-hotel">
+    <span class="count">共<span>${pageTotal}</span>页 / <span>${total}</span>条</span>
+    {{if currPage > 1}}
+    <a class="prev _j_pageitem" data-page="${currPage - 1}">前一页</a>
+    {{/if}}
+    {{each(i, index) indexers}}
+    {{if index == currPage}}
+    <a class="current">${index}</a>
+    {{else}}
+    <a class="_j_pageitem" data-page="${index}">${index}</a>
+    {{/if}}
+    {{/each}}
+    {{if indexers[indexers.length-1] < pageTotal}}
+    <a class="_j_pageitem" data-page="${pageTotal}">...${pageTotal}</a>
+    {{/if}}
+    {{if currPage < pageTotal}}
+    <a class="next _j_pageitem" data-page="${currPage + 1}">后一页</a>
+    {{/if}}
+</div>
+{{/if}}
+</script>
+
+
+<script>
+    $("body").on("click",'.activity_style_notes .close',function(event){
+        event.preventDefault();
+        $(".activity_style_notes").slideUp();
+    });
+</script>
+<link href="http://css.mafengwo.net/css/mfw-footer.css?1457939959" rel="stylesheet" type="text/css"/>
+
+<div id="footer">
+	<div class="ft-content">
+		<div class="ft-copyright">
+    <div class="ft-safety">
+        <a class="s-a" target="_blank" href="https://search.szfw.org/cert/l/CX20140627008255008321" id="___szfw_logo___"></a>
+        <a class="s-b" href="https://ss.knet.cn/verifyseal.dll?sn=e130816110100420286o93000000&ct=df&a=1&pa=787189" target="_blank" rel="nofollow"></a>
+    </div>
+    <a href="http://www.mafengwo.cn"><i class="ft-mfw-logo"></i></a>
+    <p>© 2016 Mafengwo.cn <a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">京ICP备11015476号</a>   京公网安备110105013401号   京ICP证110318号   新出网证(京)字242号</p>
+    <p>全国统一客服电话：<span class="highlight">4006-345-678</span><a target="_blank" href="http://www.mafengwo.cn/s/sitemap.html" class="highlight m_l_10">网站地图</a></p>
+</div>
+	</div>
+</div>
+
+
+<link href="http://css.mafengwo.net/css/mfw-toolbar.css?1459131121" rel="stylesheet" type="text/css"/>
+
+<div class="mfw-toolbar" id="_j_mfwtoolbar">
+    <div class="toolbar-item-top">
+		<a role="button" class="btn _j_gotop">
+			<i class="icon_top"></i>
+            <em>返回顶部</em>
+		</a>
+	</div>
+	<div class="toolbar-item-feedback">
+		<a role="button" data-japp="feedback" class="btn">
+			<i class="icon_feedback"></i>
+            <em>意见反馈</em>
+		</a>
+	</div>
+	<div class="toolbar-item-code">
+		<a role="button" class="btn">
+			<i class="icon_code"></i>
+		</a>
+		<a role="button" class="mfw-code _j_code">
+            <img src="http://images.mafengwo.net/images/qrcode-weixin.gif">
+		</a>
+        <!--<div class="wx-official-pop"><img src="http://images.mafengwo.net/images/qrcode-weixin.gif"><i class="_j_closeqrcode"></i></div>-->
+	</div>
+    <div class="toolbar-item-down">
+		<a role="button" class="btn _j_gobottom">
+			<i class="icon_down"></i>
+            <em>页面底部</em>
+		</a>
+	</div>
+</div>
+
+
+
+<script language="javascript" type="text/javascript">
+if (typeof M !== "undefined" && typeof M.loadResource === "function") {
+M.loadResource("http://js.mafengwo.net/js/cv/js+AHeaderWo:js+jquery.lazyload:js+M+module+ScrollObserver:js+M+module+Storage:js+M+module+dialog+Layer:js+M+module+dialog+DialogBase:js+M+module+dialog+Dialog:js+M+module+dialog+alert:js+qa+ControllerDetailAnswerList:js+ARecommentQu:js+mSnsShare:js+qa+DoShare:js+qa+qa_module+PreLoadImgs:js+jquery.tmpl:js+qa+Docommon:js+M+module+Cookie:js+M+module+dialog+confirm:js+M+module+FrequencyVerifyControl:js+M+module+FrequencyAppVerify:js+mfwCountdown:js+qa+Dodetail:js+qa+Doselect:js+M+module+Pagination:js+jquery.scrollTo:js+qa+ask_detail_new:js+plugins+wysiwyg+wysiwyg:js+plupload:js+module+uploader+Pluploader:js+plugins+jquery.rotate:js+jquery.mousewheel.min:js+M+module+ScrollBar:js+qa+richTextarea:js+jquery.upnum:js+jquery.jgrowl.min:js+AMessage:js+M+module+FrequencySystemVerify:js+ALogin:js+M+module+QRCode:js+AToolbar:js+ACnzzGaLog:js+ARecruit:js+ALazyLoad^a1NR^1467284263.js");
+}
+</script>
+
+</body>
+</html>

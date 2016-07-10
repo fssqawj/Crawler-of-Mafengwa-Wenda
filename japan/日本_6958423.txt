@@ -1,0 +1,19 @@
+REGIN:日本
+ID:6958423
+TITLE:求助去过北海道的亲们！！北海道八日游，该买哪种jr票
+DESC:行程如下：
+D1:北京-札幌-旭川，住旭川
+D2--D4:游览拼布之路，超广角之路，富田农场，均住旭川
+D5:旭川--函馆
+D6:函馆--登别
+D7:登别--小樽--札幌，住札幌
+D8:札幌--北京
+TAGS:自由行#JR#北海道#
+PUBTIME:2016-06-29 11:23:48
+RETRESSIZE:2
+RETRES_0_CONTENT:散落一地的饼干儿LV.17实习指路人比较推荐北海道  周游券给你。除了北海道  新干线和一部分JR巴士不能乘坐，其他的都可以。你可以选择7日的。这样也省去买札幌  -小樽  之间的WELCOME PASS了~给你官网参考http://www2.jrhokkaido.co.jp/global/cn/railpass/rail01.html官网原价 7日是24000日元 大概1560RMB左右，给你推荐我之前在穷游买周游券的连接，基本上便宜100+人民币而且送来很快，因为自己之前买过，觉得很不错，所以推荐给你http://z.qyer.com/deal/49110/如果我的回答对你有用，希望可以被采纳~
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:嘉怡晨晨LV.10实习指路人有北海道周游JR Pass券，淘宝可以买。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2天前

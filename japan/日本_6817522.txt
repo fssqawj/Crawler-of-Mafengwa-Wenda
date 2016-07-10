@@ -1,0 +1,25 @@
+REGIN:日本
+ID:6817522
+TITLE:日本上网卡都不能用google map吗？
+DESC:过几天去日本，因为要带相机，觉得上网卡更轻松便捷，不想要租随身wifi，哪个卡比较好一些呢？能上Google map的。
+TAGS:网络#日本#
+PUBTIME:2016-06-13 22:01:39
+RETRESSIZE:6
+RETRES_0_CONTENT:Hello WingLV.20实习指路人奖励10蜂蜜题主采纳可以的，之前听说过樱花卡不能登录，是因为是和联通合作好像要先经过联通，被屏蔽了，所以不能登录，如果你直接买当地的上网卡肯定是没问题的，例如B-MOBILE,如果你确实不能登录谷歌地图的APP，那你也可以直接通过浏览器登录google map的网站，直接使用网页版的
+RETRES_0_CNTZAN:5
+RETRES_0_PTIME:发布于 2016-06-14 09:17
+RETRES_1_CONTENT:xxxarlieLV.7当然可以，又不是开的国际漫游的数据包上网卡现在已经没有樱花卡了吧，都是达摩卡和B-Mobile，前者短期10天8天的方便，后者适合半个月以上
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2016-06-17 14:00
+RETRES_2_CONTENT:天地良心LV.9还是随身WiFi可靠啊，上网卡对机器有有讲究，尤其是一些合约机和老款手机，DOCOMO卡用的比较多，可以用google map
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 2016-06-14 01:02
+RETRES_3_CONTENT:默曼LV.4随身WiFi好一点，环球漫游的就能用
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2016-06-16 13:51
+RETRES_4_CONTENT:墨菲·斯托LV.17达摩卡
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2016-06-14 10:27
+RETRES_5_CONTENT:我就叫小东西LV.23可以
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 10小时前

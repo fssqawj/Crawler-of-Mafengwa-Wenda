@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7033770
+TITLE:普吉岛电话卡上网问题。
+DESC:咨询和看游记都是用happy 卡，但是问淘宝的卖家说需要支持联通制式的才能用，我的是移动合约机iphone5S不能用吗？ 那是否有别的方式可以上网？
+TAGS:网络#普吉岛#
+PUBTIME:2016-07-07 14:59:18
+RETRESSIZE:1
+RETRES_0_CONTENT:诗晓歌LV.4happy 卡和ais卡（海岛信号更好）都行。但是合约机和定制机不能用，你可以按下图方式查一下。如果有同行人员的手机是可以用卡的，让他分享热点给你就行，酒店也有WiFi。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3小时前

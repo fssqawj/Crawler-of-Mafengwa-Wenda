@@ -1,0 +1,19 @@
+REGIN:latast-7-7
+ID:7034383
+TITLE:夏天，有什么避暑的好去处？
+DESC:身处杭州，正在感受炎炎夏日，好想找个凉快的地方去潇洒下
+TAGS:景点#乌镇#
+PUBTIME:2016-07-07 15:51:32
+RETRESSIZE:4
+RETRES_0_CONTENT:小他LV.16指路人其实，夏天避暑无非就是爬山、草原或海边... 看看你想选哪个 咱们再推荐
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 4小时前
+RETRES_1_CONTENT:哈库纳玛塔塔LV.16如果没有猜错的话，去不远的浙江境内雁荡山就是避暑的地方吧？
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 3小时前
+RETRES_2_CONTENT:鳗鱼LV.2可以去贵州体验下风土人情····
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 4小时前
+RETRES_3_CONTENT:瓦上雪LV.31指路人杭州去海边吧，凉快些。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2小时前

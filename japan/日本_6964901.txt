@@ -1,0 +1,16 @@
+REGIN:日本
+ID:6964901
+TITLE:皇冠假日冲绳景酒店离国际通远吗
+DESC:皇冠假日冲绳景酒店离国际通多远
+TAGS:酒店#问答#蚂蜂窝#冲绳#交通#
+PUBTIME:2016-06-30 00:11:53
+RETRESSIZE:3
+RETRES_0_CONTENT:newnLV.22指路人Crowne Plaza Ana Okinawa Harborview, 2 Chome-46 Izumizaki, Naha, Okinawa Prefecture 900-0021, Japan 这个酒店吧，去国际通步行15分钟以内
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:天羽手杖LV.24指路人1.不远，就在警察局附近，离城市巴士总站很近；2.出门走过警察局之后的大路口，右转就是县厅、国际通；最多10来分钟就到了。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 1天前
+RETRES_2_CONTENT:柚柚子LV.18指路人不是太远，大概步行15分钟，或者从壶川站坐轻轨直接坐到县厅前站
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 10小时前

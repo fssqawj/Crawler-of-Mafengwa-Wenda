@@ -1,0 +1,31 @@
+REGIN:日本
+ID:6954269
+TITLE:去日本自由行如果不会日语能玩下来吗？
+DESC:马上我就要去日本了，可是本人日语很渣，心里有些害怕希望大神们可以帮忙
+TAGS:自由行#日本#
+PUBTIME:2016-06-28 22:37:46
+RETRESSIZE:8
+RETRES_0_CONTENT:瀚旻LV.17基本上攻略做得好，哑巴也能去自由行。买车票都是自动售票机，入住酒店直接出示打印好的预订单，买门票只要用手指比划数字，点菜有图片，购物有中文导购，查路线有谷歌地图。你还有什么地方需要说话？足够了，基本上攻略做得好，哑巴也能去自由行。买车票都是自动售票机，入住酒店直接出示打印好的预订单，买门票只要用手指比划数字，点菜有图片，购物有中文导购，查路线有谷歌地图。你还有什么地方需要说话？
+RETRES_0_CNTZAN:7
+RETRES_0_PTIME:发布于 3天前
+RETRES_1_CONTENT:СσdìσъLV.19指路人完全没问题，不会日语 就说英语，英语不行就肢体语言，再不行不是还有翻译软件嘛。而且除了中文标示哦，日文本身就有很多中文字，连蒙带猜还是能看懂不少的
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 3天前
+RETRES_2_CONTENT:Sue小QLV.17完全没问题，不会日语 就说英语，英语不行就肢体语言，再不行不是还有翻译软件嘛。而且除了中文标示哦，日文本身就有很多中文字
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 3天前
+RETRES_3_CONTENT:amberstarsLV.14没问题，我去的时候也不会日语，日本人英语又差，就靠蹦单词，手势比划，实在不行就写给他们，他们能看懂汉字
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 3天前
+RETRES_4_CONTENT:xibanyaonlineLV.5我觉得只要会日常英文就可以了，日本本来也是一个热门的旅游国家，基本的用语，再加上肢体的动作，应该没太大问题的！
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 3天前
+RETRES_5_CONTENT:细路祥LV.23指路人基本问题不大，但日本人英语也什么差。最好备一个翻译APP或翻译机。最重要做好攻略，把要去的和要点都摸熟摸透。
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 3天前
+RETRES_6_CONTENT:大瑶熊LV.25指路人总有人问这种问题，难道世界各国的人都只能在自己国家待着吗，要出国先学外语？
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2天前
+RETRES_7_CONTENT:ShanshanLV.12没问题。不行就英语或者比划……
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 3天前

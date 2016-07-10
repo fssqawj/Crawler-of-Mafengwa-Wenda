@@ -1,0 +1,88 @@
+REGIN:日本
+ID:1964895
+TITLE:#日本#免费的wifi在日本多吗
+DESC:关于日本有必要买随身wifi吗 一般酒店都有吧？
+TAGS:日本#
+PUBTIME:2015-01-07 00:23:39
+RETRESSIZE:27
+RETRES_0_CONTENT:傲视阿彪LV.40指路人奖励10蜂蜜题主采纳酒店都会有免费的Wi-Fi，不过如果在外面需要查询线路地铁公交等还是需要网络的，还是建议租一个随身Wi-Fi！
+RETRES_0_CNTZAN:10
+RETRES_0_PTIME:发布于 2015-01-07 00:50
+RETRES_1_CONTENT:bingxiaorouLV.6不是很多，一般大型的商场会有，酒店有一些会有，看你是自己走还是跟团走，如果跟团走建议租一个Wi-Fi或者买一个电话卡，我之前买过电话卡大概40左右8天不限流量上网好像叫docomo，另外就是租Wi-Fi价格也不贵，也为跟团走的行程没有太多时间寻找免费Wi-Fi，而且有的酒店只有大堂有Wi-Fi，信号也不是十分理想用起来不方便。如果自由行更应该带一个Wi-Fi了，可以随时用Google map导航找路，总体建议去日本还是自备一下吧
+RETRES_1_CNTZAN:3
+RETRES_1_PTIME:发布于 2016-02-03 16:15
+RETRES_2_CONTENT:简简LV.2元旦去的日本，主要在北海道和关西地区，十天，租了环球漫游的wifi，淘宝有旗舰店，一共八十出头，信号很好，晚上我用来手机看视频都完全没问题。拿机器还机票都很方便，我是浦东机场出入的，退押金也非常快，推荐使用。我有个朋友也是租这个，说在富士山脚下没什么信号，供参考哈
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 2016-01-25 13:22
+RETRES_3_CONTENT:西藏的名录LV.2国外的免费wifi一般都只限于酒店这一类的场所，如果你在外面想搜个路线什么的，那估计是很难找到免费wifi的。如果是这样的话，建议租一台随身WiFi。日本的也不是很贵，游伴伴他们家日本的wifi也就十元左右一天。无限流量，非常好用。
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 2016-01-28 10:28
+RETRES_4_CONTENT:却微凉LV.7酒店一般都会覆盖wifi，但是如果你在境外不需要打电话，那么租一个WiFi egg是很方便的，日本的wifi egg在淘宝上租差不多12元每天，可以待机6-8小时，可供多人使用（一般是6个人之内），无限流量
+RETRES_4_CNTZAN:1
+RETRES_4_PTIME:发布于 2015-11-02 10:19
+RETRES_5_CONTENT:和风细雨声LV.4最好还是租一个移动Wi-Fi，某宝搜，蛮便宜的。日本城市Wi-Fi虽然也很多，但是好像也和国内差不多，需要手机号注册之类的吧，我是没有连上过。特别需要靠网络找路的时候，需要一个贴身的移动Wi-Fi。
+RETRES_5_CNTZAN:1
+RETRES_5_PTIME:发布于 2016-02-22 16:56
+RETRES_6_CONTENT:潜水争霸赛LV.4酒店的大堂一般有免费WIFI，房间上网的话一般是收费的，楼主如果需要在户外上网的话建议可以到游伴伴官网上租一个出国WIFI足矣，在日本有无限流量套餐，价格的话也很实惠。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2015-01-07 16:15
+RETRES_7_CONTENT:正义的奥拉夫LV.10虽然酒店和一些商场会有，偶尔地铁里也碰见过面对游客的限时免费wifi，不过还是不如自己租一台机器或者买个手机卡方便
+RETRES_7_CNTZAN:1
+RETRES_7_PTIME:发布于 2016-05-12 00:29
+RETRES_8_CONTENT:途风网LV.16酒店都会有免费的Wi-Fi，不过如果在外面需要查询线路地铁公交等还是需要网络的，还是建议租一个随身Wi-Fi！
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2015-06-04 22:17
+RETRES_9_CONTENT:蓉馍馍吉祥LV.2之前在日本打出租车，司机直接开了热点给我哈哈哈~~~
+RETRES_9_CNTZAN:3
+RETRES_9_PTIME:发布于 2016-01-23 17:22
+RETRES_10_CONTENT:vivi3961LV.5酒店一般有，但是速度不是很快，建议租一个随身wifi，10元左右一天，非常好用
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2016-01-25 00:56
+RETRES_11_CONTENT:晶LV.5酒店房间里会有免费wifi，路上不多，建议买随身wifi
+RETRES_11_CNTZAN:2
+RETRES_11_PTIME:发布于 2015-11-05 00:10
+RETRES_12_CONTENT:王姗姗LV.1有是有的 但是很不方便 体验很差 时断时续  不推荐用外面的 wifi网络
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2016-04-05 13:24
+RETRES_13_CONTENT:豚豚酱LV.6酒店会有，但是有时候也不算很稳定，建议自备一个WIFI或者买张上网卡~~~
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-08-19 10:43
+RETRES_14_CONTENT:菲思密达菲LV.8还是租个吧，淘宝有卖，店铺：国际一号线。我去韩国，日本，泰国都用它们家的
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2016-03-16 23:51
+RETRES_15_CONTENT:76689976LV.3本人在日本留学多年微信JAPANTokyoHappy希望能帮到您
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2015-07-07 02:38
+RETRES_16_CONTENT:ctrobLV.6还是租随身wifi比较好，尤其是在旅途中你需要查交通路线的时候
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2015-05-30 18:09
+RETRES_17_CONTENT:大剑哥哥LV.15还是推荐自带。价格也不贵，机场都有租。不过，最好在淘宝订好。
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2016-01-22 06:09
+RETRES_18_CONTENT:西红柿小王子LV.5日本免费WiFi真少，还是保守起见，自己有一个比较好
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 2015-08-21 07:27
+RETRES_19_CONTENT:阿绿哟嘿LV.3一般酒店商场都有。但是建议还是租个wifi随身带吧
+RETRES_19_CNTZAN:0
+RETRES_19_PTIME:发布于 2016-02-04 23:53
+RETRES_20_CONTENT:叫个芳芳都重名LV.5还是租一个方便，也没多少钱，随时随地想用就能用
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2016-06-16 16:43
+RETRES_21_CONTENT:饭饭爱上菜LV.2简易随身带一个的哦，刷朋友圈方便，哈哈
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2016-04-24 10:19
+RETRES_22_CONTENT:美行旅鸟地图LV.15日本很多久店都提供免费的无限wifi。
+RETRES_22_CNTZAN:0
+RETRES_22_PTIME:发布于 2015-06-29 20:14
+RETRES_23_CONTENT:猫饭LV.16酒店会有免费的 建议自己随身带一个
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2015-12-11 23:38
+RETRES_24_CONTENT:象征LV.18酒店有，在外建议带个随身wifi
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2016-01-10 21:19
+RETRES_25_CONTENT:死宅要旅行LV.15酒店有，还是租个随身wifi好
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2016-05-16 06:45
+RETRES_26_CONTENT:hibeLV.20多的~买个随身的比较方便
+RETRES_26_CNTZAN:0
+RETRES_26_PTIME:发布于 2015-03-07 09:44

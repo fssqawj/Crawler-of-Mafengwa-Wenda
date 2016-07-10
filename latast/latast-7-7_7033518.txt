@@ -1,0 +1,22 @@
+REGIN:latast-7-7
+ID:7033518
+TITLE:在国外有哪些瞬间让你觉得还是中国好
+DESC:
+TAGS:
+PUBTIME:2016-07-07 14:34:11
+RETRESSIZE:5
+RETRES_0_CONTENT:贪玩米娅LV.17指路人可以喝热水，可以喝热水。粥粉面饭，煎煮焖炖焗炒蒸焯，吃的变化多不胜数。吃青菜是寻常事，买青菜真的是青菜价不是天价。出门就士多，大排档。永远不会饿肚子，夜夜笙歌不夜城，吃喝玩乐不用停。交通方便价格便宜，出门也不担心隔壁邻居家养着大蛇吓死人
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 5小时前
+RETRES_1_CONTENT:若逸RoisLV.19指路人在国内，无论多小的城市，晚上都可以到处吃小吃、逛街、撸串，到处人潮汹涌夜不眠。在国外，只要不是热门旅游城市，晚上路上很少有人，也没有什么夜宵摊、大排档，商店也不像国内这么密集。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 5小时前
+RETRES_2_CONTENT:枫叶LV.2一吃饭的那个瞬间让我觉得中国好多了，吃不惯这边的食物！
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 5小时前
+RETRES_3_CONTENT:3u3uLV.4鸡同鸭讲时
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 5小时前
+RETRES_4_CONTENT:张小翼LV.18asdf
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 41分钟前

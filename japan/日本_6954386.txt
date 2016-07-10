@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6954386
+TITLE:请问从羽田机场到新宿华盛顿酒店 地铁哪站下最近？
+DESC:请问从羽田机场到新宿华盛顿酒店 地铁哪站下最近？晚上九点多到羽田机场 出关加地铁 到新宿大概几点了？非常感谢
+TAGS:酒店#地铁#新宿#机场#交通#
+PUBTIME:2016-06-28 22:51:35
+RETRESSIZE:2
+RETRES_0_CONTENT:旧西圆LV.18指路人东京奖励20蜂蜜题主采纳当然是新宿站啦，可以不用坐地铁，羽田机场有巴士直达新宿站西口，离酒店就3,4百米。羽田机场巴士的中文链接给你：http://www.haneda-airport.jp/inter/cn/access/bus.html。。。再给你个羽田机场的车次搜索链接，我帮你搜的是10点30的车次：http://visit.jorudan.co.jp/haneda/SearchResult?fr=%E7%BE%BD%E7%94%B0%E6%9C%BA%E5%9C%BA%E5%9B%BD%E9%99%85%E7%BA%BF%E8%88%AA%E7%AB%99%E6%A5%BC&amp;to2=%E6%96%B0%E5%AE%BF%EF%BC%88%E5%A4%8D%E5%90%88%EF%BC%89&amp;datetime=06302230&amp;datekbn=1&amp;walk=1&amp;opt=0&amp;lang=2&amp;frekikbn=R&amp;toekikbn2=R&amp;routejunjo=1&amp;mokuteki=1&amp;kbn2=0&amp;sel=1&amp;ieki2=%E6%96%B0%E5%AE%BF%EF%BC%88%E5%A4%8D%E5%90%88%EF%BC%89&amp;rsbt=0&amp;to=%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3&amp;toekikbn=R&amp;tolatlon=:&amp;kbn=0&amp;ieki=%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 3天前
+RETRES_1_CONTENT:FredHu胡老师LV.6从羽田坐东京单轨电车到滨松町，再换乘山手线到新宿
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 3天前

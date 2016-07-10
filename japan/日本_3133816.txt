@@ -1,0 +1,16 @@
+REGIN:日本
+ID:3133816
+TITLE:请问札幌到小樽的地铁是多少钱啊？大概要多少时间啊？
+DESC:还有札幌到富良野的地铁？求解答
+TAGS:地铁#小樽#札幌#
+PUBTIME:2015-08-04 22:34:18
+RETRESSIZE:3
+RETRES_0_CONTENT:BonnieLV.26指路人北海道金牌大师奖励20蜂蜜题主采纳札幌到小樽的JR票价单程640円，大约45-50分钟，可以考虑从札幌到南小樽下车，然后一路玩到小樽站回札幌，这样不需要走回头路（运河距离小樽站近一些，所以看完运河夜景回程从小樽站走比较方便）。查询车次价格换乘等信息的网站：http://www3.jrhokkaido.co.jp/time/01ekiinput.aspx如果不会用可以参考我的游记：http://www.mafengwo.cn/i/3403360.html
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2015-08-05 12:14
+RETRES_1_CONTENT:蟹少爷LV.15札幌到小樽的JR票价应该是几十块RMB吧，我不记得了，应该不是很贵的，从札幌JR站到小樽站大概40-50分钟，还是很方便的。日本JR有中文网站的，里面有各班次的时间和价格，LZ可以上去看下。http://www2.jrhokkaido.co.jp/global/cn/index.html
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2015-08-05 10:42
+RETRES_2_CONTENT:AtlantisLV.22指路人刚从北海道回来，小樽-札幌的JR单程是640日元，车次很多，差不多10分钟就有一班，有快慢车之分，42分钟-50分钟，在自助机器上购票十分方便。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2015-08-05 12:52

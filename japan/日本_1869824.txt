@@ -1,0 +1,51 @@
+REGIN:日本
+ID:1869824
+TITLE:大阪到东京的新干线可以使用jr pass吗？
+DESC:#东京#大阪到东京的新干线可以使用jr pass吗？
+要是可以的话时刻表是怎么样的？
+关西机场怎么坐新干线到东京呢
+TAGS:大阪#新干线#东京#
+PUBTIME:2014-12-10 02:45:50
+RETRESSIZE:14
+RETRES_0_CONTENT:kaka_宇LV.31指路人东京金牌大师奖励10蜂蜜题主采纳奖励10蜂蜜金牌回答1，可以的。所有的新干线都属于JR线路的一种，而JR PASS是可以坐除极个别特定车次外的所有JR线路，所以当然可以使用的。提醒注意一点，你应该是有往返关东关西的两次新干线大交通行程，买JR PASS才划算。如果只是单程从大阪去东京，那就不需要买JR PASS，直接买新干线车票了。2，这个网站可以查车次，我已经查好了”新大阪站”去“东京站”的时刻表，你也可以回到主页查其他时刻表。http://www.ekikara.jp/newdata/line/2301011/up1_1.htm，注意：大阪市内发车的所有新干线都是在“新大阪”站，而不是“大阪”站。那个“大阪”站只发普通JR车次，比如去京都、奈良、神户的短程车次。3，关西机场不能直达东京，需要先坐关西空港特急Haruka号到达“新大阪”站（Haruka号从关西空港出来之后，第一站停靠“天王寺”站，第二站就是“新大阪”站了，别下错了），然后再从“新大阪”站坐新干线前往。haruka号也属于JR系统，所以用你的JR PASS也是可以免票的。
+RETRES_0_CNTZAN:40
+RETRES_0_PTIME:发布于 2014-12-10 08:18
+RETRES_1_CONTENT:宣尛见LV.42指路人东京金牌大师新干线就是属于JR系统之下的，东京大阪之间往返的新干线是可以使用JRPASS的，这也是JRPASS最大的实惠点----远距离JR线路乘坐（个别少数特定车次除外，上车可以问一下列车员，日本坐车的时候基本都有列车员站在车头，可咨询）。你从大阪坐新干线去东京站，需要在新大阪上车（大阪市淀川区西中岛五丁目），新大阪站与大阪站属两个不同的车站，大阪站更靠近市中心。http://www.ekikara.jp/newdata/line/2301011/up1_1.htm可看到发车时刻表，上面显示的平日、土曜日（周六）、休息日新大阪发车时间都一样。关西机场没有新干线直达东京的，你需要在机场坐HARUKA到新大阪，然后换乘新干线去东京。
+RETRES_1_CNTZAN:3
+RETRES_1_PTIME:发布于 2014-12-10 09:28
+RETRES_2_CONTENT:houseLV.21指路人东京到大阪坐jr需要买全国的jr pass，只能日本境外购买兑换券，去日本兑换。日本还有各个区域的jr pass，价格相对较低，具体可以参照日本jr的网站。http://www.japanrailpass.net/cn/cn001.html，各个区域还有不同的官网，都有中文版的，无需翻墙即可登入。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2014-12-10 06:22
+RETRES_3_CONTENT:鼓鼓LV.39指路人可以坐光号和回声号，但不能坐希望号，要坐要加钱，建议坐光号，千万不要坐回声号，太慢关西机场乘南海到南波换御堂筋线到新大阪时刻表http://ekikara.jp/newdata/line/2301011/down1_1.htm
+RETRES_3_CNTZAN:2
+RETRES_3_PTIME:发布于 2015-11-22 21:20
+RETRES_4_CONTENT:圆圆大饼脸LV.13如果你有往返 买PASS才划算 哦！单程的话，还是单买划算
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2014-12-10 12:36
+RETRES_5_CONTENT:abbyLV.16可以，只要是JR都能做，对来日本旅游的外国人的福利。
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2016-01-02 09:30
+RETRES_6_CONTENT:简单·幸福LV.18东京#大阪到东京的新干线可以使用jr pass吗
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2015-10-07 07:31
+RETRES_7_CONTENT:JoeyChan-LV.21可以啊，如果不往返觉得没必要买jrpass
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2016-02-03 13:22
+RETRES_8_CONTENT:YumenohiLV.17可以的，但是不可以坐のぞみ号哦
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2016-02-19 07:08
+RETRES_9_CONTENT:稻草上的火雞LV.4新大阪 跟  大阪站 什么区别
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2015-10-14 12:47
+RETRES_10_CONTENT:wuxw08LV.17可以的，来回一趟便能值回票价
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2016-02-25 20:58
+RETRES_11_CONTENT:coolmaxLV.6可以的
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2016-01-03 01:09
+RETRES_12_CONTENT:蘑菇蘑菇LV.6可以
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2015-11-17 14:32
+RETRES_13_CONTENT:豆豆LV.1可以
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-07-30 05:26

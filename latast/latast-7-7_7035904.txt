@@ -1,0 +1,16 @@
+REGIN:latast-7-7
+ID:7035904
+TITLE:请问国内北方有什么城市适合年轻人玩的吗
+DESC:想在国内北方玩玩 求推荐 辽宁就不要了
+TAGS:自由行#行程#旅游#
+PUBTIME:2016-07-07 19:04:47
+RETRESSIZE:3
+RETRES_0_CONTENT:宝灬儿LV.11山西，晋国霸业，十分有文化底蕴的省份~还有著名的悬空寺和云冈石窟~也有小清新平遥古城和壮观的壶口瀑布~
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 30分钟前
+RETRES_1_CONTENT:z127000LV.30指路人北京，适合各种人群。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 43分钟前
+RETRES_2_CONTENT:风华月雨LV.18张家口，坝上草原
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 9分钟前

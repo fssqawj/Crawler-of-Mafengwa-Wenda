@@ -1,0 +1,13 @@
+REGIN:日本
+ID:5689614
+TITLE:关于大陆游客在冲绳租车的问题，大陆考取的驾照可以办理IDP然后在冲绳租车吗？
+DESC:打算7月中去冲绳，至今对交通问题还很迷惘😭
+TAGS:租车#驾照#冲绳#
+PUBTIME:2016-04-04 19:05:20
+RETRESSIZE:2
+RETRES_0_CONTENT:scsamLV.16大陆不是IDP协议国，大陆的驾照不能在日本租车，小公司审查不严可能会租给你，但一旦发生交通事故则按无证驾驶处理可以参考这个问题：http://www.mafengwo.cn/wenda/detail-5221160.html
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2016-04-04 21:59
+RETRES_1_CONTENT:V韵韵-EmmaLV.11可以拿大陆驾驶证到香港领个香港驾照再申请个国际驾照才可以租车
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2天前

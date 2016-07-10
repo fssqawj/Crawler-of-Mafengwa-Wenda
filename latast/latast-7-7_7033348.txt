@@ -1,0 +1,16 @@
+REGIN:latast-7-7
+ID:7033348
+TITLE:请问珠海长隆海洋世界到拱北口岸专线车时间表？
+DESC:从长隆海洋世界到拱北口岸专线车多久一班车？最迟到几点？
+TAGS:珠海#景点#
+PUBTIME:2016-07-07 14:20:16
+RETRESSIZE:3
+RETRES_0_CONTENT:萍平LV.24指路人长隆的专线车是回城轨珠海站的。平日班次为：10：30、11：30、12：30、16：30、17：30、18：30、19：30、20：30周末及假日在平日班次基础上再增加以下班次：11：00、12：00、15：00、15：30、16：00、17：00、18：00、19：00、20：00最晚班次为20：30分。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 4小时前
+RETRES_1_CONTENT:СσdìσъLV.20指路人半小时一班，到晚上8点半。详细可以看：http://zh.chimelong.com/Oceankingdom/service/traffic.shtml
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 4小时前
+RETRES_2_CONTENT:保定 窄近LV.6珠海市内，长隆到拱北口岸  的公交车k10路全程19站单程时间40分钟，收费3元。如果做长隆海洋王国  直达拱北口岸  的班车25分钟即可，收费10元
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 5小时前

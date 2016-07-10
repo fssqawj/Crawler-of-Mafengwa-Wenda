@@ -1,0 +1,64 @@
+REGIN:日本
+ID:2733569
+TITLE:东京迪斯尼里的酒店有哪几家
+DESC:东京迪斯尼里的酒店有哪几家
+TAGS:酒店#迪士尼#东京#
+PUBTIME:2015-06-09 16:55:43
+RETRESSIZE:19
+RETRES_0_CONTENT:木木尛滢滢LV.16一种是迪士尼自己的酒店有：迪士尼大使酒店、迪士尼乐园酒店、迪士尼海洋观景大酒店，迪士尼官网上可以预定。http://www.disneyhotels.jp/chinese/一种叫迪士尼公认酒店：東京太陽之路廣場大飯店、東京灣舞濱酒店、東京灣喜來登大飯店、東京灣舞濱酒店 度假俱樂部、希爾頓東京灣大飯店、東京灣大倉飯店还有两种一种叫好伙伴酒店，一种叫好邻居酒店。这两种好像离迪士尼度假区远了点，不建议入住。
+RETRES_0_CNTZAN:182
+RETRES_0_PTIME:发布于 2015-06-09 19:50
+RETRES_1_CONTENT:灵敏死胖子LV.35金牌大师迪斯尼的话，有两种方式可以选择 一种呢就是住在距离迪斯尼最近的东京湾的酒店了，而且迪斯尼会有自己认证的酒店，不同的就是这些酒店会有专门的针对迪斯尼的一些特色的房间，比如米妮屋等。 当然这些酒店就会比较昂贵了，而且也非常的热门，如果不提前比较长的时间的话，是很难订的到的。 比如东京湾希尔顿酒店。 如果你是很care 价格，而且再你的预定时间内这个酒店还有房间的情况，个人比较推荐这个酒店。 当然迪斯尼的官网里面也提供了酒店的预约。 这样你的选择行也会略多一些。 这些酒店同样都是经过disney认证的酒店。 http://www.disneyhotels.jp/ 另外一种方式的话，相对来说就麻烦一些。 如果上面这种方式，因为房间问题，或者价格问题你无法接受的话， 那么另外一种方式，就是选择类似于东京京王广场酒店这样的酒店，这些酒店每天有往返迪斯尼的免费巴士这样就不需要再去花力气去乘电车去迪斯尼了。 而且这些酒店的价格也要相比于迪斯尼的酒店价格要便宜一些。 当然缺点也比较明显，就是一定要按照巴士的约定时间往返，
+RETRES_1_CNTZAN:34
+RETRES_1_PTIME:发布于 2015-12-04 17:23
+RETRES_2_CONTENT:走四方LV.18迪士尼大使大饭店（Disney Ambassador Hotel） 东京迪士尼海洋观海景大饭店（Tokyo DisneySea Hotel Miracosta） 东京迪士尼乐园大饭店（Tokyo Disneyland Hotel）东京迪士尼度假区公认大饭店（Tokyo Disney Resort Official Hotels）包括以下酒店(东京太阳之路广场大饭店   希尔顿东京湾大饭店   大仓东京湾大饭店   东京湾喜来登大酒店 东京湾舞滨大酒店)   东京迪士尼度假区好伙伴饭店（Tokyo Disney Resort Partner Hotels）东京迪士尼度假区好邻居大饭店（Tokyo Disneyland Resort Good Neighbor Hotel）
+RETRES_2_CNTZAN:4
+RETRES_2_PTIME:发布于 2016-02-12 19:01
+RETRES_3_CONTENT:大尾巴豆豆狼LV.19迪士尼大使大饭店（Disney Ambassador Hotel） 东京迪士尼海洋观海景大饭店（Tokyo DisneySea Hotel Miracosta） 东京迪士尼乐园大饭店（Tokyo Disneyland Hotel）东京迪士尼度假区公认大饭店（Tokyo Disney Resort Official Hotels）包括以下酒店(东京太阳之路广场大饭店 希尔顿东京湾大饭店 大仓东京湾大饭店 东京湾喜来登大酒店 东京湾舞滨大酒店) 东京迪士尼度假区好伙伴饭店（Tokyo Disney Resort Partner Hotels）东京迪士尼度假区好邻居大饭店（Tokyo Disneyland Resort Good Neighbor Hotel）
+RETRES_3_CNTZAN:2
+RETRES_3_PTIME:发布于 2016-03-05 14:07
+RETRES_4_CONTENT:angel °LV.2这个帖子里面有详细介绍， 东京迪士尼攻略之住宿篇，http://www.japantrip.cn/topics/287
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2016-03-15 11:17
+RETRES_5_CONTENT:蓝色双面童话LV.6我们去的时候就是住的希尔顿东京湾酒店，酒店有免费的班车去迪斯尼，大概车程20分钟的样子，我觉得比从新宿的京王去近，而且新宿的京王中国人很多。一般都是要和酒店提前预定好时间的。
+RETRES_5_CNTZAN:2
+RETRES_5_PTIME:发布于 2016-04-28 10:21
+RETRES_6_CONTENT:suuLV.18同问
+RETRES_6_CNTZAN:10
+RETRES_6_PTIME:发布于 2015-11-16 21:51
+RETRES_7_CONTENT:油条烈夫LV.17东京湾舞滨酒店俱乐部度假酒店 东京湾大仓酒店 关西珍珠酒店 台场格兰太平洋大酒店 守信度假村
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2016-02-23 08:34
+RETRES_8_CONTENT:maomao1957LV.22迪士尼自己的酒店，在官网上可以查到并且预订
+RETRES_8_CNTZAN:1
+RETRES_8_PTIME:发布于 2015-11-02 09:31
+RETRES_9_CONTENT:吼吼吼LV.21去 booking看看就行
+RETRES_9_CNTZAN:2
+RETRES_9_PTIME:发布于 2015-12-15 09:11
+RETRES_10_CONTENT:renjjLV.22建议提前在网上预定迪斯尼主题酒店。
+RETRES_10_CNTZAN:1
+RETRES_10_PTIME:发布于 2015-12-19 09:08
+RETRES_11_CONTENT:kidLV.9迪士尼乐园酒店
+RETRES_11_CNTZAN:2
+RETRES_11_PTIME:发布于 2016-01-27 09:48
+RETRES_12_CONTENT:荣小杨LV.11迪士尼海洋观景大酒店
+RETRES_12_CNTZAN:1
+RETRES_12_PTIME:发布于 2015-12-30 11:42
+RETRES_13_CONTENT:路人庚LV.18推荐住东京湾希尔顿
+RETRES_13_CNTZAN:1
+RETRES_13_PTIME:发布于 2016-01-18 09:14
+RETRES_14_CONTENT:实大杰LV.6我也是
+RETRES_14_CNTZAN:2
+RETRES_14_PTIME:发布于 2015-10-06 18:36
+RETRES_15_CONTENT:。LV.7可以在官网预定
+RETRES_15_CNTZAN:1
+RETRES_15_PTIME:发布于 2015-12-19 09:06
+RETRES_16_CONTENT:梅茜儿LV.17带着宝宝一起玩
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2015-12-04 08:53
+RETRES_17_CONTENT:你女朋友能借吗，LV.27我来看看答案
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2015-10-04 00:05
+RETRES_18_CONTENT:綄羙★孤单LV.27应该不少
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 2016-04-09 18:00

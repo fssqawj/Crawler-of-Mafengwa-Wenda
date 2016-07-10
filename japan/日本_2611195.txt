@@ -1,0 +1,112 @@
+REGIN:日本
+ID:2611195
+TITLE:#东京#请推荐几款东京自助游必备APP，一定要最实用哒！
+DESC:本人7月将去日本东京玩，无日语基础，请大家帮忙推荐几款东京自助游必备APP，一定要最最实用和必须哒，谢谢！
+TAGS:自助游#东京#
+PUBTIME:2015-05-21 10:34:24
+RETRESSIZE:35
+RETRES_0_CONTENT:灵敏死胖子LV.35金牌大师奖励20蜂蜜题主采纳APP的话，首先要说的一定是google map。 甚至有了google map 以及google，其他所有东西都是浮云了。你能通过google找到所有你想要的。超级方便。交通方面，你可以安装一个yahoo的换乘案内的软件。可以用这个软件来给你定位，而且可以帮你选择各种交通工具和路线。还有价钱，会比较方便。链接为：http://transit.loco.yahoo.co.jp/smartphone/app/吃东西的话，你可以参考yahoo的tabelog ，也有app可以下载的。这个有点类似于国内的大众点评。链接为：http://tabelog.com/也有一个app是国内的，你可以在出发前，准备的阶段参考，叫做GO日本。
+RETRES_0_CNTZAN:230
+RETRES_0_PTIME:发布于 2015-05-21 11:51
+RETRES_1_CONTENT:夕阳西下LV.5楼主说自己没有日语基础，那就再退一步看看你的英语啦，如果也一般的话，表达不到位甚至可能产生误解，so你首要解决的语言沟通的问题，你可以用思兔宝翻译，这个是真人在线，秒杀一切非人类翻译软件，超好用；地图我个人觉得用MAPs.me国际离线地图，没有网络的情况下同样使用，比google可能还要好一些，超方便。
+RETRES_1_CNTZAN:53
+RETRES_1_PTIME:发布于 2015-09-30 13:53
+RETRES_2_CONTENT:斐尔FionaLV.14大家都说了google map 和 乘换案内 但用我的真实经历告诉你 做好攻略根本不用乘换案内 看地铁线路图就可以了!不过下着有备无患!!!至于google map 听鸡肋 好几次绕路 建议配合系统地图一起用其实旅行的时候 用纸质地图更享受呢!!! 能更好地感受沿途的风景如果日语水平和我一样小白  最好的莫过于 蚂蜂窝的旅行翻译官 毕竟英语不能无时无刻起作用 你用翻译官问日本人 他们真的会无所不用其极地解答你的问题 非常有趣
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 2016-06-12 09:54
+RETRES_3_CONTENT:sophia_yan1209LV.17googlemap是必须的哦，然后东京地铁app我觉得也蛮好用的，它就像百度地图一样会有那种地铁换乘路线告诉你的，不然你自己琢磨地铁很容易晕。翻译官也很好用，你可以打中文然后显示日文给店员，他们都会理解的。我觉得东京的人并没有英文特别好的样子，关键是他们的发音很醉。。。有个食^什么的app就是日本版的大众点评，你也可以下载看看搜搜周边美食，很好用。不过还是建议行前做好足够的攻略，也比较方便。
+RETRES_3_CNTZAN:4
+RETRES_3_PTIME:发布于 2016-02-29 21:40
+RETRES_4_CONTENT:LoveDevilLV.10一定要下载Google map 到了那边非常好用，可以输入中文就会显示如何换乘 换乘几站都有 票价也会显示。yohoo换乘案内我也有下载，但是有的地方是日语 看不明白，所有使用率并不高美食的话我用的是国内的大众点评，也可以用。再下载翻译软件就行了！
+RETRES_4_CNTZAN:11
+RETRES_4_PTIME:发布于 2015-11-16 20:32
+RETRES_5_CONTENT:yyLV.12我去年去的自由行，马蜂窝、穷游的都很实用，苹果上的地图也很准。日本到处都有地图路标，地铁也很清楚，他们英语很好，问路无障碍的。
+RETRES_5_CNTZAN:8
+RETRES_5_PTIME:发布于 2015-05-21 11:06
+RETRES_6_CONTENT:elisaLV.16首先你需要地图：google地图啥的比较好，百度地图不是很准其次你需要地铁交通软件：推荐东京案内之内的，这样让你比较方便的坐地铁语言其实无所谓，基本都能看懂
+RETRES_6_CNTZAN:2
+RETRES_6_PTIME:发布于 2015-12-09 11:49
+RETRES_7_CONTENT:tarocatLV.211.google map 2.换乘案内  足够了！
+RETRES_7_CNTZAN:13
+RETRES_7_PTIME:发布于 2015-10-28 20:50
+RETRES_8_CONTENT:小花LV.13你好！我觉得 穷游 非常好的，有地图反正该有的都有，还可以在上面找到伙伴，不怕一个人旅游，反正我挺喜欢的，有很多穷游的文章写的很好，各方面的都有。
+RETRES_8_CNTZAN:1
+RETRES_8_PTIME:发布于 2016-03-15 22:42
+RETRES_9_CONTENT:忙中偷闲LV.18我去年去的自由行，马蜂窝、穷游的都很实用，苹果上的地图也很准。日本到处都有地图路标，地铁也很清楚，他们英语很好，问路无障碍的。
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2016-02-14 21:49
+RETRES_10_CONTENT:renjjLV.22有这三个就够了。谷歌地图，雅虎换乘案内，百度翻译
+RETRES_10_CNTZAN:2
+RETRES_10_PTIME:发布于 2015-11-29 07:39
+RETRES_11_CONTENT:小林同学LV.12有朋友去过日本，语言方面用的是日本翻译官这个软件的。
+RETRES_11_CNTZAN:1
+RETRES_11_PTIME:发布于 2015-11-19 10:40
+RETRES_12_CONTENT:敏而好学LV.18google map，学一点日常日语+英语
+RETRES_12_CNTZAN:1
+RETRES_12_PTIME:发布于 2016-01-17 09:06
+RETRES_13_CONTENT:熊宝宝LV.14自由行，马蜂窝、穷游的都很实用，苹果上的地图也很准。
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-12-23 15:17
+RETRES_14_CONTENT:咖啡下午茶LV.26指路人Google map  和蚂蜂窝App就可以了。
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2015-12-02 13:12
+RETRES_15_CONTENT:凌LV.16yahoo的换乘一定要有！
+RETRES_15_CNTZAN:2
+RETRES_15_PTIME:发布于 2015-11-02 10:43
+RETRES_16_CONTENT:abbyLV.16网络畅通＋google map
+RETRES_16_CNTZAN:1
+RETRES_16_PTIME:发布于 2015-10-06 08:32
+RETRES_17_CONTENT:风雨同舟LV.17goolemap
+RETRES_17_CNTZAN:2
+RETRES_17_PTIME:发布于 2015-12-26 00:00
+RETRES_18_CONTENT:fengLV.24马蜂窝、穷游 google map
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 2015-11-04 01:51
+RETRES_19_CONTENT:蓉妹纸小爱LV.7google map最方便实用了
+RETRES_19_CNTZAN:0
+RETRES_19_PTIME:发布于 2016-01-07 11:20
+RETRES_20_CONTENT:草兒LV.19谷歌地图，雅虎换乘案内，百度翻译
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2015-12-16 19:05
+RETRES_21_CONTENT:茂盛的青菜LV.5只有google map是必须的
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2015-11-06 07:45
+RETRES_22_CONTENT:Breath.yuyunLV.23一定要下载Google map
+RETRES_22_CNTZAN:0
+RETRES_22_PTIME:发布于 2016-05-14 13:51
+RETRES_23_CONTENT:走四方LV.22网络畅通＋google map
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2015-10-27 14:24
+RETRES_24_CONTENT:小子你脑残？LV.3竟然没人提到hyperdia
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2016-02-13 14:21
+RETRES_25_CONTENT:linglingLV.12马蜂窝、穷游的都很实用
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2015-12-25 20:10
+RETRES_26_CONTENT:郭小静子LV.1可是国内下不了吧?
+RETRES_26_CNTZAN:0
+RETRES_26_PTIME:发布于 2015-11-08 16:47
+RETRES_27_CONTENT:whyy1210LV.15google地图
+RETRES_27_CNTZAN:0
+RETRES_27_PTIME:发布于 2015-12-30 23:56
+RETRES_28_CONTENT:北方的猫鱼24LV.24地图，大众点评
+RETRES_28_CNTZAN:0
+RETRES_28_PTIME:发布于 2016-02-28 21:37
+RETRES_29_CONTENT:北风LV.5会英文就好！
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2015-09-20 17:15
+RETRES_30_CONTENT:ttLV.15有道词典，
+RETRES_30_CNTZAN:0
+RETRES_30_PTIME:发布于 2016-02-14 16:31
+RETRES_31_CONTENT:加菲猫LV.15出国翻译官
+RETRES_31_CNTZAN:0
+RETRES_31_PTIME:发布于 2015-12-06 11:40
+RETRES_32_CONTENT:maychen0623LV.15有道词典
+RETRES_32_CNTZAN:0
+RETRES_32_PTIME:发布于 2016-01-24 00:02
+RETRES_33_CONTENT:ZW`LV.18翻译软件
+RETRES_33_CNTZAN:0
+RETRES_33_PTIME:发布于 2015-10-22 10:56
+RETRES_34_CONTENT:鱼儿LV.9有用
+RETRES_34_CNTZAN:0
+RETRES_34_PTIME:发布于 2015-11-25 16:32

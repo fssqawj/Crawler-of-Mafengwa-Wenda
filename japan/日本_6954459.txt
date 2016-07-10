@@ -1,0 +1,10 @@
+REGIN:日本
+ID:6954459
+TITLE:请问从奈良公园出来如何到唐提招寺？公交还是地铁可以到达？离得远吗？
+DESC:请问从奈良公园出来如何到唐提招寺？公交还是地铁可以到达？离得远吗？
+TAGS:公园#地铁#奈良#巴士#交通#
+PUBTIME:2016-06-28 22:59:39
+RETRESSIZE:1
+RETRES_0_CONTENT:kiminonakaLV.11还是有点距离的。公交比较方便但是班次不太多，近铁的话两头还是都要走。你可以看一下下面这张奈良交通的路线图，对景点位置有大致的了解。奈良公园在最右面，而唐招提寺在靠近左下角的位置http://www.narakotsu.co.jp/language/cn/pdf/kantai_rosenmap.pdf而从奈良公园去唐招提寺可以坐70、72和97，这三条线路都是一小时一班车的。具体时刻表间下面这个链接，这个链接里面是东大寺大佛殿·国立博物馆站的时刻表。http://jikoku.narakotsu.co.jp/Jikoku_pdf/gene1/pdf/03024_021_001.ps.pdf
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3天前

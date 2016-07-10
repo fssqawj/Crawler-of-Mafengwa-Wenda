@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6960879
+TITLE:关于JR札幌站电梯的问题
+DESC:请问，从北海道札幌JR站进出去新千岁机场，是不是没有电梯呀？箱子会不会搬来搬去？累呀！
+TAGS:札幌#交通#
+PUBTIME:2016-06-29 15:43:04
+RETRESSIZE:2
+RETRES_0_CONTENT:DrogbyLV.30指路人JR札幌站平面图，全是电梯标志，请放心：http://www.jrhokkaido.co.jp/network/barrier/057/sapporo-map.html
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:faye..LV.16你是问札幌站进站到站台有没有电梯吗？全程都有电梯哦，从札幌站进站到进站台到新千岁机场全部是有电梯的，放心吧！
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2天前

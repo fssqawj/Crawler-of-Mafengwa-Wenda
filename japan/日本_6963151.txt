@@ -1,0 +1,16 @@
+REGIN:日本
+ID:6963151
+TITLE:JR Pass 可以乘坐新干线指定席吗?
+DESC:如题 使用JR Pass的话 可以乘坐新干线的指定席吗?还是只能乘坐自由席 乘坐新干线要提前去换票吗 还是直接出示JRpass就可以了 提前的话要提前多久呢?
+TAGS:新干线#
+PUBTIME:2016-06-29 20:41:51
+RETRESSIZE:3
+RETRES_0_CONTENT:扑了个扑的LV.18指路人JRPASS可以免费坐除了NOZOMI、MIZUHO这两个车次之外其他新干线的指定席，但是不能用JRPASS直接进去，要去划指定席券的，进站时要JRPASS和新干线指定席券一起出示。指定席券可以提前也可以当场换，不过最好是提前换好，以防没位置~~我换过三张新干线指定席券，分别是提前了5天、8天、12天换的~~
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:AmobaLV.17只能坐自由席，指定席要加钱！不需要提前去换票，只要走人工通道进站，然后车上出示车票即可！
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2天前
+RETRES_2_CONTENT:kiminonakaLV.11当然可以坐指定席，所以能划指定席就尽量划吧。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2天前

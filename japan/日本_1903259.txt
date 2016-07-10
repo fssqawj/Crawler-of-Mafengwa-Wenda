@@ -1,0 +1,19 @@
+REGIN:日本
+ID:1903259
+TITLE:提问：关于日本迪士尼FastPass
+DESC:问一下如果两个人一起游玩迪士尼，拿FastPass的时候要一个人拿一张票拿FastPass就可以两个人一起玩么？还是要两张门票一起拿FastPass？
+TAGS:迪士尼#日本#
+PUBTIME:2014-12-19 10:38:21
+RETRESSIZE:4
+RETRES_0_CONTENT:小虫子EvaLV.16奖励10蜂蜜题主采纳Fastpass是迪士尼游乐项目的快速同行证，需要人手一张的。也就是说你们在打fastpass的时候，要把2张门票都分别放进去，兑换2张fastpass为了控制人流，同时保证排队的人也可以排到游乐项目，所以每个时间段可以打的fastpass的数量是固定的，所以每打印一张fastpass，机器就会自动将计数减1，当计数为0后，这个游戏就不可以再打印fastpass了。如果1个人打印1张fastpass，但是带10个人去玩，那么排队的人怎么办？这也就解释了为什么fastpass要人手1张
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2014-12-19 11:11
+RETRES_1_CONTENT:大迷糊LV.10一张门票一个项目只能拿一张，一张票只能进一个人。而且是分时间开放的，如果你去发现没有了，你可以看一下Fastpass 机器写的时间，在它规定的时间回来还是可以打的。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2014-12-19 11:19
+RETRES_2_CONTENT:台北大鳥LV.17一張門票一次只能拿到一張Fast Pass，所以要两张门票一起拿FastPass(拿完一張再換一張)。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2014-12-19 11:07
+RETRES_3_CONTENT:Freya杭杭LV.11一张门票拿一个fast pass。各拿各的哦。
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 2014-12-20 11:14

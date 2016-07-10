@@ -1,0 +1,157 @@
+REGIN:日本
+ID:2877295
+TITLE:#日本#在日本，无线wifi哪个牌子好用，信号足？
+DESC:在日本，无线wifi哪个牌子好用，信号足？
+TAGS:日本#
+PUBTIME:2015-07-01 15:57:39
+RETRESSIZE:50
+RETRES_0_CONTENT:环岛旅行LV.7奖励10蜂蜜题主采纳某宝搜国际一号线，信号很好，关键是租不需要押金
+RETRES_0_CNTZAN:190
+RETRES_0_PTIME:发布于 2015-07-09 14:32
+RETRES_1_CONTENT:TitanLV.21其实可以在国内事先购买能在日本上网的3G卡 - 富士卡(前名:樱花卡), 容量为7天1.8G, 不乱看视频绝对够用. 可以通过淘宝购买, 价格比在日本当地租 wifi 设备要便宜很多. 富士卡大约80元.富士卡是用 WCDMA 3G 技术, 简单来说一般的 iphone 和联通的 3G 手机能用, 电信的手机不能用.我的超实用游记：http://www.mafengwo.cn/i/3395979.html
+RETRES_1_CNTZAN:91
+RETRES_1_PTIME:发布于 2015-07-01 17:38
+RETRES_2_CONTENT:秦白白LV.19我觉得从操作角度来说，最好用的是环球漫游。我是从淘宝海玩网官网定的，之后到了首都机场T3交了500押金，一定要提前预约，不然没有空机器，非常好用。不限流量，而且稳定，我在富士山，或者是城崎海岸这种村儿里，都有信号。至于是否会没电的问题，我反正一天下来，没啥问题，基本早上9点出门，晚上9点回来，都有电。
+RETRES_2_CNTZAN:10
+RETRES_2_PTIME:发布于 2015-10-21 11:52
+RETRES_3_CONTENT:牛子涵LV.17其实可以在国内事先购买能在日本上网的3G卡 - 富士卡(前名:樱花卡), 容量为7天1.8G, 不乱看视频绝对够用. 可以通过淘宝购买, 价格比在日本当地租 wifi 设备要便宜很多. 富士卡大约80元.富士卡是用 WCDMA 3G 技术, 简单来说一般的 iphone 和联通的 3G 手机能用, 电信的手机不能用.
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 2016-04-12 20:19
+RETRES_4_CONTENT:🎀13🎀LV.9其实可以在国内事先购买能在日本上网的3G卡 - 富士卡(前名:樱花卡), 容量为7天1.8G, 不乱看视频绝对够用. 可以通过淘宝购买, 价格比在日本当地租 wifi 设备要便宜很多. 富士卡大约80元.富士卡是用 WCDMA 3G 技术, 简单来说一般的 iphone 和联通的 3G 手机能用, 电信的手机不能用.
+RETRES_4_CNTZAN:1
+RETRES_4_PTIME:发布于 2016-02-29 12:44
+RETRES_5_CONTENT:rad。LV.3还是docomo的吧  我租过docomo的路由器  速度很快价格可能稍贵一点但是信号强  以前认识的日本朋友介绍的 后来发现他们也有淘宝
+RETRES_5_CNTZAN:19
+RETRES_5_PTIME:发布于 2015-09-22 12:00
+RETRES_6_CONTENT:风铃叮当_LV.4为什么不直接租蚂蜂窝自己的？才9.9一天。可以直接在日本的各大机场拿，还能归还到不一样的机场去。在某宝买的wifi，大部分都是直接寄给你或者在国内机场拿的，很多人都碰到在国内设置的好好的，到日本了不能用的情况，都没法找人处理。 http://www.mafengwo.cn/sales/317279.html
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2015-12-06 14:11
+RETRES_7_CONTENT:脱脂的全麦翔LV.13某宝找中介办签证的时候就有拍，直接拍下12元一天，根据你出发的航站楼选一个地点去领。到了日本才能用，充满电一天全开也没问题，根本不需要担心不够用。我觉得wifi比富士卡要快一点~
+RETRES_7_CNTZAN:3
+RETRES_7_PTIME:发布于 2015-11-11 15:46
+RETRES_8_CONTENT:奕LV.3亲可以尝试用WiFi樱花卡。去年四月我去的日本。在某宝买的此卡。下飞机装上即可使用。信号很好。一直在刷微信、朋友圈。只是不能打电话。我买的周卡，流量足够用。希望对你有帮助。
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2016-03-01 10:25
+RETRES_9_CONTENT:球erLV.16某宝上有卖的富士卡（前身叫樱花卡）不错，就是作为电话卡带有流量，随时随地上网，速度也很快很稳定
+RETRES_9_CNTZAN:7
+RETRES_9_PTIME:发布于 2015-10-08 06:15
+RETRES_10_CONTENT:FrankLV.6环球漫游，淘宝购买，价钱合适，机场自取，现场交500元押金（刷卡）。亲测电力持久一整天没问题。信号也好，不会断。
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2016-06-08 11:43
+RETRES_11_CONTENT:萝卜LV.5我没有用无线Wi-Fi，建议你直接docomo的流量卡，具体可以看我的游记行前准备那里。
+RETRES_11_CNTZAN:1
+RETRES_11_PTIME:发布于 2015-10-16 00:51
+RETRES_12_CONTENT:傲视阿彪LV.40指路人某宝，蚂蜂窝，穷游都有Wi-Fi租赁，有时候做活动还更便宜。现在日本Wi-Fi租赁都是白菜价了。
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2015-12-20 01:13
+RETRES_13_CONTENT:紫罗兰LV.33我每次都租环球漫游，虽然有押金，但是信号好，覆盖面广，还时常有活动。就是要提前。尤其假期。
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-11-19 19:32
+RETRES_14_CONTENT:maychen0623LV.15我是淘宝租的环球漫游的机子，偶尔要重启，但基本可以满足4-5台机子的上网，费用也不贵。
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2016-01-31 00:02
+RETRES_15_CONTENT:愚蠢的欧豆豆LV.10用樱花卡就行，其实淘宝租的都行，别人是做生意的，不可能砸自己招牌
+RETRES_15_CNTZAN:1
+RETRES_15_PTIME:发布于 2015-10-24 08:16
+RETRES_16_CONTENT:汤捂子LV.12我去的时候租了电话卡，速度还不错，也是淘宝
+RETRES_16_CNTZAN:3
+RETRES_16_PTIME:发布于 2015-10-13 21:18
+RETRES_17_CONTENT:David丸子LV.6建议在淘宝上买达摩电话卡，不限流量，速度也很快！80块钱左右可以用7天。
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2015-11-15 20:52
+RETRES_18_CONTENT:Alice LuiLV.16单人行的话建议用樱花卡就行了哦 多人的话租国际一号线吧 信号很不错的
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 2016-03-01 10:18
+RETRES_19_CONTENT:🍓张草莓🍓LV.20指路人日本某宝租wifi，我就是国内租的，全程无压力，信号好网速快
+RETRES_19_CNTZAN:1
+RETRES_19_PTIME:发布于 2016-05-14 00:16
+RETRES_20_CONTENT:一见倾心LV.16我用的是环球漫游的~一般这些东西的信号都是没有什么问题的
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2015-11-17 09:12
+RETRES_21_CONTENT:ＣＹＹ.BLV.18樱花卡或者富士卡就可以上网啦，用某些手机还能发热点出来的
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2015-11-15 09:45
+RETRES_22_CONTENT:JoeyChan-LV.21环球漫游 淘宝上租的 机器电量也很足 一天用足12个小时
+RETRES_22_CNTZAN:0
+RETRES_22_PTIME:发布于 2016-05-17 10:34
+RETRES_23_CONTENT:Sherry_杨小嗨LV.17某宝搜日本移动wifi 看排名，有个叫樱花卡的用过不错
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2016-03-02 06:36
+RETRES_24_CONTENT:Qee_NLV.8提前在这边租wifi。我上次用的环球漫游感觉还不错
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2016-04-12 06:53
+RETRES_25_CONTENT:我姓刘我心留LV.17建议你不如直接买一张当地的卡，既可以上网还能打电话
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2015-12-20 01:12
+RETRES_26_CONTENT:欣然佳友LV.17应该是叫樱花卡吧
+RETRES_26_CNTZAN:3
+RETRES_26_PTIME:发布于 2015-11-13 07:34
+RETRES_27_CONTENT:tarocatLV.21我租的是环球漫游，信号没断过，很好用的说。
+RETRES_27_CNTZAN:0
+RETRES_27_PTIME:发布于 2016-06-16 22:22
+RETRES_28_CONTENT:/zhem健/hanLV.19国际一号线，信号好，租不需要押金
+RETRES_28_CNTZAN:1
+RETRES_28_PTIME:发布于 2015-11-05 08:13
+RETRES_29_CONTENT:(_灬鳕ぺ飄飄051LV.12途牛直接预订，机场取还。信号就很不错的哦
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2016-03-15 09:19
+RETRES_30_CONTENT:大瑶熊LV.25指路人携程的环球漫游。
+RETRES_30_CNTZAN:2
+RETRES_30_PTIME:发布于 2015-07-03 09:31
+RETRES_31_CONTENT:cpaLV.20樱花卡，也就是现在的富士卡，很好用
+RETRES_31_CNTZAN:0
+RETRES_31_PTIME:发布于 2015-11-03 17:35
+RETRES_32_CONTENT:LaucccLV.23马蜂窝就有而且价格也便宜，要么淘宝
+RETRES_32_CNTZAN:0
+RETRES_32_PTIME:发布于 2016-05-17 11:01
+RETRES_33_CONTENT:舜尧大帝LV.19skyroam的漫游宝
+RETRES_33_CNTZAN:1
+RETRES_33_PTIME:发布于 2015-10-01 23:19
+RETRES_34_CONTENT:印子LV.6樱花卡不错
+RETRES_34_CNTZAN:2
+RETRES_34_PTIME:发布于 2015-12-16 11:01
+RETRES_35_CONTENT:amiaLV.34skyroam 漫游宝不错
+RETRES_35_CNTZAN:0
+RETRES_35_PTIME:发布于 2015-11-09 07:15
+RETRES_36_CONTENT:NatureChanLV.13漫游宝挺好用的，全球都好使
+RETRES_36_CNTZAN:0
+RETRES_36_PTIME:发布于 2016-02-08 08:00
+RETRES_37_CONTENT:我就叫小东西LV.23淘宝搜一下，一般都用富士卡
+RETRES_37_CNTZAN:0
+RETRES_37_PTIME:发布于 2015-12-10 10:45
+RETRES_38_CONTENT:添花之家LV.17淘宝有卖的，，多看评价
+RETRES_38_CNTZAN:0
+RETRES_38_PTIME:发布于 2015-12-09 23:13
+RETRES_39_CONTENT:油条烈夫LV.17买当地卡 方便功能全
+RETRES_39_CNTZAN:0
+RETRES_39_PTIME:发布于 2016-01-25 09:15
+RETRES_40_CONTENT:涅槃kingLV.14其实还不如买电话卡好
+RETRES_40_CNTZAN:0
+RETRES_40_PTIME:发布于 2015-12-12 16:30
+RETRES_41_CONTENT:飞翔的蒲公英VLV.18漫游宝吧
+RETRES_41_CNTZAN:1
+RETRES_41_PTIME:发布于 2015-11-27 00:07
+RETRES_42_CONTENT:小何LV.18富士卡
+RETRES_42_CNTZAN:1
+RETRES_42_PTIME:发布于 2015-10-10 19:59
+RETRES_43_CONTENT:春风吹进你的洞LV.16漫游宝
+RETRES_43_CNTZAN:1
+RETRES_43_PTIME:发布于 2015-11-30 12:44
+RETRES_44_CONTENT:你女朋友能借吗，LV.27樱花卡还是挺好的
+RETRES_44_CNTZAN:0
+RETRES_44_PTIME:发布于 2016-02-25 14:32
+RETRES_45_CONTENT:ganzutaiLV.19环球漫游或者游友
+RETRES_45_CNTZAN:0
+RETRES_45_PTIME:发布于 2015-12-30 00:12
+RETRES_46_CONTENT:疲惫的花卷LV.18漫游宝
+RETRES_46_CNTZAN:1
+RETRES_46_PTIME:发布于 2015-10-21 15:02
+RETRES_47_CONTENT:简单·幸福LV.18应该是叫樱花卡吧
+RETRES_47_CNTZAN:0
+RETRES_47_PTIME:发布于 2016-03-05 12:17
+RETRES_48_CONTENT:等待蓝天LV.17都还行。挺好的
+RETRES_48_CNTZAN:0
+RETRES_48_PTIME:发布于 2016-03-19 08:06
+RETRES_49_CONTENT:SsssXxxx__LV.8国际一号线
+RETRES_49_CNTZAN:0
+RETRES_49_PTIME:发布于 2016-01-20 06:48

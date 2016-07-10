@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6964020
+TITLE:冲绳泊港码头到机场坐车大概多久？那霸机场入关需多长时间？
+DESC:因为14:00到泊港码头，16:45飞机起飞，不知道来得及不。
+TAGS:那霸#冲绳#出入境#机场#交通#
+PUBTIME:2016-06-29 22:25:31
+RETRESSIZE:2
+RETRES_0_CONTENT:冲绳之林LV.8不堵车就10几分钟，，堵一下应该也不会超过30分钟，足够了
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 7小时前
+RETRES_1_CONTENT:luluLV.10指路人只要不堵车就来得及，打车去机场就好，冲绳出境还是很快的
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 24小时前

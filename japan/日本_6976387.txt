@@ -1,0 +1,25 @@
+REGIN:日本
+ID:6976387
+TITLE:去日本买二手单反划算么？去哪里买比较好呢？
+DESC:我的行程是东京京都大阪，不知道什么地方买比较好？想买个二手的尼康d500，感觉日本亚马逊上新的价格和国内差不多，但是我想看看二手会不会便宜一些？还有就是如果买的话可以砍价么？可以退税么？可以保修么？有哪家具体的店铺可以推荐么？
+TAGS:通讯#购物#单反#当地体验#日本#
+PUBTIME:2016-07-01 08:56:13
+RETRESSIZE:6
+RETRES_0_CONTENT:罗纳尔哆啦A梦____LV.15虽然日本本土的电子产品质量还是很不错的，但是楼主哦可以攒钱买新的啊！还有保修。（但是最好是在国内买，这样的话海关的税费、保修都是很方便的）
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 10小时前
+RETRES_1_CONTENT:六十六公路LV.20指路人日本的相机确实便宜，可是售后不方便。而且电子器材不是认识的熟人，爱护器材的人，最好是要慎重和检查仔细。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 10小时前
+RETRES_2_CONTENT:lixianziLV.13日本人把最好的东西留给自己。价格一样，质量完全不同。
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 11小时前
+RETRES_3_CONTENT:凌LV.16如果有时间的话，翻翻乐天的网页，上面有二手交易，以“中古”命名
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 11小时前
+RETRES_4_CONTENT:莫名自恋症患者LV.17去日本买还行！在国内买就不一定了！
+RETRES_4_CNTZAN:1
+RETRES_4_PTIME:发布于 11小时前
+RETRES_5_CONTENT:溟潴LV.21在当地买，质量保证。国内买谁知道呢！
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 11小时前

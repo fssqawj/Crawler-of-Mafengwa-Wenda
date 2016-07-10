@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7035463
+TITLE:台北桃园机场能买悠游卡吗？
+DESC:在桃园机场能买到悠游卡吗？具体位置在哪里？
+TAGS:台北#悠游卡#机场#交通#
+PUBTIME:2016-07-07 17:47:43
+RETRESSIZE:2
+RETRES_0_CONTENT:解家小晓庆LV.8不用担心哒，便利店里都有出售悠游卡的，7-11，全家等便利店都有销售，24小时营业，第一以及第二航站楼都有的
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2小时前
+RETRES_1_CONTENT:蚂蜂窝用户LV.6实习指路人买不到，几个大的捷运站（如台北火车站）可以购买。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2小时前

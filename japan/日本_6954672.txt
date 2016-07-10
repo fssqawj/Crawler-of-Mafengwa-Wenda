@@ -1,0 +1,10 @@
+REGIN:日本
+ID:6954672
+TITLE:请问成田机场到半藏门地铁站怎么换乘，大概需要多少费用？
+DESC:RT
+TAGS:自由行#预算#地铁#机场#交通#
+PUBTIME:2016-06-28 23:24:28
+RETRESSIZE:1
+RETRES_0_CONTENT:BonnieLV.26指路人东京金牌大师最方便的是坐京成本线到押上站换半藏门线到半藏门，票价1210円
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3天前

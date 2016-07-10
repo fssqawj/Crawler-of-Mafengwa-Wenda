@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6970615
+TITLE:自己在东京迪斯尼官网上定了迪斯尼乐园酒店，如何在机场办理入住呢？
+DESC:自己在东京迪斯尼官网上定了迪斯尼乐园酒店，如何在机场办理入住呢？
+TAGS:酒店#自由行#迪士尼#机场#东京#
+PUBTIME:2016-06-30 14:58:27
+RETRESSIZE:2
+RETRES_0_CONTENT:newnLV.22指路人好像机场不能办入住吧。http://www.disneyhotels.jp/chinese/dah/service/index.html#check可以看看官网
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 13小时前
+RETRES_1_CONTENT:minami283LV.3机场不能办啊，去到酒店前台报下名字就行了，拿着护照
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 8小时前

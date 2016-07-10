@@ -1,0 +1,16 @@
+REGIN:latast-7-7
+ID:7034400
+TITLE:日本自由行问题求帮助！
+DESC:在日本7天大阪进东京出请问需要买JR PASS吗？然后大阪JR难波站到梅田蓝天大厦怎么去？谢谢！
+TAGS:自由行#日本#
+PUBTIME:2016-07-07 15:53:17
+RETRESSIZE:3
+RETRES_0_CONTENT:SaraLV.19指路人其实我觉得从大阪到东京最好的办法是飞机 很快 而且提前很早买飞机票的话 很便宜 我买到过两百多块的 从JR难波站去梅田蓝天走路过去十分钟左右 下载个Google map走过去吧 希望亲采纳
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 4小时前
+RETRES_1_CONTENT:SerenaLV.16你是只在大阪和东京吗？那不需要7天的JR卡；梅田蓝天大厦离地铁站和JR站很近，走一走就到了
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 4小时前
+RETRES_2_CONTENT:梦想家晓凡LV.3大阪到东京看看捷星的价格，一般200左右含税就能买到。梅田蓝天确实离JR很近。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 4小时前

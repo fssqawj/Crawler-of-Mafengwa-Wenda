@@ -1,0 +1,19 @@
+REGIN:日本
+ID:6961017
+TITLE:求推荐一本东京自由行攻略
+DESC:准备自己去日本东京自由行，想买一本自由行攻略，在家提前做功课，到了那里以后也有参考，不知道大家有什么好的推荐不？
+TAGS:自由行#东京#
+PUBTIME:2016-06-29 15:54:36
+RETRESSIZE:4
+RETRES_0_CONTENT:tintinLV.13     推荐墨刻工作室的《搭地铁游东京》第三版，非常实用，好用，对根据东京地铁路线规划出11条游览路线详加介绍，涵盖地铁营运方式、车票、票价、路线等注意事项，（第3版）》新增了更多好吃好玩的店家、景点，还替读者规划了5天的地铁顺游行程。      这本纸质轻，可随身携带。蚂蜂窝的那种免费攻略只能了解个大概，实际遇到问题就不管用了。https://www.amazon.cn/搭地铁游东京-墨刻编辑部/dp/B016I9T9PI/ref=sr_1_1?s=books&ie=UTF8&qid=1467187653&sr=1-1&keywords=搭地铁游东京
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:TORO VAN DAKOLV.22指路人日本你好，自由行的权威，隆重推荐《lonely planet 》日本系列。是世界最大的私人旅行指南出版商。是第一个针对背包客  撰写的旅行系列丛书，受到背包客及其他低开销旅游者广大的推崇。因为这本书非常全面，所以，推荐再买一本有正对性的，比如搭地铁游日本，搭地铁游日本，这种就比较浅显易懂。希望对你有帮助！
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2天前
+RETRES_2_CONTENT:DrogbyLV.30指路人日本东京攻略完全制霸：比LP孤独星球lonely planet直观清晰的日本旅游图书 日本自助游自由行宝典，1530个精选景点，附赠51张东京及横滨交通图，银座新宿原宿涩谷代官山秋叶原迪士尼乐园及东京近郊横滨箱根全包括http://product.dangdang.com/23780597.html
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 2天前
+RETRES_3_CONTENT:小他LV.15指路人这个不错，我用过意大利和瑞士的，帮助很大；你也可以选LP的那个，也很实用
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2天前

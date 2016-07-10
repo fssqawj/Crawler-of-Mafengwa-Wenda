@@ -1,0 +1,25 @@
+REGIN:latast-7-7
+ID:7033529
+TITLE:日本签证照片尺寸一定要4.5*4.5吗，普通2寸可以吗
+DESC:求助
+TAGS:签证#日本#
+PUBTIME:2016-07-07 14:35:43
+RETRESSIZE:6
+RETRES_0_CONTENT:渺_xdLV.28指路人以前是可以的，但现在已经不可以了，必须是45*45的。同样更改的是签证的申请书，以前的打印出来手填怎么的都可以，现在必须用PDF版文档录入，会生成一个二维码在表头。没有二维码的不能用。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3小时前
+RETRES_1_CONTENT:姬百合LV.43指路人不可以，特意问过旅行社，今年以前2寸照片也可以使用，但是今年开始日本大使馆的要求严格了，申请表必须打印（以前可以手填），照片必须是4.5*4.5，否则不给办理签证
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 3小时前
+RETRES_2_CONTENT:不惑人生LV.45指路人根据旅行社要求提供吧，不同旅行社要求不一样。我办过两次日本签证，都要求45*45的，我看有的旅行社写的是35*45的，所以还是根据你找的旅行社要求提供吧。
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 5小时前
+RETRES_3_CONTENT:猴贼!!LV.15指路人要4.5*3.5的，按照规定来吧，免得说你不合格让你再寄一次。2寸分好多种的，韩国签证也是两寸啊，但是人家是4.5*3.5的，不一样的都。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 5小时前
+RETRES_4_CONTENT:SarahLV.20指路人护照照片就可以的，不一定要4.5*4.5的！
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 5小时前
+RETRES_5_CONTENT:橙子夹青柠LV.8肯定是要45X45的，因为要符合申请表的大小
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 4小时前

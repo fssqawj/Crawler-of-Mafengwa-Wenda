@@ -1,0 +1,28 @@
+REGIN:日本
+ID:227491
+TITLE:在日本怎么解决通讯问题？
+DESC:计划去日本游玩，打算的是15天，想在关西玩玩。但是半个月怎么解决通讯问题啊？有没有人知道？给点建议谢谢。
+TAGS:通讯#日本#
+PUBTIME:2013-12-30 04:12:53
+RETRESSIZE:7
+RETRES_0_CONTENT:lovelydingLV.16奖励10蜂蜜题主采纳带上自己的手机，然后开通国际漫游就行了。当然也可以租手机的，但是我觉得没必要。具体情况参考攻略吧。
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 2013-12-30 23:11
+RETRES_1_CONTENT:breezeLV.17首先，需要确定自己的手机制式。通常支持WCDMA的的手机在日本都可以使用。到日本之后，将SIM卡插入WCDMA卡槽。打开手机，等待搜索网络。通常会连接上DOCOMO或SOFTBANK。要有耐心，会搜索一阵子。另外IPHONE的话，不论是什么的合约机，都是可以用的。只是需要在设置中开启3g模式，这一点因为我不用iPHONE，只是听用的人说过。其次，自己的手机号需要开启国际漫游，这个需要咨询运营商。据我所知移动号都是可以的，只是要求实名制，同时要求在网时间或账户余额等。WIFI的话，我没有租过设备，都是在酒店上。白天通常不用。地图等应用是离线的。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2014-06-12 17:51
+RETRES_2_CONTENT:MARMARMARMLV.3三种办法 开漫游 买当地卡 租wifi开漫游上网价格太高昂 我是学生党 不敢试这个 没经验不谈买当地卡 看看你手机什么型号 而且http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10183.html(日本)  卡gsm也没有给短期游客的 买了也是纯上网卡wifi的话 去http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10183.html(日本)  我最推荐这个 人多的话更方便 大家一块上网啊您也能根据自己情况再看
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 1天前
+RETRES_3_CONTENT:画手帐的人LV.4我是在淘宝买的联通樱花卡，是8g的流量，大概160块。能上网，但不能打电话发短信。http://www.mafengwo.cn/i/3076291.html我的游记里有，关西很不错，好好玩哦！
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 2014-05-27 20:59
+RETRES_4_CONTENT:ZY_FCLV.26推荐开通国际漫游，免费的，其实在日本只要有网络就可以了，租一个egg，淘宝很便宜，随时随地免费上网
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2014-09-14 23:53
+RETRES_5_CONTENT:🍓张草莓🍓LV.20指路人日本建议租移动wifi，信号好全程无压力，也不用担心流量问题
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 1天前
+RETRES_6_CONTENT:旺母旺母LV.6不是定制机在日本不能使用的。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2014-09-15 02:24

@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7034180
+TITLE:山顶有吃饭的地方吗？北坡和西坡
+DESC:山顶有没有吃饭的地方，两个坡
+TAGS:白河#
+PUBTIME:2016-07-07 15:33:18
+RETRESSIZE:2
+RETRES_0_CONTENT:小他LV.16指路人北坡中间有个卖温泉蛋的，还有个卖零食和纪念品的小店；西坡什么都没有的，所以自己要带些高热量的食物吧，肯定是用的上的，无论北坡还是西坡都可以玩一天呢，所以建议背一顿午饭
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 4小时前
+RETRES_1_CONTENT:长白山—徐LV.11你好，北坡有蓝景快餐，西坡也有餐厅。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 1小时前

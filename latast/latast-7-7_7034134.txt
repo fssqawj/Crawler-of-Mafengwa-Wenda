@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7034134
+TITLE:#吉隆坡#‍吉隆坡‍飞‍斗湖‍的‍机票
+DESC:吉隆坡飞斗湖，机票哪里预定，多少钱，飞多久
+TAGS:吉隆坡#机票#
+PUBTIME:2016-07-07 15:29:04
+RETRESSIZE:1
+RETRES_0_CONTENT:FrankLV.19指路人亚航官网，其他代购网站也可以。
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 4小时前

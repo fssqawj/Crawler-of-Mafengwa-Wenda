@@ -1,0 +1,19 @@
+REGIN:日本
+ID:1993387
+TITLE:求教奈良到大阪的交通方式
+DESC:请教达人们：怎样从奈良到大阪，大阪住在日本桥的Super hotel，谢谢！
+TAGS:大阪#奈良#交通#
+PUBTIME:2015-01-14 09:51:11
+RETRESSIZE:4
+RETRES_0_CONTENT:kaka_宇LV.31指路人日本金牌大师奖励20蜂蜜题主采纳坐近畿铁路（简称近铁），从“近铁奈良”站到“近铁日本桥”站直达，车程不到 40分钟，票价560日元。这个网站可查，但一定记住输入“近铁奈良”和“近铁日本桥”才可以：http://www.hyperdia.com/建议你还是下载一下关西地区的整体交通图，这样线路方面查起来方便很多：http://www.westjr.co.jp/global/sc/travel-information/routemap/pdf/map_kansai.pdf
+RETRES_0_CNTZAN:3
+RETRES_0_PTIME:发布于 2015-01-14 10:07
+RETRES_1_CONTENT:小虫子EvaLV.16步行到[近铁奈良]站乘坐（近鉄奈良線快速急行・神戸三宮行）到达[近鉄日本橋]，然后从出口5(日本橋駅)出，步行1分钟。全程需要约1小时，560日元
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2015-01-14 10:11
+RETRES_2_CONTENT:IamisLV.26指路人日本你在日本桥地铁站乘坐地铁到难波站，然后转近铁奈良线，直接可以到奈良。
+RETRES_2_CNTZAN:2
+RETRES_2_PTIME:发布于 2015-01-14 10:09
+RETRES_3_CONTENT:嘻嘻兔咪儿LV.2地图太有用了，感谢
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2015-09-25 23:39

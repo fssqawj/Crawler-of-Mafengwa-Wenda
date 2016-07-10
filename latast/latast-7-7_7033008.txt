@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7033008
+TITLE:#张掖#丹霞地质公园就是雅丹地质公园吗？
+DESC:如题
+TAGS:公园#张掖#
+PUBTIME:2016-07-07 13:47:31
+RETRESSIZE:2
+RETRES_0_CONTENT:聪明鸡LV.20丹霞地貌在甘肃的张掖，雅丹地貌在甘肃的敦煌
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 6小时前
+RETRES_1_CONTENT:幸运草LV.22实习指路人不是，地理位置都不是同一个地方。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 6小时前

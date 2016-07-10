@@ -1,0 +1,15 @@
+REGIN:latast-7-7
+ID:7032760
+TITLE:成田机场乘坐sky access到新宿
+DESC:问题1.sky access凭西瓜卡可以坐吗？
+         2.到新宿的话，需要在哪里转乘？
+         3.每一趟access，都会到转乘站吗？
+         4.运行时间大约多久？票价大概多少？
+         5.和skyliner比，有什么不同？
+谢谢各位，万分感谢
+TAGS:新宿#机场#交通#
+PUBTIME:2016-07-07 13:18:49
+RETRESSIZE:1
+RETRES_0_CONTENT:kiminonakaLV.121. 可以。不过如果要退卡的话推荐用Pasmo。2. 要看时间的，如果是不同时间的方向是不同的。如果是羽田机场方向的话在浅草桥转中央总武线，如果是京成上野方向的话在日暮里转山手线。3. 见上一个回答4. 不同路线耗时和票价都有点不同，大概1.5小时，1300日元左右。5. skyliner更快，而且是指定席。sky access车里面就像地铁一样。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 4小时前

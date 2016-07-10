@@ -1,0 +1,124 @@
+REGIN:日本
+ID:1932445
+TITLE:#日本#刷银联卡的疑问是指信用卡还是储蓄卡
+DESC:去日本刷银联是指储蓄卡还是信用卡？
+TAGS:银行卡#日本#信用卡#
+PUBTIME:2014-12-28 11:14:44
+RETRESSIZE:39
+RETRES_0_CONTENT:🍓张草莓🍓LV.20指路人日本1.银联卡有储蓄卡也有信用卡，都可以在境外消费。银联的好处是，按照当天外汇牌价直接折算成人民币。个人比较推荐用信用卡，可以累积积分，很多银行还会有境外刷卡的活动。在日本刷银联信用卡，还款的时候直接还人民币即可。但是个人建议楼主准备一张visa卡，以便不时之需。虽说日本大部分地方都可以用银联卡消费，但是我去东京的时候就遇到预订的酒店只能刷visa的情况，所以有一张visa卡还是有必要的。2.至于银联和visa的选择。刷银联卡肯定比visa卡要划算。因为银联直接是将日元按照当天外汇牌价折算成人民币，而visa是折算成美元，还款的时候用人民币购汇还款，这样无形中就有两次汇率差，继而有两次汇率损失。所以日本旅游能刷银联就刷银联，如果不能刷也是考虑用现金，最不划算的是visa。
+RETRES_0_CNTZAN:7
+RETRES_0_PTIME:发布于 2016-03-01 23:56
+RETRES_1_CONTENT:A梦没有哆啦LV.4都可以，有银联标志就行。有的信用卡是双币的，就是银联和VISA都有，银联是直接转换，但是VISA是通过美元转换，需要手续费，个人觉得最好刷银联。
+RETRES_1_CNTZAN:35
+RETRES_1_PTIME:发布于 2014-12-28 23:21
+RETRES_2_CONTENT:却微凉LV.7储蓄卡和信用卡都可以用，如果你选择用信用卡，要看你的卡是银联还是visa，由于通道不同，所以外币转换过来的汇率也不同。银联卡一般是直接从你所用的币种转换成人民币；而像visa是从你用的币种转换成美金，再从美金转换成人民币的。中间会有个汇率差，在你用之前可以考虑下汇率的问题
+RETRES_2_CNTZAN:4
+RETRES_2_PTIME:发布于 2015-11-02 10:17
+RETRES_3_CONTENT:L的小幸福LV.7你好，我刚从日本回国，这次去只要是有银联标志的都能刷。我当时也担心储蓄卡是不行的，不过还是想试试看，所以去之前我特意存了钱去工行和建行的储蓄卡作为备用金。事实证明，银联储蓄卡都可以用。回来我也结算了一下，应该也就是当天的汇率。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2015-07-31 08:41
+RETRES_4_CONTENT:偷得浮生整日闲LV.27指路人答案是信用卡！
+RETRES_4_CNTZAN:20
+RETRES_4_PTIME:发布于 2014-12-28 11:19
+RETRES_5_CONTENT:大瑶熊LV.25指路人有银联标志的信用卡和储蓄卡都可以用，相对而言，带银联且有银联以外如visa mastercard的更好，因为不是左右店都能用银联的。
+RETRES_5_CNTZAN:8
+RETRES_5_PTIME:发布于 2014-12-29 10:05
+RETRES_6_CONTENT:小DLV.10因为海外很多地方是不能刷银联通道的；日本相对来说银联渠道比较成熟，很多城市都可以刷；信用卡、储蓄卡是卡的种类～并不是刷卡的通道；如jcb visa这些才是通道
+RETRES_6_CNTZAN:4
+RETRES_6_PTIME:发布于 2015-11-29 18:08
+RETRES_7_CONTENT:宣尛见LV.42指路人日本金牌大师都可以的，只要有银联标志就行了。一般收银台有银联标志的就能刷，像有些电器商店等店铺刷了银联还能优惠5%。
+RETRES_7_CNTZAN:7
+RETRES_7_PTIME:发布于 2014-12-28 12:03
+RETRES_8_CONTENT:蚂蜂窝用户LV.6信用卡及储蓄卡都行，只要是银联的。但是有些地方没办法刷银联。如果一张信用卡卡上有银联有VISA，请遮掉VISA，指着银联，日本人就懂了。
+RETRES_8_CNTZAN:2
+RETRES_8_PTIME:发布于 2016-06-08 23:50
+RETRES_9_CONTENT:冰之澜LV.11信用卡和储蓄卡都可以，只要卡上有银联标志就可以了，一般咱们的储蓄卡都有银联标志，这个不用担心，信用卡，一般双币种的也都有银联标志。
+RETRES_9_CNTZAN:2
+RETRES_9_PTIME:发布于 2015-12-18 23:55
+RETRES_10_CONTENT:米娜LV.10有银联就行，但是很多情况下信用卡很有活动，比如打折，积分换购之类的，建议最好有银联标志的信用卡
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2016-03-01 23:57
+RETRES_11_CONTENT:ARUKA的强求LV.15银联标志都可以，当然如果是储蓄卡必须卡里有余额，有的商城出示银联卡后付现金也可以打折的
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2015-04-25 15:21
+RETRES_12_CONTENT:harukoLV.20只要带有银联标识，无论信用卡还是借记卡，都算银联卡，而且使用银联卡没有汇率转换费哦
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2015-07-31 08:28
+RETRES_13_CONTENT:娜丫头的邂逅LV.16有银联标志就可以，如果是双币种卡建议能刷银联的地方都刷银联，这样比较划算。
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-03-23 10:46
+RETRES_14_CONTENT:nekoLV.20借记卡信用卡都可以。借记卡是实时汇率，有时反而比信用卡还合算。
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2014-12-28 17:59
+RETRES_15_CONTENT:谢斯年LV.19带银联标识的卡都能刷，建议可以办张招行的全币卡，特别方便。
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2016-03-02 00:06
+RETRES_16_CONTENT:人造蠢卫星LV.3我刷过储蓄卡，储蓄卡可以用，信用卡没刷过但是应该也可以。
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2015-12-25 12:40
+RETRES_17_CONTENT:嵐的藍擔LV.16不管是储蓄卡还是信用卡，只要上面有银联标志的，就可以用的
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2015-11-06 11:34
+RETRES_18_CONTENT:溟潴LV.21只要有银联标志的，储蓄和信用卡都可以的。
+RETRES_18_CNTZAN:1
+RETRES_18_PTIME:发布于 2014-12-28 11:28
+RETRES_19_CONTENT:正义的奥拉夫LV.10信用卡和储蓄卡都可以的，只要有银联标志就可以的
+RETRES_19_CNTZAN:0
+RETRES_19_PTIME:发布于 2016-05-21 01:04
+RETRES_20_CONTENT:KOKOLV.7储蓄卡其实挺好用的，准备一张visa更好。
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2016-03-02 00:06
+RETRES_21_CONTENT:Κéι﹎LV.5只要你的卡上面有银联标志的，都算是银联卡。
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2015-04-03 10:50
+RETRES_22_CONTENT:smcy1122LV.3一般去国外什么的都是刷信用卡的。
+RETRES_22_CNTZAN:1
+RETRES_22_PTIME:发布于 2015-01-21 22:21
+RETRES_23_CONTENT:LonelyPurpLV.17只要有银联标志的，储蓄和信用卡都可以的。
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2015-07-31 08:48
+RETRES_24_CONTENT:途风网LV.16只要有银联标志的，储蓄和信用卡都可以的。
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2015-06-04 22:17
+RETRES_25_CONTENT:esther142301LV.10都可以的啊，只要上面有银联标志就ok啊。
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2015-04-12 08:33
+RETRES_26_CONTENT:老猫LV.37指路人应该说的是银联信用卡，不是银联储蓄卡。
+RETRES_26_CNTZAN:0
+RETRES_26_PTIME:发布于 2014-12-28 12:09
+RETRES_27_CONTENT:BathousaiLV.1最好是信用卡，带visa标示的就行
+RETRES_27_CNTZAN:0
+RETRES_27_PTIME:发布于 2016-06-12 16:17
+RETRES_28_CONTENT:Misa620LV.5都可以，只要有银链标志都是可以的。
+RETRES_28_CNTZAN:0
+RETRES_28_PTIME:发布于 2015-11-06 11:14
+RETRES_29_CONTENT:jieLV.10都可以，只要银联标识的就行
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2016-03-02 00:04
+RETRES_30_CONTENT:lily宅LV.8只要是银联的，都可以用的
+RETRES_30_CNTZAN:0
+RETRES_30_PTIME:发布于 2014-12-28 12:17
+RETRES_31_CONTENT:Enjoy lifeLV.13个人感觉银联卡比较方便
+RETRES_31_CNTZAN:0
+RETRES_31_PTIME:发布于 2015-11-17 07:02
+RETRES_32_CONTENT:轨界零亡LV.12信用卡和储值卡都可以。
+RETRES_32_CNTZAN:0
+RETRES_32_PTIME:发布于 2015-11-05 17:00
+RETRES_33_CONTENT:ljlinmanLV.15信用卡和储值卡都可以
+RETRES_33_CNTZAN:0
+RETRES_33_PTIME:发布于 2015-12-10 17:08
+RETRES_34_CONTENT:3721gsyLV.22两种都可以吧。
+RETRES_34_CNTZAN:0
+RETRES_34_PTIME:发布于 2014-12-28 11:30
+RETRES_35_CONTENT:Q的一些事一些情LV.5visa
+RETRES_35_CNTZAN:0
+RETRES_35_PTIME:发布于 2015-12-19 00:31
+RETRES_36_CONTENT:叫个芳芳都重名LV.5都可以
+RETRES_36_CNTZAN:0
+RETRES_36_PTIME:发布于 2016-06-16 16:43
+RETRES_37_CONTENT:死宅要旅行LV.15都可以
+RETRES_37_CNTZAN:0
+RETRES_37_PTIME:发布于 2016-05-22 11:02
+RETRES_38_CONTENT:ＣＹＹ.BLV.18都可以
+RETRES_38_CNTZAN:0
+RETRES_38_PTIME:发布于 2015-08-30 10:10

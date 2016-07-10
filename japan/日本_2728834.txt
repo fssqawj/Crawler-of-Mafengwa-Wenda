@@ -1,0 +1,157 @@
+REGIN:日本
+ID:2728834
+TITLE:#东京＃ 没有WiFi怎么办？要开国际漫游吗？
+DESC:求大神教教WiFi问题
+TAGS:东京#
+PUBTIME:2015-06-09 00:30:22
+RETRESSIZE:50
+RETRES_0_CONTENT:宣尛见LV.42指路人东京金牌大师1.如果你要开着国际漫游在日本上网，那么开销实在是太大了。建议你在某宝或者旅行社租个移动WIFI，选择国内机场领取和退还的（更方便），就可以带着去日本上网了，押金通常是500，退WIFI时退押金。2.移动WIFI一般可供5台移动设备一起上网，所以你有同行的人将会很方便。待机时间通常是8小时左右，建议带个充电宝预防断电。3.日本很多酒店也是没有无线WIFI的，所以租一个移动WIFI还是挺管用的。
+RETRES_0_CNTZAN:200
+RETRES_0_PTIME:发布于 2015-06-09 09:18
+RETRES_1_CONTENT:兰草薄荷LV.23我在携程上订的，一天13块钱，押金好像是500还是多少来着，在网上付款之后会收到短信，出发当天到机场过完安检找国际漫游柜台，出示短信就可以兑换wifi，归国之后在取行李的地方会有归还点~归还之后我是第二天就收到了携程退回来的押金，如果不从网上订，在柜台直接租也是可以的，就是贵一些，应该是30一天~~wifi要注意充电（我一般都是充一个晚上，第二天用一天还是满格电，到不用太担心中途断电的问题），在柜台领到以后一定要现场试一下能不能连上。wifi不限流量，速度也不错，可以同时连接多台设备，只是有时候可能会断，需要重启一下发射器
+RETRES_1_CNTZAN:49
+RETRES_1_PTIME:发布于 2015-10-03 13:41
+RETRES_2_CONTENT:sophia_yan1209LV.17我是开了国际漫游备用的，大概开始用一天的话超过60RMB他就不收费了但是还是太贵了。建议你在淘宝或者旅行社租个移动WIFI，选择机场领取就好了，工作人员还会给你免税店的打折券的，押金通常是500，退WIFI时他给我一个收据，我拍给淘宝店家，他们后台会办理这些退款的。基本上一两天就ok了。而且我去日本只要9RMB一天好像。超级便宜。我记得移动WIFI供4台还是5台移动设备一起上网，跟朋友拼单最方便。待机时间通常是6小时左右但是我们那个一天开着10小时也没什么问题。感觉很强大。然后日本的酒店一般wifi也很快，可以问问柜台的员工能不能解决这个问题，他们的服务态度也很好的哦。~希望能帮到你哦。
+RETRES_2_CNTZAN:3
+RETRES_2_PTIME:发布于 2016-03-09 17:16
+RETRES_3_CONTENT:扑了个扑的LV.18指路人我去了两次日本，第一次用EGG，第二次买了张DOCOMO也就是达摩卡直接插手机用，感觉明显是达摩卡更好用。EGG要带一台设备和一个充电宝，要是运气不好租到旧机器，三四个小时就没电，还发烫，信号又老断，很郁闷的，插达摩卡就能解决这几个问题。另外，如果你要买卡的话，建议一定要买达摩DOCOMO，其他樱花卡什么的有可能会在国外连不上googleMAP。
+RETRES_3_CNTZAN:4
+RETRES_3_PTIME:发布于 2016-02-26 13:50
+RETRES_4_CONTENT:剑之心LV.11淘宝上买个租随身wifi的就行了，一天25元还可以，最适合两个人自由行。无论到山洞、隧道、山顶、地下全都有信号能上网，而且速度快且稳定。经过我亲自体验，充满电至少能用两天！
+RETRES_4_CNTZAN:20
+RETRES_4_PTIME:发布于 2015-09-24 11:40
+RETRES_5_CONTENT:weiweiLV.15提前在网上租个移动wiff  机场也有窗口办理出租的但价格高些 押金500元 回来时再退 挺方便的 酒店有的只在大堂那里才有wiff信号 另外说一下手机国际漫游需要开通 不是因为wiff  是为了安全及紧急联系方便 可以尽量不打电话 漫游通话大概是一元多一分钟 每个国家可能略有不同 供你参考
+RETRES_5_CNTZAN:6
+RETRES_5_PTIME:发布于 2015-10-23 00:25
+RETRES_6_CONTENT:HUA XIN🎀LV.4开通国际漫游只是方便打电话等，适合遇到突发情况时候紧急求助，如果没有足够的流量话还是费用很高的。建议提前在网上订购随身Wi-Fi，或者买当地的临时电话卡，都可以上网的。如果嫌麻烦就等晚上回到酒店再上网，一般酒店至少大堂都是有Wi-Fi的。
+RETRES_6_CNTZAN:3
+RETRES_6_PTIME:发布于 2015-10-11 09:31
+RETRES_7_CONTENT:薛薛。LV.5建议在中国境内就租好，邮寄给你或者机场取。我买的挺便宜的，一天只要一块多，五百的押金。而且我出入境不是同一地，都方便机场取还。需要的话，我告诉你是淘宝的哪一家。
+RETRES_7_CNTZAN:5
+RETRES_7_PTIME:发布于 2015-12-28 14:16
+RETRES_8_CONTENT:阳光宅男LV.151、中国移动国际漫游，每天56元不限量。2、淘宝，达摩卡，58-68，8天内不限流量，信号超好。
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2016-04-25 11:10
+RETRES_9_CONTENT:zqmubwLV.11要不某宝办个樱花卡，要不某宝租个移动wifi。一般推荐用环球漫游移动wifi，可以在某宝上租也可以在机场里租。不过机场租的话要排很长队。。。
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2016-01-01 12:42
+RETRES_10_CONTENT:一见倾心LV.16租个移动wifi-EGG，或者买个电话卡，一周或者一个月的，都比较划算
+RETRES_10_CNTZAN:7
+RETRES_10_PTIME:发布于 2015-11-09 17:59
+RETRES_11_CONTENT:ìúó 雯LV.10http://www.mafengwo.cn/i/5314861.html 我写的游记，有写到Wi-Fi，希望对你有帮助～
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2016-05-31 15:07
+RETRES_12_CONTENT:不惑人生LV.45指路人东京淘宝上可以租个无线wifi, 到日本就可以上网了，主要是查乘车路线方便，酒店一般都提供免费上网的，开漫游太贵了。
+RETRES_12_CNTZAN:1
+RETRES_12_PTIME:发布于 2015-06-09 01:31
+RETRES_13_CONTENT:laila.LV.19可以在某宝租个移动wifi方便，如果只是查路线，可以直接下个离线地图…而且很多地方都有wifi吧。
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2016-01-03 19:06
+RETRES_14_CONTENT:tarocatLV.21去租个WIFI蛋或者买卡都可以啊~但是要看清楚服务器用的是国内还是日本的，绝对影响很大的。
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2015-10-19 21:03
+RETRES_15_CONTENT:maychen0623LV.15移动wifi很好用，我租的环球漫游，偶尔要重启，但整体感觉不错，一次五台设备上网都没问题。
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2015-11-16 00:09
+RETRES_16_CONTENT:企鹅LV.15带个移动wifi就可以啦，淘宝或者各种旅游网站上都有借的，很方便的
+RETRES_16_CNTZAN:2
+RETRES_16_PTIME:发布于 2015-12-18 21:10
+RETRES_17_CONTENT:小球LV.15去某宝或者到了机场租个随身wifi，如果没有一定要打电话的必要，就不用开国际漫游。
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2015-09-27 06:00
+RETRES_18_CONTENT:ineedyou1127LV.3买个当地卡是最便宜的选择、淘宝上多的很、我人还在欧洲用的就是淘宝200多买的上网卡
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 2015-09-27 03:59
+RETRES_19_CONTENT:半毛分LV.15在国内就能买的，淘宝上很多，我记得蚂蜂窝上也有不少，基本上都能用，不用太担心
+RETRES_19_CNTZAN:0
+RETRES_19_PTIME:发布于 2016-02-29 07:47
+RETRES_20_CONTENT:Helen 张LV.1买个电话卡 大概是80的样子 是7天不限制流量的网络 而且亲测速度还行
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2016-02-25 11:20
+RETRES_21_CONTENT:pattychen2LV.3東京可在機場或遊客中心申請網路熱點帳號與密碼，有些百貨公司也會提供．
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2016-04-12 23:14
+RETRES_22_CONTENT:月下舞蹈恶魔LV.23租个Wi-Fi，不租日本酒店也都有免费wifi，开通个国际漫游就行
+RETRES_22_CNTZAN:0
+RETRES_22_PTIME:发布于 2016-02-06 10:22
+RETRES_23_CONTENT:MandyLV.10某宝上有租的WIFI，很好用，踏遍全球都方便，每天才 30元左右。
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2015-11-13 15:49
+RETRES_24_CONTENT:loverabbitLV.16你可以租随身wifi，但是要打电话的话，就一定要开通国际长途。
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2016-03-25 09:11
+RETRES_25_CONTENT:JoeyChan-LV.21租wifi egg是必须的！！！不然。。一没网就陷入迷路的困境
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2016-01-29 13:54
+RETRES_26_CONTENT:狮子座玫瑰花LV.20在国内提前租一个wi-fi，机场就有这个业务，价格不高好用。
+RETRES_26_CNTZAN:0
+RETRES_26_PTIME:发布于 2015-11-29 11:52
+RETRES_27_CONTENT:寒风飘雪LV.22可以出国前去旅行社租一个移动wifi，到了日本随身携带就行。
+RETRES_27_CNTZAN:0
+RETRES_27_PTIME:发布于 2015-11-12 08:44
+RETRES_28_CONTENT:ADSFADSLV.23淘宝租Wi-Fi，跟团也可不买，日本酒店都带免费Wi-Fi
+RETRES_28_CNTZAN:0
+RETRES_28_PTIME:发布于 2015-10-21 15:40
+RETRES_29_CONTENT:黑天马的小野驴LV.14租个移动WiFi，两三个人使没有问题，信号挺好，速度也挺快
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2016-02-04 09:28
+RETRES_30_CONTENT:茹此一家LV.15提前置办移动wifi，淘宝价便宜，如果没时间可以在机场租
+RETRES_30_CNTZAN:0
+RETRES_30_PTIME:发布于 2016-03-03 10:37
+RETRES_31_CONTENT:大剑哥哥LV.15如租随身wifi吧，价格也不贵，一般也就15到20元一天
+RETRES_31_CNTZAN:0
+RETRES_31_PTIME:发布于 2016-01-19 06:30
+RETRES_32_CONTENT:紫夜LV.21在机场租个wifi,淘宝上也可以买到
+RETRES_32_CNTZAN:2
+RETRES_32_PTIME:发布于 2015-12-22 05:57
+RETRES_33_CONTENT:阿喜@TokyoLV.7机场就有便携WIFI可以租，回去的时候在机场退还就好
+RETRES_33_CNTZAN:0
+RETRES_33_PTIME:发布于 2015-11-09 13:54
+RETRES_34_CONTENT:蚂蜂窝用户LV.8可以在网上借一个wifi啊，价格便宜，用起来也很方便
+RETRES_34_CNTZAN:0
+RETRES_34_PTIME:发布于 2016-05-02 11:08
+RETRES_35_CONTENT:ミ﹎azure°LV.11买个当地的电话卡，或者开漫游，或者租个移动wifi
+RETRES_35_CNTZAN:0
+RETRES_35_PTIME:发布于 2015-09-24 09:44
+RETRES_36_CONTENT:爱旅行的陈家少爷LV.15租随身Wi-Fi或者买手机卡，万能的淘宝一搜就好了
+RETRES_36_CNTZAN:0
+RETRES_36_PTIME:发布于 2016-02-22 07:32
+RETRES_37_CONTENT:傲视阿彪LV.40指路人随身Wi-Fi必须推荐啊，方便又好用！
+RETRES_37_CNTZAN:1
+RETRES_37_PTIME:发布于 2015-10-31 00:47
+RETRES_38_CONTENT:Christina~LV.16某宝有租移动wifi 可以直接机场取还
+RETRES_38_CNTZAN:1
+RETRES_38_PTIME:发布于 2016-01-16 09:05
+RETRES_39_CONTENT:鼓鼓LV.39指路人去买一个租动wifi吧，漫游很贵，买卡也可以的
+RETRES_39_CNTZAN:0
+RETRES_39_PTIME:发布于 2015-09-23 23:29
+RETRES_40_CONTENT:笑对人生LV.15租个wifi，或者办个他们的套餐，送流量的那种
+RETRES_40_CNTZAN:0
+RETRES_40_PTIME:发布于 2015-11-02 08:55
+RETRES_41_CONTENT:夏波蒂LV.16建议你租一个wifi，还是很方便的，而且也不贵
+RETRES_41_CNTZAN:0
+RETRES_41_PTIME:发布于 2015-11-22 18:28
+RETRES_42_CONTENT:公子玦LV.11提前网上租个移动WIFI，机场自取，很方便的。
+RETRES_42_CNTZAN:0
+RETRES_42_PTIME:发布于 2016-01-29 10:59
+RETRES_43_CONTENT:sadmoonLV.18租个移动wifi啊 日韩这个做得最多也最合适
+RETRES_43_CNTZAN:0
+RETRES_43_PTIME:发布于 2015-09-24 09:46
+RETRES_44_CONTENT:skyweixinLV.17万能的淘宝。买wifi
+RETRES_44_CNTZAN:2
+RETRES_44_PTIME:发布于 2016-01-16 22:11
+RETRES_45_CONTENT:背包客LV.15可以在网上买一个或者当地租一个移动wifi
+RETRES_45_CNTZAN:0
+RETRES_45_PTIME:发布于 2015-10-22 07:39
+RETRES_46_CONTENT:啼妆印得花残LV.18移动wifi，现在国内日本旅行团基本都有
+RETRES_46_CNTZAN:0
+RETRES_46_PTIME:发布于 2015-10-01 12:40
+RETRES_47_CONTENT:一路前行LV.22开流量你会吓死，还是买个随身wifi吧
+RETRES_47_CNTZAN:0
+RETRES_47_PTIME:发布于 2016-01-27 23:46
+RETRES_48_CONTENT:张刷刷LV.20在旅行社租一个wifi或者在淘宝买个卡
+RETRES_48_CNTZAN:0
+RETRES_48_PTIME:发布于 2015-11-10 01:42
+RETRES_49_CONTENT:chenasyLV.15可以选择租移动wifi机器，机场取还
+RETRES_49_CNTZAN:0
+RETRES_49_PTIME:发布于 2015-10-23 00:14

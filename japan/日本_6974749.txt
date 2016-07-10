@@ -1,0 +1,17 @@
+REGIN:日本
+ID:6974749
+TITLE:成田机场到东京站怎么坐地铁呢😅😅
+DESC:如题 
+然后就想问问东京晚上治安怎么样 因为我很晚到达
+TAGS:地铁#日本#机场#东京#交通#
+PUBTIME:2016-07-01 00:04:09
+RETRESSIZE:3
+RETRES_0_CONTENT:DrogbyLV.30指路人既然晚了，还是推荐成田特急NEX，虽然单程1小时3000日元，但是方便而且快速。时刻表如下，最晚一班21:44发车https://www.jreast.co.jp/nex/pdf/timetable_from_narita.pdf
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 6小时前
+RETRES_1_CONTENT:无知斋主LV.16省钱的可以坐京成本线去上野，少停站可以坐成田特快N'EX到东京或新宿。具体可以上成田官网看下，有中文界面。治安很好的。
+RETRES_1_CNTZAN:2
+RETRES_1_PTIME:发布于 19小时前
+RETRES_2_CONTENT:天地良心LV.9成田机场没有地铁到东京，东京治安不错，应该跟北京差不多
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 19小时前

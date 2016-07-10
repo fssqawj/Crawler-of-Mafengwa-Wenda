@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7033768
+TITLE:日本儿童门票收费情况
+DESC:日本海游馆门票写的4-6岁儿童，这个是虚岁还是实际年龄啊？买票是要看孩子的护照么？
+TAGS:门票#日本#
+PUBTIME:2016-07-07 14:59:08
+RETRESSIZE:1
+RETRES_0_CONTENT:maggieLV.31指路人大阪日本按周岁算，过生日长一岁。买票基本靠自觉，护照带着吧以防万一。
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 4小时前

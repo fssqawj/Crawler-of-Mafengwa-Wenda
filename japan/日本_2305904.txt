@@ -1,0 +1,43 @@
+REGIN:日本
+ID:2305904
+TITLE:#日本#去日本手机想要随时都有网怎么办？
+DESC:人生地不熟的，很多都需要导航和攻略，手机不能没网啊！到了日本怎么弄的
+TAGS:手机#日本#
+PUBTIME:2015-03-26 00:21:57
+RETRESSIZE:12
+RETRES_0_CONTENT:优的良士LV.32指路人建议去淘宝买一个樱花卡，价格便宜，几十块钱包7天的3G流量，虽然不能用4G，但速度足够快了，我们上次就是用这个卡的，很方便，而且一台手机上，打开热点，可以让其它手机一起上，很划算的。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2015-03-26 02:37
+RETRES_1_CONTENT:kokiuketsuLV.10建议买富士卡，7天1.8g那种。樱花卡不能用谷歌地图，非死不可等。富士卡可以。速度一般，但是微信，微博，朋友圈都没问题。之前去和小伙伴开热点两个人都没用完。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2015-03-26 08:17
+RETRES_2_CONTENT:立白喵喵喵LV.2探途离线地图，在有WiFi的地方下载好，没网没信号，不插电话卡都ok~都可以使用导航，翻译软件就不知道了。但是你想随时有网的话，还是去买个移动WiFi吧
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 1天前
+RETRES_3_CONTENT:大瑶熊LV.25指路人http://m.vipwifi.com/环球漫游，一天18，网上租，机场取。用了多少次了都。
+RETRES_3_CNTZAN:5
+RETRES_3_PTIME:发布于 2015-03-26 13:00
+RETRES_4_CONTENT:Imagine_ysLV.31指路人日本金牌大师可以某宝租一个随身WIFI,现在的均价是18元一天,4G流量无限流量,还是很方便的,到了那边就能开网联系家里人刷朋友圈了
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2015-03-26 09:47
+RETRES_5_CONTENT:不惑人生LV.45指路人租个WiFiegg就行啦，随时随地有信号，价格也不贵，去各个网站上找找吧，最好能机场取机场还，省事。
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2015-03-26 05:11
+RETRES_6_CONTENT:☆1+1=2√☆LV.33指路人出国前租一个移动wifi…某宝有售，价格很公道，信号很强大…推荐考虑…
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2015-03-26 00:36
+RETRES_7_CONTENT:🍓张草莓🍓LV.20指路人日本淘宝wifi吧，我去日本用的移动wifi，信号好全程无压力
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 1天前
+RETRES_8_CONTENT:esther142301LV.10淘宝有租啊，1天10几块钱，在机场交接WIFI，速度挺好。
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2015-03-30 10:11
+RETRES_9_CONTENT:小米辣朝天椒LV.10同样建议租一个随身wifi，信号不错~
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2015-03-26 11:48
+RETRES_10_CONTENT:clonednaLV.21指路人租个WiFiegg就行啦
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2015-04-05 08:41
+RETRES_11_CONTENT:CherryLV.19某宝租wifi
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2015-03-26 09:38

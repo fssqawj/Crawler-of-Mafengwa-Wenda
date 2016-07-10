@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7034114
+TITLE:我喜欢吃鱼丸，你喜欢什么美食呢?来自什么城市?
+DESC:吃,是生活中必不可少的东西，有时，旅游是为了美食。
+TAGS:美食#
+PUBTIME:2016-07-07 15:27:33
+RETRESSIZE:1
+RETRES_0_CONTENT:啊彬LuffyLV.20指路人我喜欢芒果，来自霞浦，哈哈，楼主你是福州的？
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 4小时前

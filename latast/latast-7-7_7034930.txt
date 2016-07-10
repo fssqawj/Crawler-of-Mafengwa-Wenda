@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7034930
+TITLE:什么地方可以icoca查余额
+DESC:什么地方可以icoca查余额
+TAGS:交通#
+PUBTIME:2016-07-07 16:44:37
+RETRESSIZE:1
+RETRES_0_CONTENT:tintinLV.14车站的自动充值机，或者有ICOCA标志的便利店也可以查
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3小时前

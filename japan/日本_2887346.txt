@@ -1,0 +1,154 @@
+REGIN:日本
+ID:2887346
+TITLE:#日本#泡温泉最好是哪个地方？
+DESC:日本泡温泉最好是哪里？
+TAGS:日本#温泉#
+PUBTIME:2015-07-02 22:04:32
+RETRESSIZE:49
+RETRES_0_CONTENT:藏Y守ZH小肥鴨LV.23指路人http://www.welcome2japan.cn/indepth/exotic/onsen_ryokan/p3_ajiwai.html↑ 泡法不一樣的, 有的是泡泉質, 有的是泡風景, 有的是泡感覺, 有的是泡歷史文化, 自己參考一下吧。
+RETRES_0_CNTZAN:170
+RETRES_0_PTIME:发布于 2015-07-02 22:06
+RETRES_1_CONTENT:ICEYLV.9我去了两个地方的温泉。一个是神户周围的有马温泉，另一个是箱根的温泉。两种不同的风格，有马温泉分金汤和银汤，很多老人去泡。从大阪坐车也很方便。箱根住的一家温泉酒店，可以看到湖景。这两个包括关系的一些温泉推荐和一些著名的温泉推荐http://www.japanican.com/cn/special/area/kansai_onsen/index.aspxhttp://www.japanican.com/content/cn/special/hitou/index.aspx
+RETRES_1_CNTZAN:82
+RETRES_1_PTIME:发布于 2015-10-20 07:38
+RETRES_2_CONTENT:傻。小轩LV.19我去了两个地方的温泉。一个是神户周围的有马温泉，另一个是箱根的温泉。两种不同的风格，有马温泉分金汤和银汤，很多老人去泡。从大阪坐车也很方便。箱根住的一家温泉酒店，可以看到湖景。这两个包括关系的一些温泉推荐和一些著名的温泉推荐http://www.japanican.com/cn/special/area/kansai_onsen/index.aspxhttp://www.japanican.com/content/cn/special/hitou/index.aspx
+RETRES_2_CNTZAN:24
+RETRES_2_PTIME:发布于 2015-10-23 20:59
+RETRES_3_CONTENT:鲛泷LV.15指路人说不上哪里最好吧，各地有各地的特色。但是说到日本的温泉，不得不提的就是长野的地狱谷温泉。到这里的人不仅仅是为了泡温泉才来的，更多的是为了看雪猴来的—一群据说是全世界唯一会泡温泉的猴子~长野可以说是雪国，雪下得大的时候山里也会起雾，朦胧胧的一片，放眼望去，一片虚无尽收眼底，心里似乎也是轻得虚无，只想好好享受眼下的美景。猴子一点也不怕人，蹭蹭你或是跟在你身边溜达，偶尔吃饱了露出一脸的满足与幸福，冷了便下到水中泡温泉。在这里即使不泡温泉，光是徒步也会是满足~
+RETRES_3_CNTZAN:7
+RETRES_3_PTIME:发布于 2015-12-25 14:14
+RETRES_4_CONTENT:大瑶熊LV.25指路人没有最好，只有更好。去东京的话，箱根、草津、热海，九州的话别府、北海道就跟多了。
+RETRES_4_CNTZAN:24
+RETRES_4_PTIME:发布于 2015-07-03 09:26
+RETRES_5_CONTENT:io02LV.19指路人想体验别样雪中温泉推北海道登别地狱谷（但貌似最早都要在11月才能体验雪中温泉）~想体验传统日式温泉首推箱根~赏红叶美景推奥入濑溪九重之泷~
+RETRES_5_CNTZAN:10
+RETRES_5_PTIME:发布于 2015-10-22 08:51
+RETRES_6_CONTENT:Kanagawa-chenLV.10这个问题是不是应该换成，我想去XXXX，附近是否有有特色的温泉呢？哪里敢说自己是最好啊。
+RETRES_6_CNTZAN:8
+RETRES_6_PTIME:发布于 2015-07-02 22:21
+RETRES_7_CONTENT:abbyLV.16最好？不好说。很多地方都很有名。比如箱根，大分别府之类的。
+RETRES_7_CNTZAN:5
+RETRES_7_PTIME:发布于 2015-09-24 10:46
+RETRES_8_CONTENT:_.SkyLV.12其實全日本都有很多好的溫泉,可以根據你的行程去找附近的
+RETRES_8_CNTZAN:5
+RETRES_8_PTIME:发布于 2015-12-01 09:36
+RETRES_9_CONTENT:aquarius1981LV.15我推荐北海道，12月后雪季泡温泉的风景让我至今难忘。而且北海道的温泉又多，我去过的是阿寒湖
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2016-02-13 08:44
+RETRES_10_CONTENT:大自然的粉丝LV.15没有最好，不同的温泉有不同的特点，不同的人有不同的看法，没办法下统一的结论。
+RETRES_10_CNTZAN:1
+RETRES_10_PTIME:发布于 2015-11-03 04:35
+RETRES_11_CONTENT:吼吼吼LV.21箱根和北海道的算是最出名的，其实日本大部分的都是很不错的，基本都是真温泉
+RETRES_11_CNTZAN:1
+RETRES_11_PTIME:发布于 2016-01-06 09:18
+RETRES_12_CONTENT:安顺日本游LV.8箱根，富士山，河口湖，伊豆，热海，都是不错的温泉乡，亲可以去感受一下。
+RETRES_12_CNTZAN:1
+RETRES_12_PTIME:发布于 2016-03-05 15:19
+RETRES_13_CONTENT:最离谱的温柔LV.4每个季节有不一样的风景，还有周边景点也是考虑因素之一，不能光是为了泡温泉而去吧
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2016-03-06 10:17
+RETRES_14_CONTENT:asasasLV.3北海道
+RETRES_14_CNTZAN:7
+RETRES_14_PTIME:发布于 2015-07-03 09:27
+RETRES_15_CONTENT:GoodBye_超载LV.21在关西的话，推荐去有马跟白滨泡汤。
+RETRES_15_CNTZAN:4
+RETRES_15_PTIME:发布于 2015-07-02 22:28
+RETRES_16_CONTENT:碧蓝瞳孔中的虹色LV.2日本的温泉太多了主要看你在什么位置   要说特色还是箱根那边的
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2016-05-13 23:26
+RETRES_17_CONTENT:TOTOROYOLV.4我也打算去玩 自己有搜罗一下 比较有名的有箱根和伊豆
+RETRES_17_CNTZAN:1
+RETRES_17_PTIME:发布于 2015-10-13 14:50
+RETRES_18_CONTENT:阿瓜先森LV.15北海道吧  其实感觉是你喜欢什么样的才适合什么样的
+RETRES_18_CNTZAN:1
+RETRES_18_PTIME:发布于 2015-11-06 08:54
+RETRES_19_CONTENT:怪物XXXLLV.17箱根是个温泉圣地 我也是看日剧了解的 嘿嘿
+RETRES_19_CNTZAN:1
+RETRES_19_PTIME:发布于 2016-01-06 00:05
+RETRES_20_CONTENT:炸面窝LV.12温泉没有最好，每个温泉的功效不同，每个人喜好不同。
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2016-03-24 07:14
+RETRES_21_CONTENT:朽木LV.30首推北海道，其他箱根、草津、热海也很不错
+RETRES_21_CNTZAN:1
+RETRES_21_PTIME:发布于 2016-01-03 18:52
+RETRES_22_CONTENT:嵐的藍擔LV.16分别在北海道和箱根有泡过温泉，都不错
+RETRES_22_CNTZAN:1
+RETRES_22_PTIME:发布于 2015-11-07 10:21
+RETRES_23_CONTENT:Peko酱小桃桃LV.18去温泉之城 别府 八大地狱温泉
+RETRES_23_CNTZAN:1
+RETRES_23_PTIME:发布于 2016-01-15 11:02
+RETRES_24_CONTENT:蓓蓓miniLV.24箱根 温泉之乡 或者 飞弹地区下吕温泉
+RETRES_24_CNTZAN:0
+RETRES_24_PTIME:发布于 2016-01-19 08:09
+RETRES_25_CONTENT:越南指路人LV.23推荐去有马跟白滨泡汤,北海道泡温泉
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2016-01-09 01:24
+RETRES_26_CONTENT:啼妆印得花残LV.18我觉得神户和北海道最棒了
+RETRES_26_CNTZAN:1
+RETRES_26_PTIME:发布于 2015-10-20 11:31
+RETRES_27_CONTENT:白加黑LV.26北海道
+RETRES_27_CNTZAN:2
+RETRES_27_PTIME:发布于 2015-10-27 08:39
+RETRES_28_CONTENT:晴空澫荲LV.21北海道，箱根
+RETRES_28_CNTZAN:1
+RETRES_28_PTIME:发布于 2015-12-29 08:45
+RETRES_29_CONTENT:chuhan88888888LV.14神户的温泉听说特别好
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2016-01-20 21:48
+RETRES_30_CONTENT:不2LV.18北海道
+RETRES_30_CNTZAN:1
+RETRES_30_PTIME:发布于 2015-11-11 08:53
+RETRES_31_CONTENT:tomiLV.15北海道
+RETRES_31_CNTZAN:1
+RETRES_31_PTIME:发布于 2015-11-26 00:18
+RETRES_32_CONTENT:聪的心~鉴定LV.16差不多
+RETRES_32_CNTZAN:1
+RETRES_32_PTIME:发布于 2015-12-19 21:02
+RETRES_33_CONTENT:Metis' eyeLV.14北海道，户外温泉
+RETRES_33_CNTZAN:0
+RETRES_33_PTIME:发布于 2016-01-22 15:38
+RETRES_34_CONTENT:Hello WingLV.20实习指路人群马县的宝川温泉
+RETRES_34_CNTZAN:0
+RETRES_34_PTIME:发布于 2016-04-25 10:21
+RETRES_35_CONTENT:张佳梁LV.5伊豆
+RETRES_35_CNTZAN:1
+RETRES_35_PTIME:发布于 2015-10-23 16:53
+RETRES_36_CONTENT:- -LV.9神户
+RETRES_36_CNTZAN:1
+RETRES_36_PTIME:发布于 2015-12-11 18:58
+RETRES_37_CONTENT:苗LV.20箱根神户北海道
+RETRES_37_CNTZAN:0
+RETRES_37_PTIME:发布于 2016-02-26 08:24
+RETRES_38_CONTENT:晚翠LV.26箱根和北海道的
+RETRES_38_CNTZAN:0
+RETRES_38_PTIME:发布于 2016-03-22 09:33
+RETRES_39_CONTENT:のＣherish'LV.19富士山附近不错
+RETRES_39_CNTZAN:0
+RETRES_39_PTIME:发布于 2016-04-14 10:25
+RETRES_40_CONTENT:你懂吗LV.16北海道泡温泉
+RETRES_40_CNTZAN:0
+RETRES_40_PTIME:发布于 2016-04-05 21:03
+RETRES_41_CONTENT:简单LV.17北海道，箱根
+RETRES_41_CNTZAN:0
+RETRES_41_PTIME:发布于 2016-01-08 08:25
+RETRES_42_CONTENT:一天世界LV.4北海道泡温泉
+RETRES_42_CNTZAN:0
+RETRES_42_PTIME:发布于 2015-12-29 08:53
+RETRES_43_CONTENT:蚂蜂窝用户51675967LV.9北海道。
+RETRES_43_CNTZAN:0
+RETRES_43_PTIME:发布于 2016-01-28 08:20
+RETRES_44_CONTENT:ingyLV.17北海道
+RETRES_44_CNTZAN:0
+RETRES_44_PTIME:发布于 2016-01-18 12:53
+RETRES_45_CONTENT:纳米克星一枝花LV.17北海道
+RETRES_45_CNTZAN:0
+RETRES_45_PTIME:发布于 2016-01-08 08:54
+RETRES_46_CONTENT:夕颜的天空LV.7箱根
+RETRES_46_CNTZAN:0
+RETRES_46_PTIME:发布于 2016-05-08 10:31
+RETRES_47_CONTENT:fengLV.24箱根
+RETRES_47_CNTZAN:0
+RETRES_47_PTIME:发布于 2016-03-15 00:22
+RETRES_48_CONTENT:_不想吭气.LV.22箱根
+RETRES_48_CNTZAN:0
+RETRES_48_PTIME:发布于 2016-02-03 09:11

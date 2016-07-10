@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7034353
+TITLE:有没有旅行去过的特别的后悔
+DESC:有没有去旅行，去完特别后悔的地方
+TAGS:交通#
+PUBTIME:2016-07-07 15:48:32
+RETRESSIZE:2
+RETRES_0_CONTENT:猴贼!!LV.15指路人韩国首尔，泰国普吉岛芭提雅，杭州，丽江。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 4小时前
+RETRES_1_CONTENT:麦当雄LV.16韩国首尔，自助游三天……极其后悔！
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 3小时前

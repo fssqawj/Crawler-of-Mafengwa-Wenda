@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7035175
+TITLE:日喀则火车站到扎什伦布寺公交线路怎么乘坐？
+DESC:坐火车到日喀则，下火车怎么坐车到扎寺参观？不打车，公交。
+TAGS:火车站#行程#巴士#扎什伦布寺#日喀则#
+PUBTIME:2016-07-07 17:09:29
+RETRESSIZE:1
+RETRES_0_CONTENT:删除LV.31指路人走出火车站，坐1路车，到上海广场下，步行过去
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 3小时前

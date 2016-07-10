@@ -1,0 +1,22 @@
+REGIN:日本
+ID:6957938
+TITLE:哪里可以买到北海道生巧克力？？？
+DESC:因不去北海道，来回的机场都是在名古屋。哪里可以买到这个生巧克力？？？东京大阪都会去、
+TAGS:购物#北海道#巧克力#
+PUBTIME:2016-06-29 10:47:13
+RETRESSIZE:5
+RETRES_0_CONTENT:DrogbyLV.30指路人日本奖励20蜂蜜题主采纳回国的几乎所有机场都有卖，东京的成田机场羽田机场，大阪关西机场，福冈机场，札幌新千岁，静冈富士山机场，名古屋中部机场，冲绳那霸机场全部看到。1盒800日元，建议回国前购买，因为需要冰袋保鲜。
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:散落一地的饼干儿LV.17实习指路人机场就有卖。各种口味。忘记是720日元还是750日元一盒了。可以选择有保温袋100日元。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2天前
+RETRES_2_CONTENT:止爱创口贴LV.19指路人在名古屋机场就可以买到，放在冰箱里面的，720一盒
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 2天前
+RETRES_3_CONTENT:阿雷LV.5不用去找，在网上就可以买到。
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 2天前
+RETRES_4_CONTENT:kiminonakaLV.11那只有机场免税店可以买了。
+RETRES_4_CNTZAN:1
+RETRES_4_PTIME:发布于 2天前

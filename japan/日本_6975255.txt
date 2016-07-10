@@ -1,0 +1,16 @@
+REGIN:日本
+ID:6975255
+TITLE:秋叶原到迪士尼具体路线
+DESC:秋叶原到迪士尼具体路线
+TAGS:秋叶原#行程#迪士尼#
+PUBTIME:2016-07-01 02:23:37
+RETRESSIZE:3
+RETRES_0_CONTENT:sugar1216LV.20指路人东京秋叶原站坐METRO日比谷线（中目黑方向）1号站台上车，坐4站到八丁堀八丁堀换乘JR京叶线（苏我方向）1号站台上车，坐5站到舞浜站车费：165日元（METRO）+216日元（JR）车程 28分钟左右 仅限于中间换乘不迷路的情况下还有种省钱方法，全部坐一个公司地铁JR线可秋叶原坐JR山手线（东京方向）3号站台上车，坐2站到东京站东京站换乘JR京叶线（苏我方向）4号或者2号站台（以实际屏幕为准）上车，坐6站到舞浜站下车费：216日元（JR）  车程：35分钟左右舞浜站下来就是DISNEY LAND ，个人觉得去LAND走走就到了，没必要坐DISNEY环线，环线也贵，260日元。我自己去LAND 都是舞浜站下来走过去的，舞浜站下来，左手边的人群是坐迪斯尼环线的，右边人群就是去DISNEY LAND的。如果要去DISNEY SEA 可换乘迪斯尼环线坐3站到迪斯尼海洋站下。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 10小时前
+RETRES_1_CONTENT:HinaLV.16可以JR山手线坐到东京站再换坐京葉線到舞浜，然后就是跟着人流去坐DISNEY的小火车就行了或者可以在秋叶原站坐迪士尼的直达BUS，具体乘坐点和时间表可以参考下面这个网页http://info.tokyodisneyresort.jp/access/bus/akihabara.html
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 10小时前
+RETRES_2_CONTENT:emily婷LV.18指路人大概四十分钟从秋叶原坐日比谷线地铁，往中目黑的方向走走到“八丁堀”在八丁堀换到JR京叶线快速，往苏我的方向走走到舞滨就到迪士尼了出了站再坐环状小火车到迪斯尼的两个公园门口
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 13小时前

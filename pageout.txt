@@ -1,0 +1,1833 @@
+ <!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~ - 蚂蜂窝</title>
+<meta name="description" content="" />
+<meta name="keywords" content="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" />
+
+<script type="text/javascript">
+window.Env = {"WWW_HOST":"www.mafengwo.cn","IMG_HOST":"images.mafengwo.net","P_HOST":"passport.mafengwo.cn","P_HTTP":"https:\/\/passport.mafengwo.cn","UID":0,"CSTK":"721a219d6b2cfdd4a092a87dd25df914_1d72f19a71c5010078e1791f9bdda866"};
+</script>
+
+<link href="http://css.mafengwo.net/css/cv/css+base:css+jquery.suggest:css+plugins:css+plugins+jquery.jgrowl:css+other+popup:css+app+topbar_v2^alw^1466649267.css" rel="stylesheet" type="text/css"/>
+
+
+<link href="http://css.mafengwo.net/css/cv/css+mfw-ask+detail_v2:css+mfw-ask+img_pop:css+mfw-ask+detail_answer_foldup:css+mfw-ask+upload_pics^al0^1467192595.css" rel="stylesheet" type="text/css"/>
+
+<script language="javascript" src="http://js.mafengwo.net/js/cv/js+jquery-1.8.1.min:js+global+json2:js+M+Module:js+M+M:js+M+Log:js+m.statistics^ZFw^1467187761.js" type="text/javascript"></script>
+
+</head>
+<body>
+    
+    <div class="topBar">
+        <div class="topBarC">
+            <div class="logo"><a title="蚂蜂窝自由行" href="/">蚂蜂窝自由行</a></div>
+            <div class="t_nav">
+                <ul id="pnl_nav" data-cs-t="headnav_wo">
+                    <li data-cs-p="index">
+                        <strong class="t"><a href="/">首页</a></strong>
+                    </li>
+                    <li data-cs-t="wenda" data-cs-p="wenda">
+                        <strong class="t"><a data-cs-p="from_wo_nav" href="/wenda/">问答</a></strong>
+                    </li>
+                    <li data-cs-t="things" data-cs-p="things">
+                        <strong class="t"><a data-cs-p="from_wo_nav" href="/mall/things.php">蚂蜂窝周边</a></strong>
+                    </li>
+                    <li data-cs-p="together">
+                        <strong class="t"><a href="/together/">结伴</a></strong>
+                    </li>
+                    <li data-cs-p="group">
+                        <strong class="t"><a href="/group/">小组</a></strong>
+                    </li>
+                    <li data-cs-p="mall">
+                        <strong class="t"><a href="/mall/">蜂蜜兑换</a></strong>
+                    </li>
+                    <li class="drop" data-cs-p="other">
+                        <strong class="t"><a href="/app/hun.php">更多<b></b></a></strong>
+                        <div class="c">
+                            <a href="/rent/" target="_blank">当地人</a>
+                            <a href="/focus/" target="_blank">真人兽</a>
+                            <a href="/postal/" target="_blank">游记纪念工厂</a>
+                            <a href="/school/" target="_blank">蚂蜂窝高校</a>
+                            <a href="/photo_pk/pk.php" target="_blank">照片PK</a>
+                            <a href="/auction/" target="_blank">蚂蜂窝拍卖行</a>
+                            <a href="/radio/" target="_blank">旅行电台</a>
+                            <a href="/club/" target="_blank">蜂首聚乐部</a>
+                            <a href="/home/vip_show.php" target="_blank">VIP</a>
+                            <a href="/game/wager.php" target="_blank">分歧终端机</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="t_search">
+                <form method="GET" action="/group/s.php" name="search">
+                    <input type="text" class="key" value="" name="q" id="word">
+                    <input type="submit" value="" class="btn">
+                </form>
+            </div>
+
+            <div class="t_info">
+                                    <div class="no_login">
+                        <span><a href="http://passport.mafengwo.cn">登录</a> / <a href="http://passport.mafengwo.cn/regist.html">注册</a></span>
+                        <a class="login-qq" href="http://passport.mafengwo.cn/qq"></a>
+                        <a class="login-weibo" href="http://passport.mafengwo.cn/weibo"></a>
+                        <a class="login-renren" href="http://passport.mafengwo.cn/renren"></a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    
+
+
+
+
+<div class="wrapper" data-cs-t="wenda" data-qid="943692" data-uid="38149093" id="_js_wrapper">
+    <div class="detail-wrap clearfix">
+        <!-- 问答主要内容 -->
+        <div class="col-main">
+            <!-- 面包屑导航 -->
+            <div class="crumb">
+                <a href="/wenda/" target="_blank">蚂蜂窝问答</a> &gt; <span>周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~</span>
+            </div>
+            <!-- 搜索区域 -->
+            <div class="search-box">
+                <script>
+    var suggest_default = '提问前请先搜索，看看你的问题其他蜂蜂是否已经问过';
+</script>
+
+ <div class="search-panel">
+    <div class="clearfix _j_suggest_hd">
+        <div class="sp-input"><input type="text" class="_j_suggest" value="提问前请先搜索，看看你的问题其他蜂蜂是否已经问过" data-mddid="0"></div>
+        <input type="button" class="_j_search sp-button" data-cs-p="suggest_goto_search" data-mddid="0">
+    </div>
+    <div class="bd _j_suggest_box hide">
+    </div>
+</div>
+
+
+            </div>
+            <!-- 问题区域 -->
+            <div class="q-detail" id="_js_askDetail">
+                <div class="q-content">
+                    <div class="q-title">
+                        <a href="/wenda/area-10132.html" target="_blank" class="location"><i></i>厦门</a>
+                        <h1>周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~</h1>
+                        
+                    </div>
+                    <div class="q-desc">周五下午3点到<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>，周日晚上7点回程  想问下有没有什么好的行程规划？急求~谢谢各位</div>
+                    <div class="q-info1 clearfix">
+                        <div class="q-tags fl">
+                                                            <a class="a-tag" href="/wenda/tag-1294.html" target="_blank">行程</a>
+                                                            <a class="a-tag" href="/wenda/area-10132.html" target="_blank">厦门</a>
+                                                    </div>
+                        <div class="pub-bar fr">
+                            <a href="/wenda/u/38149093.html" class="photo" target="_blank"> <img src="http://images.mafengwo.net/images/pp48.gif" width="16" height="16"></a>
+                            <a class="name" href="/wenda/u/38149093.html" target="_blank">简简单单</a>
+                            <span class="time">2014-03-17 22:05:54</span>
+                        </div>
+                    </div>
+                                    </div>
+
+                
+                <div class="q-operate clearfix">
+                    <div class="fl">
+                        <div class="q-share">
+                            <a  class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                            <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692">
+                                <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_q" data-cs-l="/wenda/detail-943692.html" data-cs-d="wb"></a>
+                                <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_q" data-cs-l="/wenda/detail-943692.html" data-cs-d="qz"></a>
+                                <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_q" data-cs-l="/wenda/detail-943692.html" data-cs-d="wx"></a>
+                            </div>
+                        </div>
+                        <div class="seek-help _j_tip_box">
+                            <a class="_j_seek_help_new" data-cs-p="show_seek_help" mdd_name='厦门' qid='943692' data-cs-p="show_seek_help">邀请蜂蜂回答</a>
+                                                        <div class="txt-tips" style="display: none;"  data-tip="invite">
+                                <b class="arrow"><i></i></b>
+                                <i class="close _j_close_tip">&times;</i>
+                                <p>邀请的蜂蜂答案如被采纳，您也能获得5蜂蜜！</p>
+                            </div>
+                                                    </div>
+                        <div class="admin_hide tip-off">
+                            <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html" data-refer-uid="38149093" data-app="qa.question">举报</a>
+                        </div>
+                                            </div>
+                    <div class="fr">
+                        <span class="atten-num">9320浏览</span>
+                        <span class="atten-num"><span id="_j_same_num">6</span>人关注</span>
+                                                <a class="btn-atten _j_same_question" rel="nofollow">关注</a>
+                        <a class="btn-answer _j_btn_goanswer" rel="nofollow">回答</a>                                            </div>
+                </div>
+                                <div class="act-pop call_friends _j_seek_help_new_box" style = "display: none;">
+                    <div class="cf_con">
+                        <input type="text" name="" id="help_focus_input" class="call_input" value="@你的好友">
+                        <input class="_j_invite_uid" type="hidden" value="" >
+                        <a href="" class="cf_sure _j_do_invite" title="确定">确定</a>
+                        <ul class="_j_seek_help_new_suggestul">
+                        </ul>
+                    </div>
+                </div>
+                
+            </div>
+
+            <!-- 回答区域 -->
+            <div class="answer-wrap">
+                                <div class="hd"><span id="_j_anum">27</span>个回答</div>
+                
+                <div data-pagelet id="pagelet-block-15e9929b184e69382c5f39c152fadf1b" class="" data-controller="/js/qa/ControllerDetailAnswerList">
+<div class="bd">
+    <ul class="answer-list _j_pager_box">
+    <li class="answer-item clearfix _j_answer_item _js_answer943738" data-aid="943738">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/43080388.html" target="_blank"><img  src="http://file21.mafengwo.net/M00/5D/A5/wKgB3FGusw-AUkOaAAGopC3fL5A65.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>54</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/43080388.html" target="_blank">HELLO~V  V</a>
+                <a class="level" href="/rank/lv.php?uid=43080388" target="_blank" rel="nofollow">LV.23</a>
+                                                             </div>
+                        <ul class="answer-medal fr">
+                            <li class="best">
+                    <div class="i-tips">奖励<span class="icon"></span>10蜂蜜</div>
+                    <div class="btn"><i></i>题主采纳</div>
+                </li>
+                                            </ul>
+                    </div>
+        <div class="_j_answer_html">建议你周五晚上周日白天留给<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>市内 周六整天去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>吧 周五建议住在中山路 下了飞机打车到中上路 如果对住宿有要求 推荐两家<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>宾馆 还有凯利莱商务酒店 位置都很好的 价格也贵一些 对住宿要求一般的话可以选择如家 七天之类的 但是切记都要提前订好 放下行李 可以坐车到厦大 把厦大游览一下 顺便去一下南普陀 晚上回到中上路 逛一逛中山路 晚餐也在小吃街解决 周六一早 步行到码头 坐船去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div> 时间紧迫景点不必每个都去了 人不多的话 把日光岩 菽庄花园看一下别的可以放弃了 如果人多 果断放弃景点 逛小店一天可以逛完 晚上坐船回到市内 可以在中山路继续逛 周日起早就可以直奔环岛路 走走木栈道 去胡里山炮台看看 然后租辆自行车 环岛路骑行 路过曾厝垵 进去简单看看吧 估计下午四点钟就可以往回走了</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="943738">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943738" data-cs-d="wb" data-username="HELLO~V  V"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943738" data-cs-d="qz" data-username="HELLO~V  V"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943738" data-cs-d="wx" data-username="HELLO~V  V"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="3条评论"><i></i><span>3条评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-03-17 22:19
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer943738" data-refer-uid="43080388" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="3">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer944103" data-aid="944103">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/17674081.html" target="_blank"><img  src="http://file21.mafengwo.net/M00/6B/2D/wKgB3FE12veAa85qAANbicIIUaI34.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/17674081.html" target="_blank">唐唐家</a>
+                <a class="level" href="/rank/lv.php?uid=17674081" target="_blank" rel="nofollow">LV.11</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">第一天到呢  没有太多的时间  可以先 安排到轮渡 台湾小吃一条街 中山路步行 街 觅食   然后回住处 第二天可安排到<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>  第三天 有时间的话  可以到环岛路的海边玩 骑自行车 玩沙子  顺便把南普陀 <div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学 给逛了<br />
+环岛路上的<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>唐唐家欢迎你喔  2014.3.1-2014.4.3  2014.4.7-2014.4.25推出多种房型统一团购价99元-139元/晚  客栈出门步行5分钟 遇见最美沙滩及大海 客栈离 音乐广场 胡里山炮台 <div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学 南普陀 公交-5-12分钟 喔了解客栈详情 可加我QQ 2556849145或者微信cyh-714922583需要行程推荐 景点 小吃介绍也可以加我喔</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="944103">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer944103" data-cs-d="wb" data-username="唐唐家"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer944103" data-cs-d="qz" data-username="唐唐家"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer944103" data-cs-d="wx" data-username="唐唐家"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-03-18 11:05
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer944103" data-refer-uid="17674081" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5084294" data-aid="5084294">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/91558421.html" target="_blank"><img  src="http://file31.mafengwo.net/M00/B5/A6/wKgBs1ZbxaaAd1SBAABwBcKyydI29.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>4</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/91558421.html" target="_blank">kings</a>
+                <a class="level" href="/rank/lv.php?uid=91558421" target="_blank" rel="nofollow">LV.7</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">建议下飞机了直接<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，就双休日估计行李不多就不用寄存了。<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>逛完，去中山路，很操蛋的是轮渡码头搬走了。不然轮渡过来直接就是中山路，现在船坐过来还要坐公交。然后去开房，哈哈。建议住在曾厝垵，早上起来可以逛一逛，很多有趣的店。还是比较喜欢人少的曾厝垵。然后去厦大走一圈，南普陀寺。白沙…环岛路走一走，看看<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>的海，椰风寨也可以去玩玩。然后就周天啦，去中山路吃一吃买买手信就回家啦。哇哈哈</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5084294">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5084294" data-cs-d="wb" data-username="kings"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5084294" data-cs-d="qz" data-username="kings"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5084294" data-cs-d="wx" data-username="kings"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-01-10 00:39
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5084294" data-refer-uid="91558421" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4742616" data-aid="4742616">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/92704576.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/0D/4B/wKgBs1dwhguAFrHeAADxYku437843.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/92704576.html" target="_blank">木小安先生</a>
+                <a class="level" href="/rank/lv.php?uid=92704576" target="_blank" rel="nofollow">LV.13</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">下午三点到，你去溪下头住宿（就在曾厝安附近），然后你可以沿着栈道在海边漫步，然后去阿嬷家的沙茶面那里吃面，吃完再慢慢的散步回住的地方。大早起来海边漫步看日出。（而且超级便宜哦），之后可以去很多地方，中山路，厦大，南普陀寺都在一块。坐在公车上看美景也是享受。或许还可以去泡个温泉。吃个姜母鸭。然后周日一天你可以去书店，享受下。那里处处为画。不用去很多地方，慢慢的用心去享受。</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4742616">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4742616" data-cs-d="wb" data-username="木小安先生"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4742616" data-cs-d="qz" data-username="木小安先生"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4742616" data-cs-d="wx" data-username="木小安先生"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-12-11 13:41
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4742616" data-refer-uid="92704576" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer3577371" data-aid="3577371">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/3969580.html" target="_blank"><img  src="http://file21.mafengwo.net/M00/C8/1B/wKgB21BYL-DB4wPTAAIJOmY0N3s47.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/3969580.html" target="_blank">斯诺</a>
+                <a class="level" href="/rank/lv.php?uid=3969580" target="_blank" rel="nofollow">LV.30</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">第一天直接到<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，住岛上，要提前订<br />
+第二天在岛上玩一天，出岛，住曾厝安。<br />
+第三天在从曾厝安走到厦大后门，就是隧道那里，然后从厦大前门出，去南普陀。<br />
+第四天去土楼。（时间不够的话，可以忽略第四天。或者压缩第一二天）</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="3577371">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer3577371" data-cs-d="wb" data-username="斯诺"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer3577371" data-cs-d="qz" data-username="斯诺"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer3577371" data-cs-d="wx" data-username="斯诺"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-09-18 01:04
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer3577371" data-refer-uid="3969580" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5463433" data-aid="5463433">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/41253815.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/71/87/wKgBs1bXwuuALtazAAB4DxZjLwE71.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/41253815.html" target="_blank">像大海那么辽阔</a>
+                <a class="level" href="/rank/lv.php?uid=41253815" target="_blank" rel="nofollow">LV.5</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">第一天住步行街附近，放下行李去南普陀，然后去<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学跟芙蓉隧道，回中山路，第二天直接上岛，<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>上景点一天够了，晚上沙滩上散步，第三天早上回<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>，然后动身去白城沙滩，曾厝铵，吃点东西，看看海景，5.00回</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5463433">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5463433" data-cs-d="wb" data-username="像大海那么辽阔"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5463433" data-cs-d="qz" data-username="像大海那么辽阔"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5463433" data-cs-d="wx" data-username="像大海那么辽阔"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-03-07 00:21
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5463433" data-refer-uid="41253815" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5464617" data-aid="5464617">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/70742259.html" target="_blank"><img  src="http://file31.mafengwo.net/M00/3F/AA/wKgBs1bJ1B-ASTFTAACnnOY3T2c92.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>2</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/70742259.html" target="_blank">ヤ滸願の</a>
+                <a class="level" href="/rank/lv.php?uid=70742259" target="_blank" rel="nofollow">LV.14</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">我建议周五就在曾厝垵住一晚，晚上就到中山路转转,那里有许多小吃，晚上回来还可以到附近的海滩上走走吹一下海风，星期六就去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>一天，星期日就可以到<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学，胡里山炮台，环岛路，<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>铁路文化公园。</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5464617">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5464617" data-cs-d="wb" data-username="ヤ滸願の"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5464617" data-cs-d="qz" data-username="ヤ滸願の"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5464617" data-cs-d="wx" data-username="ヤ滸願の"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-03-07 08:52
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5464617" data-refer-uid="70742259" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4803772" data-aid="4803772">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/91528013.html" target="_blank"><img  src="http://file29.mafengwo.net/M00/77/72/wKgBpVY023qAR982AADoXHeAQSY80.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/91528013.html" target="_blank">Julia</a>
+                <a class="level" href="/rank/lv.php?uid=91528013" target="_blank" rel="nofollow">LV.9</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">周五下了飞机直接去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，上岛后去龙头路吃小吃。周六清晨6点去日光岩，看日出；下午看那些百年建筑，傍晚6点回<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>，逛中山路、吃海鲜。周日安排去南普陀、厦大、环岛路。</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4803772">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4803772" data-cs-d="wb" data-username="Julia"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4803772" data-cs-d="qz" data-username="Julia"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4803772" data-cs-d="wx" data-username="Julia"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-12-22 00:48
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4803772" data-refer-uid="91528013" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4556803" data-aid="4556803">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/65770634.html" target="_blank"><img  src="http://file25.mafengwo.net/M00/E8/0C/wKgB4lOmmJGAVuHUAAEQyIfWRO002.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/65770634.html" target="_blank">大新之助</a>
+                <a class="level" href="/rank/lv.php?uid=65770634" target="_blank" rel="nofollow">LV.22</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">建议第一天可以在中山路轮渡那边，第二天也就是周六留给<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，第三天也就是最后一天在<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学，南普陀，曾厝垵转转，<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>其实也就那么大，也就这么几个玩的地方</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4556803">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4556803" data-cs-d="wb" data-username="大新之助"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4556803" data-cs-d="qz" data-username="大新之助"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4556803" data-cs-d="wx" data-username="大新之助"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-11-15 23:38
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4556803" data-refer-uid="65770634" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4781736" data-aid="4781736">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/92595701.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/5A/07/wKgBs1ZwH4GASY3nAAC2DtPQIZk86.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>2</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/92595701.html" target="_blank">一蒙</a>
+                <a class="level" href="/rank/lv.php?uid=92595701" target="_blank" rel="nofollow">LV.6</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">周五直接去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，周六玩大半天，下午回岛内，去中山路步行街逛吃，周日上午在厦大，南普陀，环岛路转转，晚上回去</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4781736">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4781736" data-cs-d="wb" data-username="一蒙"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4781736" data-cs-d="qz" data-username="一蒙"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4781736" data-cs-d="wx" data-username="一蒙"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-12-18 07:30
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4781736" data-refer-uid="92595701" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4436987" data-aid="4436987">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/85204540.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/E0/53/wKgBs1bY-uCAFsFgAAB498HFegg85.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/85204540.html" target="_blank">稳小倩</a>
+                <a class="level" href="/rank/lv.php?uid=85204540" target="_blank" rel="nofollow">LV.16</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">周五下午逛逛市区，感受一下<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>气氛;周六可以逛<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学、白城海滩和环岛路等;周日就逛<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>吧</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4436987">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4436987" data-cs-d="wb" data-username="稳小倩"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4436987" data-cs-d="qz" data-username="稳小倩"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4436987" data-cs-d="wx" data-username="稳小倩"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-10-26 08:33
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4436987" data-refer-uid="85204540" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4757772" data-aid="4757772">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/5689438.html" target="_blank"><img  src="http://images.mafengwo.net/images/pp48.gif" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/5689438.html" target="_blank">李倩倩倩倩倩倩倩</a>
+                <a class="level" href="/rank/lv.php?uid=5689438" target="_blank" rel="nofollow">LV.3</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">建议去曾厝安住两天，<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>感觉太商业化了，曾厝安类似<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，但是感觉比<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>接地汽，也方便</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4757772">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4757772" data-cs-d="wb" data-username="李倩倩倩倩倩倩倩"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4757772" data-cs-d="qz" data-username="李倩倩倩倩倩倩倩"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4757772" data-cs-d="wx" data-username="李倩倩倩倩倩倩倩"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-12-14 12:24
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4757772" data-refer-uid="5689438" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5033797" data-aid="5033797">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/13017864.html" target="_blank"><img  src="http://file31.mafengwo.net/M00/B6/DE/wKgBs1ae7hGAcqm8AALpch60STk22.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/13017864.html" target="_blank">琉璃阳光</a>
+                <a class="level" href="/rank/lv.php?uid=13017864" target="_blank" rel="nofollow">LV.23</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">周五到<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>可以逛逛夜市。周六去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>。周日可去厦大、南普陀寺，走走海边栈道。</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5033797">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5033797" data-cs-d="wb" data-username="琉璃阳光"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5033797" data-cs-d="qz" data-username="琉璃阳光"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5033797" data-cs-d="wx" data-username="琉璃阳光"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-01-03 09:20
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5033797" data-refer-uid="13017864" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5370604" data-aid="5370604">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/48715168.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/AF/49/wKgBs1aVLDaACFfeAABs70wKdm476.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/48715168.html" target="_blank">楚桐</a>
+                <a class="level" href="/rank/lv.php?uid=48715168" target="_blank" rel="nofollow">LV.16</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html"><div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>一天，万石植物园十胡里山炮台一天，晚上中山路走走，老虎城旁很多小吃。</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5370604">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5370604" data-cs-d="wb" data-username="楚桐"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5370604" data-cs-d="qz" data-username="楚桐"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5370604" data-cs-d="wx" data-username="楚桐"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-02-23 21:17
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5370604" data-refer-uid="48715168" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5501788" data-aid="5501788">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/31689735.html" target="_blank"><img  src="http://file29.mafengwo.net/M00/B8/58/wKgBpVYAyneAIidZAACynywpfkU30.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/31689735.html" target="_blank">小西瓜的夏天</a>
+                <a class="level" href="/rank/lv.php?uid=31689735" target="_blank" rel="nofollow">LV.18</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">第一天要去下<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，其余时间随意安排，环岛路走一走，厦大走一走就差不多啦</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5501788">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5501788" data-cs-d="wb" data-username="小西瓜的夏天"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5501788" data-cs-d="qz" data-username="小西瓜的夏天"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5501788" data-cs-d="wx" data-username="小西瓜的夏天"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-03-11 17:40
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5501788" data-refer-uid="31689735" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5464471" data-aid="5464471">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/78080092.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/08/73/wKgBs1cyxemAOoM2AADa7ouTL4000.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/78080092.html" target="_blank">花言巧语丶</a>
+                <a class="level" href="/rank/lv.php?uid=78080092" target="_blank" rel="nofollow">LV.10</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">周五下午去中山路逛逛，周六整天去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，周日去厦大逛逛，然后返程</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5464471">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5464471" data-cs-d="wb" data-username="花言巧语丶"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5464471" data-cs-d="qz" data-username="花言巧语丶"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5464471" data-cs-d="wx" data-username="花言巧语丶"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-03-07 08:36
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5464471" data-refer-uid="78080092" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4455723" data-aid="4455723">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/10280364.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/92/9D/wKgBs1ahfR-AV_8WAAFlqBn_Uos27.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/10280364.html" target="_blank">浪漫贵族</a>
+                <a class="level" href="/rank/lv.php?uid=10280364" target="_blank" rel="nofollow">LV.30</a>
+                                <a class="identity i-guide" href="/qa/expert_apply.php?type=1" target="_blank">指路人</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">周五去中山路，周六去土楼或者<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，周日在厦大南普陀海边栈道转转</div>
+    </div>
+        <div class="copyright" data-cs-t="问答版权名片">
+        <div class="copyright-tit">版权名片<a href="http://www.mafengwo.cn/qa/copyright/index" target="_blank">?</a></div>
+        <div class="copyright-text" data-cs-p="版权名片链接">
+            喜爱户外摄影文玩宠物美食，至今已走遍全国全部34个省级行政区。大家出行可以参考我的帖子《利用年假,走遍中国全部34省份(附行程游记攻略)》<br />
+人人为我，我为人人，希望和大家成为朋友，互相帮助！<br />
+朋友们可以到我的窝，关注我，以便更加方便及时交流&nbsp;&nbsp;
+            <a href="http://www.mafengwo.cn/u/webmaster.html" target="_blank" data-cs-d="10280364">请到我的主页，关注我&gt;&gt;&gt;</a>
+        </div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4455723">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4455723" data-cs-d="wb" data-username="浪漫贵族"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4455723" data-cs-d="qz" data-username="浪漫贵族"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4455723" data-cs-d="wx" data-username="浪漫贵族"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-10-29 08:48
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4455723" data-refer-uid="10280364" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer943712" data-aid="943712">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/81469338.html" target="_blank"><img  src="http://images.mafengwo.net/images/pp48.gif" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>4</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/81469338.html" target="_blank">蜀国印象</a>
+                <a class="level" href="/rank/lv.php?uid=81469338" target="_blank" rel="nofollow">LV.3</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">三天时间恐怕有点紧哦</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="943712">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943712" data-cs-d="wb" data-username="蜀国印象"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943712" data-cs-d="qz" data-username="蜀国印象"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943712" data-cs-d="wx" data-username="蜀国印象"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="1条评论"><i></i><span>1条评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-03-17 22:10
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer943712" data-refer-uid="81469338" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="1">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5545206" data-aid="5545206">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/43717990.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/A1/E3/wKgBs1bmVt6AEehPAABj9OErUNI00.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/43717990.html" target="_blank">chenyao</a>
+                <a class="level" href="/rank/lv.php?uid=43717990" target="_blank" rel="nofollow">LV.25</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">那就去<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>，环岛路，<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学，南普陀这些地方都是在一块的</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5545206">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5545206" data-cs-d="wb" data-username="chenyao"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5545206" data-cs-d="qz" data-username="chenyao"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5545206" data-cs-d="wx" data-username="chenyao"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-03-17 09:32
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5545206" data-refer-uid="43717990" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer3727047" data-aid="3727047">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/17124538.html" target="_blank"><img  src="http://file26.mafengwo.net/M00/86/17/wKgB4lMe8biAItXJAAETmCbSkFI68.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>2</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/17124538.html" target="_blank">烙于心</a>
+                <a class="level" href="/rank/lv.php?uid=17124538" target="_blank" rel="nofollow">LV.28</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html"><div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>大学 环岛路  曾厝垵 <div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div></div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="3727047">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer3727047" data-cs-d="wb" data-username="烙于心"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer3727047" data-cs-d="qz" data-username="烙于心"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer3727047" data-cs-d="wx" data-username="烙于心"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-10-12 12:02
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer3727047" data-refer-uid="17124538" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer5080183" data-aid="5080183">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/91465531.html" target="_blank"><img  src="http://file31.mafengwo.net/M00/FB/82/wKgBs1aP0laAOE0AAAb3FJQmQ4M10.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/91465531.html" target="_blank">木易</a>
+                <a class="level" href="/rank/lv.php?uid=91465531" target="_blank" rel="nofollow">LV.13</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">我刚做了一篇<div class="area_tags _j_tip_mdd" data-mddid="10132"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/10132.html" target="_blank">厦门</a><div class="at_info" style="display:none;"></div></div>的游记，你可以来参考下</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="5080183">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5080183" data-cs-d="wb" data-username="木易"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5080183" data-cs-d="qz" data-username="木易"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer5080183" data-cs-d="wx" data-username="木易"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2016-01-09 12:00
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer5080183" data-refer-uid="91465531" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4763004" data-aid="4763004">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/17121716.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/9D/15/wKgBs1Z7p7eACa9lAAQwzY9NYkM39.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/17121716.html" target="_blank">菜刀</a>
+                <a class="level" href="/rank/lv.php?uid=17121716" target="_blank" rel="nofollow">LV.37</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">太紧了，<div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>看看吧</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4763004">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4763004" data-cs-d="wb" data-username="菜刀"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4763004" data-cs-d="qz" data-username="菜刀"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4763004" data-cs-d="wx" data-username="菜刀"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-12-15 09:23
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4763004" data-refer-uid="17121716" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4516457" data-aid="4516457">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/33852815.html" target="_blank"><img  src="http://file29.mafengwo.net/M00/64/E0/wKgBpVWQqTSAFKGRAAAETZzk_Yg162.head.w48.gif" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/33852815.html" target="_blank">ＣＹＹ.B</a>
+                <a class="level" href="/rank/lv.php?uid=33852815" target="_blank" rel="nofollow">LV.18</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">三天时间我觉得不足够</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4516457">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4516457" data-cs-d="wb" data-username="ＣＹＹ.B"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4516457" data-cs-d="qz" data-username="ＣＹＹ.B"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4516457" data-cs-d="wx" data-username="ＣＹＹ.B"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-11-08 21:07
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4516457" data-refer-uid="33852815" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer943700" data-aid="943700">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/39019633.html" target="_blank"><img  src="http://file26.mafengwo.net/M00/4E/3B/wKgB4lMmjyKAUmq5AAAXgdlpnBo29.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>1</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/39019633.html" target="_blank">㎜　　゛ 素颜美 ら</a>
+                <a class="level" href="/rank/lv.php?uid=39019633" target="_blank" rel="nofollow">LV.2</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">三天时间？</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="943700">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943700" data-cs-d="wb" data-username="㎜　　゛ 素颜美 ら"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943700" data-cs-d="qz" data-username="㎜　　゛ 素颜美 ら"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer943700" data-cs-d="wx" data-username="㎜　　゛ 素颜美 ら"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="1条评论"><i></i><span>1条评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2014-03-17 22:09
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer943700" data-refer-uid="39019633" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="1">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4516463" data-aid="4516463">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/63996293.html" target="_blank"><img  src="http://file26.mafengwo.net/M00/D9/85/wKgB4lJojR2AHTCmAACSjnNHnaw14.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/63996293.html" target="_blank">hibe</a>
+                <a class="level" href="/rank/lv.php?uid=63996293" target="_blank" rel="nofollow">LV.20</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html">三天时间有点短吧</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4516463">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4516463" data-cs-d="wb" data-username="hibe"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4516463" data-cs-d="qz" data-username="hibe"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4516463" data-cs-d="wx" data-username="hibe"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-11-08 21:09
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4516463" data-refer-uid="63996293" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer4648775" data-aid="4648775">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/168802.html" target="_blank"><img  src="http://file20.mafengwo.net/M00/C3/38/wKgB21AVEf_21FMPAACidJ5KtuI61.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/168802.html" target="_blank">oracle</a>
+                <a class="level" href="/rank/lv.php?uid=168802" target="_blank" rel="nofollow">LV.21</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html"><div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>和厦大。</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="4648775">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4648775" data-cs-d="wb" data-username="oracle"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4648775" data-cs-d="qz" data-username="oracle"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer4648775" data-cs-d="wx" data-username="oracle"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2015-12-01 09:20
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer4648775" data-refer-uid="168802" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+<li class="answer-item clearfix _j_answer_item _js_answer6957448" data-aid="6957448">
+    <div class="answer-user _js_answerAva">
+        <a class="_j_filter_click" href="/wenda/u/84658753.html" target="_blank"><img  src="http://file32.mafengwo.net/M00/C2/35/wKgBs1cVyvCABQK4AAl0RMufbmQ05.head.w48.jpeg" width="48" height="48"  class="photo"></a>
+        <a class="btn-zan _js_zan "><i></i><span>0</span></a>
+    </div>
+
+    <div class="answer-content">
+        <div class="answer-info clearfix">
+            <div class="user-bar fl">
+                <a class="name" href="/wenda/u/84658753.html" target="_blank">Breath.yuyun</a>
+                <a class="level" href="/rank/lv.php?uid=84658753" target="_blank" rel="nofollow">LV.23</a>
+                                                             </div>
+                    </div>
+        <div class="_j_answer_html"><div class="area_tags _j_tip_mdd" data-mddid="12522"><a data-cs-p="qa_mdd" class="at_link" href="/travel-scenic-spot/mafengwo/12522.html" target="_blank">鼓浪屿</a><div class="at_info" style="display:none;"></div></div>  一天</div>
+    </div>
+        <div class="a-operate _js_operate clearfix">
+        <div class="fl">
+            <div class="q-share">
+                <a class="_js_showShare"><i class="q-share-icon"></i>分享</a>
+                <div class="share-pop _j_share_pop hide clearfix" data-title="周五下午3点到厦门，周日晚上7点回程  想问下有没有什么好的行程规划？急求~" data-qid="943692" data-aid="6957448">
+                    <a title="分享到新浪微博"  class="sina _j_do_share" data-site="wb" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer6957448" data-cs-d="wb" data-username="Breath.yuyun"></a>
+                    <a title="分享到QQ空间"  class="zone _j_do_share" data-site="qz" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer6957448" data-cs-d="qz" data-username="Breath.yuyun"></a>
+                    <a title="分享到微信"  class="weixin _j_do_share_wx" data-site="wx" data-cs-p="share_a" data-cs-l="/wenda/detail-943692.html#answer6957448" data-cs-d="wx" data-username="Breath.yuyun"></a>
+                </div>
+            </div>
+            <div class="cmt-toggle">
+                <a class="_js_slideComment" data-default_words="添加评论"><i></i><span>添加评论</span></a>
+            </div>
+                        <div class="pub-time">
+               发布于 2天前
+            </div>
+                        <div class="tip-off">
+                <a data-japp="report" data-refer="http://www.mafengwo.cn/wenda/detail-943692.html#answer6957448" data-refer-uid="84658753" data-app="qa.answer">举报</a>
+            </div>
+                        
+                    </div>
+            </div>
+
+    <div class="comment-wrap _js_comments _js_comments_block hide">
+        <b class="arrow"><i></i></b>
+        <ul class="comment-list _js_comment_list" style="display: none;">
+        </ul>
+        <div class="comment-page _js_comment_pagination hide" data-comment_total="0">
+        </div>
+        <div class="comment-add clearfix">
+            <div class="_j_word">
+                <textarea class="_j_content _j_word_check"></textarea>
+                <p class="word-count"><span class="_j_word_num">0</span>/<span class="_j_max_num">300</span> 字</p>
+            </div>
+            <input class="btn-comment _j_publish_comment" type="button" value="回复">
+        </div>
+    </div>
+    </li>   
+ 
+    </ul>
+</div>
+<div class="_j_pager">
+    
+</div>
+
+</div>
+
+                                <div class="answer-add clearfix _j_word" id="_js_answerText">
+                    <a name="answer"></a>
+                    <div class="aa-user">
+                                                <img src="http://images.mafengwo.net/images/pp48.gif" class="photo">
+                                            </div>
+                    <div class="tit">添加回答</div>
+                    <div class="aa_content _js_forFixTitle">
+                        <div class="aa_operate _js_answerTitle clearfix">
+                            <div class="fl insert-img" >
+                                                                <a  class="aa_addpic " id="_js_upPicBar" ><i></i>添加图片</a>
+                            </div>
+                        </div>
+                        <div class="area">
+                            <textarea name="editor" class="_j_content _j_answer_suggest" id="_js_editorText" placeholder="用自己的【真实经历】作答，而不是网上搜来的信息<br>好回答不一定特长，但一定【不是简单的一两句话】<br>永远替提问者【多想一步】，会加分哦~"></textarea>
+                        </div>
+
+                    </div>
+                    <p class="word-count"> <span class="_j_word_num">0</span> 字</p>
+                    <p class="word-count pics_count hide _js_pics_count">
+                        <span class="_j_pics_num">0</span> 图
+                    </p>
+                    <input class="btn-comment _j_publish_answer" type="button" value="提交回答" data-uid="0" data-is_expert="" data-lv_gt6="">
+                </div>
+                            </div>
+        </div>
+
+
+        <!-- 问答页面侧边栏 -->
+        <div class="col-side">
+            <!-- 我要提问 -->
+            <div class="btn-question">
+                <a href="/qa/publish.php" class="_j_show_login">我要提问</a>
+            </div>
+
+                                                                                <!-- 广告图片 -->
+            <div class="ad-box" data-cs-t="wenda">
+                <div data-pagelet id="pagelet-block-96dd04ad8e5b7129a04ad86221207128" class="" data-api=":qa:pagelet:TopRecommendApi" data-params="[]" data-async="1" data-controller="/js/ARecommentQu"></div>
+            </div>
+
+                        <div style="margin-top:0px;margin-bottom: 20px;">
+                <div data-pagelet id="pagelet-block-f51c3693f06de55bde6ab36d57c21f1c" class="" data-api=":qa:pagelet:ads" data-params="{&quot;mddid&quot;:&quot;10132&quot;,&quot;tags&quot;:[&quot;\u884c\u7a0b&quot;,&quot;\u53a6\u95e8&quot;]}" data-async="1" data-controller=""></div>
+            </div>
+
+            <!-- 相关问题 -->
+            <div data-pagelet id="pagelet-block-00a7fb63b35f10d90239a2fe270c02f8" class="" data-api=":qa:pagelet:RelationQuestionApi" data-params="{&quot;relation_questions&quot;:{&quot;qid&quot;:&quot;943692&quot;,&quot;mddid&quot;:&quot;10132&quot;,&quot;tids&quot;:&quot;1294,2142&quot;}}" data-async="1" data-controller=""></div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+<script id="_j_qa_picUp_tmpl" type="text/x-jquery-tmpl">
+    <div class="popup-inst">
+        <div class="popup-title">
+            <h2>添加图片</h2>
+        </div>
+        <div class="img-box up_list">
+            <div class="up_pics_wrap">
+                <ul id="_js_upPics">
+                </ul>
+            </div>
+        </div>
+        <div class="upload-pro clearfix">
+            <div class="up-rates">
+                <div style="width:0;" class="run-rates _j_progress"></div>
+            </div>
+            <p><span class="pics_nums"><em class="_j_finishedindex">0</em>/<span class="_j_totalcount"></span></span>张</p>
+            <div class="u-inst" id="_js_inserPics">添加图片</div>
+        </div>
+    </div>
+</script>
+<script id="_j_qa_upPics_tmpl" type="text/x-jquery-tmpl">
+    {{each(i, file) files}}
+    <li class="li_wait" id="_j_photo_${file.id}" data-file_id="${file.id}">
+        <a class="close_ico _j_remove_up mos-into"></a>
+        <div class="cover wait">
+            <p class="cover_pop"></p>
+            <p class="wait_up">等待<br>上传</p>
+            <a class="close_ico _j_remove_up"></a>
+        </div>
+        <div class="cover bar">
+            <p class="cover_pop"></p>
+            <div class="pro_bar"><i></i><span class="per">0%</span></div>
+            <a role="button" class="close_ico _j_stop_up"></a>
+        </div>
+        <div class="cover failure">
+            <p class="cover_pop"></p>
+            <div class="up_failure"><i></i>上传失败</div>
+        </div>
+    </li>
+    {{/each}}
+</script>
+
+
+<script id="_j_picdialog" type="text/x-jquery-tmpl">
+    <div class="stage-wrap">
+        <div class="aload1 _j_loading1"></div>
+        <div class="aload2 _j_loading2"></div>
+        <img class="_j_img" src="">
+    </div>
+</script>
+
+<script type="text/x-jquery-tmpl" id="_j_pagitmpl">
+{{if pageTotal > 1}}
+<div class="page-hotel">
+    <span class="count">共<span>${pageTotal}</span>页 / <span>${total}</span>条</span>
+    {{if currPage > 1}}
+    <a class="prev _j_pageitem" data-page="${currPage - 1}">前一页</a>
+    {{/if}}
+    {{each(i, index) indexers}}
+    {{if index == currPage}}
+    <a class="current">${index}</a>
+    {{else}}
+    <a class="_j_pageitem" data-page="${index}">${index}</a>
+    {{/if}}
+    {{/each}}
+    {{if indexers[indexers.length-1] < pageTotal}}
+    <a class="_j_pageitem" data-page="${pageTotal}">...${pageTotal}</a>
+    {{/if}}
+    {{if currPage < pageTotal}}
+    <a class="next _j_pageitem" data-page="${currPage + 1}">后一页</a>
+    {{/if}}
+</div>
+{{/if}}
+</script>
+
+
+<script>
+    $("body").on("click",'.activity_style_notes .close',function(event){
+        event.preventDefault();
+        $(".activity_style_notes").slideUp();
+    });
+</script>
+<link href="http://css.mafengwo.net/css/mfw-footer.css?1457939959" rel="stylesheet" type="text/css"/>
+
+<div id="footer">
+	<div class="ft-content">
+		<div class="ft-copyright">
+    <div class="ft-safety">
+        <a class="s-a" target="_blank" href="https://search.szfw.org/cert/l/CX20140627008255008321" id="___szfw_logo___"></a>
+        <a class="s-b" href="https://ss.knet.cn/verifyseal.dll?sn=e130816110100420286o93000000&ct=df&a=1&pa=787189" target="_blank" rel="nofollow"></a>
+    </div>
+    <a href="http://www.mafengwo.cn"><i class="ft-mfw-logo"></i></a>
+    <p>© 2016 Mafengwo.cn <a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">京ICP备11015476号</a>   京公网安备110105013401号   京ICP证110318号   新出网证(京)字242号</p>
+    <p>全国统一客服电话：<span class="highlight">4006-345-678</span><a target="_blank" href="http://www.mafengwo.cn/s/sitemap.html" class="highlight m_l_10">网站地图</a></p>
+</div>
+	</div>
+</div>
+
+
+<link href="http://css.mafengwo.net/css/mfw-toolbar.css?1459131121" rel="stylesheet" type="text/css"/>
+
+<div class="mfw-toolbar" id="_j_mfwtoolbar">
+    <div class="toolbar-item-top">
+		<a role="button" class="btn _j_gotop">
+			<i class="icon_top"></i>
+            <em>返回顶部</em>
+		</a>
+	</div>
+	<div class="toolbar-item-feedback">
+		<a role="button" data-japp="feedback" class="btn">
+			<i class="icon_feedback"></i>
+            <em>意见反馈</em>
+		</a>
+	</div>
+	<div class="toolbar-item-code">
+		<a role="button" class="btn">
+			<i class="icon_code"></i>
+		</a>
+		<a role="button" class="mfw-code _j_code">
+            <img src="http://images.mafengwo.net/images/qrcode-weixin.gif">
+		</a>
+        <!--<div class="wx-official-pop"><img src="http://images.mafengwo.net/images/qrcode-weixin.gif"><i class="_j_closeqrcode"></i></div>-->
+	</div>
+    <div class="toolbar-item-down">
+		<a role="button" class="btn _j_gobottom">
+			<i class="icon_down"></i>
+            <em>页面底部</em>
+		</a>
+	</div>
+</div>
+
+
+
+<script language="javascript" type="text/javascript">
+if (typeof M !== "undefined" && typeof M.loadResource === "function") {
+M.loadResource("http://js.mafengwo.net/js/cv/js+AHeaderWo:js+jquery.lazyload:js+M+module+ScrollObserver:js+M+module+Storage:js+M+module+dialog+Layer:js+M+module+dialog+DialogBase:js+M+module+dialog+Dialog:js+M+module+dialog+alert:js+qa+ControllerDetailAnswerList:js+ARecommentQu:js+mSnsShare:js+qa+DoShare:js+qa+qa_module+PreLoadImgs:js+jquery.tmpl:js+qa+Docommon:js+M+module+Cookie:js+M+module+dialog+confirm:js+M+module+FrequencyVerifyControl:js+M+module+FrequencyAppVerify:js+mfwCountdown:js+qa+Dodetail:js+qa+Doselect:js+M+module+Pagination:js+jquery.scrollTo:js+qa+ask_detail_new:js+plugins+wysiwyg+wysiwyg:js+plupload:js+module+uploader+Pluploader:js+plugins+jquery.rotate:js+jquery.mousewheel.min:js+M+module+ScrollBar:js+qa+richTextarea:js+jquery.upnum:js+jquery.jgrowl.min:js+AMessage:js+M+module+FrequencySystemVerify:js+ALogin:js+M+module+QRCode:js+AToolbar:js+ACnzzGaLog:js+ARecruit:js+ALazyLoad^a1NR^1467284263.js");
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,123 @@
+REGIN:日本
+ID:2966675
+TITLE:请问东京迪斯尼当日演出信息在哪里可以查询到？
+DESC:请问各位大侠  东京迪斯尼当日演出信息哪里可以查询。本人8月14日 游玩迪斯尼，不知当天的演出信息有哪些，望高人指教！
+
+另外，如有有迪斯尼乐园的景点游玩线路也请告诉我，谢谢大家啦！
+TAGS:迪士尼#景点#东京#主题公园#
+PUBTIME:2015-07-13 11:59:22
+RETRESSIZE:38
+RETRES_0_CONTENT:肥佬黃LV.15有关演出和购票信息可直接上東京迪士尼官网查看.http://www.tokyodisneyresort.jp/sc/show/lists/tdl.html
+RETRES_0_CNTZAN:189
+RETRES_0_PTIME:发布于 2015-07-13 12:26
+RETRES_1_CONTENT:kfc_jcLV.20进门时，门口那地图指南的区域，就有专门的表演时间表。所以拿地图的时候，看多几眼，封面不一样的都拿上，肯定有用得上的~~~
+RETRES_1_CNTZAN:37
+RETRES_1_PTIME:发布于 2015-07-13 21:18
+RETRES_2_CONTENT:燕飞哥哥LV.21进门时，门口那地图指南的区域，就有专门的表演时间表。也可以直接上東京迪士尼官网查看.http://www.tokyodisneyresort.jp/sc/show/lists/tdl.html
+RETRES_2_CNTZAN:23
+RETRES_2_PTIME:发布于 2015-10-10 12:03
+RETRES_3_CONTENT:小金牛LV.20指路人亲，1、如果想去之前就预先了解，那可以上迪士尼的官网看，http://www.tokyodisneyresort.jp/sc/show/lists/tdl.html，虽然表演会不定时更新节目，但是官网一般都可以查到。2、如果楼主想了解当天的表演安排游玩时间的话，在迪士尼进场门口多拿几种资料，一：乐园地铁肯定要拿，二：表演节目单肯定要拿，
+RETRES_3_CNTZAN:6
+RETRES_3_PTIME:发布于 2016-02-20 15:41
+RETRES_4_CONTENT:眯眯眼姑娘LV.2两种方法：第一是去官网看：http://www.tokyodisneyresort.jp/sc/show/lists/tdl.html第二种，你可以问住在东京当地的中国人，万一碰到语言问题可以直接问。我有朋友在东京住了很多年，你如果需要的话我帮你介绍。
+RETRES_4_CNTZAN:12
+RETRES_4_PTIME:发布于 2015-12-01 14:08
+RETRES_5_CONTENT:HAJI你LV.6除了迪士尼乐园还推荐po主去迪士尼海洋玩一玩迪士尼乐园是经典的但是全世界的其实都差不多，而东京除了乐园还有海洋部分，里面游行什么都有，大型器械也都很新颖特别！一日游包括迪士尼乐园和海洋是最好的选择了☺️
+RETRES_5_CNTZAN:2
+RETRES_5_PTIME:发布于 2016-01-07 08:58
+RETRES_6_CONTENT:牛子涵LV.17除了迪士尼乐园还推荐po主去迪士尼海洋玩一玩迪士尼乐园是经典的但是全世界的其实都差不多，而东京除了乐园还有海洋部分，里面游行什么都有，大型器械也都很新颖特别！一日游包括迪士尼乐园和海洋是最好的选择了☺️
+RETRES_6_CNTZAN:1
+RETRES_6_PTIME:发布于 2016-04-03 20:45
+RETRES_7_CONTENT:嵐的藍擔LV.16进迪斯尼门口的时候，可以拿迪斯尼的地图，上面有景点的介绍，也会有表演的时间表，当然也可以直接上官网去查
+RETRES_7_CNTZAN:3
+RETRES_7_PTIME:发布于 2015-11-05 17:29
+RETRES_8_CONTENT:chrisLV.21http://www.tokyodisneyresort.jp/sc/show/lists/tdl.html
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2016-03-08 10:58
+RETRES_9_CONTENT:ＣＹＹ.BLV.18进门时，门口那地图指南的区域，就有专门的表演时间表
+RETRES_9_CNTZAN:5
+RETRES_9_PTIME:发布于 2015-10-06 10:01
+RETRES_10_CONTENT:芒果班戟LV.23东京迪士尼官网http://www.tokyodisneyresort.jp
+RETRES_10_CNTZAN:2
+RETRES_10_PTIME:发布于 2015-11-17 16:41
+RETRES_11_CONTENT:zqmubwLV.11基本上是上午10点左右有一次，下午一次，晚上6点一次。具体有没有改动还是要看官网。。
+RETRES_11_CNTZAN:1
+RETRES_11_PTIME:发布于 2016-01-01 13:00
+RETRES_12_CONTENT:开路先锋LV.13能有点骨气，别去日本玩吗？
+RETRES_12_CNTZAN:6
+RETRES_12_PTIME:发布于 2015-12-20 00:52
+RETRES_13_CONTENT:loverabbitLV.16买票是通常会给你一份地图和演出时刻表。你也可以在入口处自取，或是在服务中心自取。
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2016-05-27 11:12
+RETRES_14_CONTENT:白菜帮J小琳LV.5官网，入口也有地图。记着一进去先抢个人气的fast pass啊
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2016-02-15 07:23
+RETRES_15_CONTENT:蓝色双面童话LV.6园内有中文时间表的，可以去门口的礼品商店问，他们会拿给你的
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2016-04-28 10:22
+RETRES_16_CONTENT:空降兵LV.19为什么不去香港的，上海的也要开了，非要去日本？
+RETRES_16_CNTZAN:1
+RETRES_16_PTIME:发布于 2016-01-11 09:05
+RETRES_17_CONTENT:KirkLV.8官网，门口指南
+RETRES_17_CNTZAN:4
+RETRES_17_PTIME:发布于 2015-11-09 08:25
+RETRES_18_CONTENT:hohai113LV.20门口的地图指南，上面有表演的地点和时间！！！
+RETRES_18_CNTZAN:1
+RETRES_18_PTIME:发布于 2015-11-03 09:45
+RETRES_19_CONTENT:沙漠里的蛤蟆LV.18上東京迪士尼官网查看
+RETRES_19_CNTZAN:3
+RETRES_19_PTIME:发布于 2015-11-06 20:12
+RETRES_20_CONTENT:chew lin aiLV.12在门口会有很多地图和演出的时间与地点。
+RETRES_20_CNTZAN:1
+RETRES_20_PTIME:发布于 2015-11-06 08:56
+RETRES_21_CONTENT:落雪听雨LV.19不喜欢去日本，为什么那么多人要去 鬼子国
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2016-02-03 20:10
+RETRES_22_CONTENT:燚烨之脩LV.21进门时，门口那地图指南的区域
+RETRES_22_CNTZAN:1
+RETRES_22_PTIME:发布于 2016-01-15 02:49
+RETRES_23_CONTENT:abbyLV.16官网上有，门口也有地图指南
+RETRES_23_CNTZAN:1
+RETRES_23_PTIME:发布于 2015-12-30 11:14
+RETRES_24_CONTENT:fengLV.24官网,门口的地图指南
+RETRES_24_CNTZAN:1
+RETRES_24_PTIME:发布于 2016-01-04 09:55
+RETRES_25_CONTENT:橼亓LV.24迪士尼官网
+RETRES_25_CNTZAN:2
+RETRES_25_PTIME:发布于 2015-10-27 09:05
+RETRES_26_CONTENT:fifeichanLV.23上东京迪士尼的官网查阅。
+RETRES_26_CNTZAN:0
+RETRES_26_PTIME:发布于 2016-03-03 10:43
+RETRES_27_CONTENT:知足常乐.LV.10官网。
+RETRES_27_CNTZAN:1
+RETRES_27_PTIME:发布于 2015-11-06 00:17
+RETRES_28_CONTENT:ZzzLV.17可以去官网查看的
+RETRES_28_CNTZAN:0
+RETRES_28_PTIME:发布于 2016-01-16 00:59
+RETRES_29_CONTENT:鲁牛牛LV.8官网上有很多
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2016-04-08 13:18
+RETRES_30_CONTENT:闲云LV.20门口地图指南
+RETRES_30_CNTZAN:0
+RETRES_30_PTIME:发布于 2016-02-07 07:51
+RETRES_31_CONTENT:哗啦啦LV.22都是在官网
+RETRES_31_CNTZAN:0
+RETRES_31_PTIME:发布于 2016-03-12 22:48
+RETRES_32_CONTENT:吐泡泡小皮鱼LV.17官网查询。
+RETRES_32_CNTZAN:0
+RETRES_32_PTIME:发布于 2016-04-08 07:26
+RETRES_33_CONTENT:妤LV.19当然是官网
+RETRES_33_CNTZAN:0
+RETRES_33_PTIME:发布于 2016-06-18 22:08
+RETRES_34_CONTENT:ㄝ圭 ㄝ圭LV.24官网上有
+RETRES_34_CNTZAN:0
+RETRES_34_PTIME:发布于 2016-01-22 12:24
+RETRES_35_CONTENT:wonderfulLV.16官网
+RETRES_35_CNTZAN:0
+RETRES_35_PTIME:发布于 2016-03-31 09:57
+RETRES_36_CONTENT:🐻熊二2⃣️LV.6官网
+RETRES_36_CNTZAN:0
+RETRES_36_PTIME:发布于 2016-02-23 00:36
+RETRES_37_CONTENT:踏雪无痕LV.8百度
+RETRES_37_CNTZAN:0
+RETRES_37_PTIME:发布于 2016-01-26 18:54

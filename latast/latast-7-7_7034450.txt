@@ -1,0 +1,22 @@
+REGIN:latast-7-7
+ID:7034450
+TITLE:8月三亚很闷热吗？想带孩子去，不知道适合吗？
+DESC:有没有8月去过三亚的朋友，不知道这个时间适合带孩子去吗？
+TAGS:三亚#亲子游#
+PUBTIME:2016-07-07 15:57:35
+RETRESSIZE:5
+RETRES_0_CONTENT:J小鲸鱼LV.22指路人就是很热，不过在酒店里呆着也无所谓，且小朋友玩水也不会觉得多热，只是要注意防晒。如果要去景点那就不推荐了，如果只是享受酒店还是ok的，热的时候可以在室内玩或者睡午觉，躲过最晒的时候就可以出来玩水玩沙子了。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 4小时前
+RETRES_1_CONTENT:会妃鱼LV.16实习指路人三亚的话总体更适合度假，度假的话也无所谓天气热不热，如果在户外肯定热的啦，宅在酒店的话就等4,5点的时候太阳不怎么大了出来游泳，沙滩，太阳大的时候就玩玩酒店设施，儿童乐园就够啦，三亚我觉得还是很适合亲子游哒
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2小时前
+RETRES_2_CONTENT:大河热歌文LV.58月份天气还是挺热的，到海边可以分早晚去，到景点备好防晒用品！
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2小时前
+RETRES_3_CONTENT:范豪喋LV.28月的海南是非常热的，白天户外根本没法玩。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2小时前
+RETRES_4_CONTENT:爱在旅途LV.17已经很热了，注意不要晒伤了
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2小时前

@@ -1,0 +1,25 @@
+REGIN:日本
+ID:2144325
+TITLE:#冲绳#除了药妆，哪里能买到日本高端化妆品？
+DESC:请问冲绳是否有卖albion/cpb这类化妆品的？在哪里，我要直奔哪里，麻烦告知！
+TAGS:药妆#冲绳#化妆品#日本#
+PUBTIME:2015-02-21 15:40:00
+RETRESSIZE:6
+RETRES_0_CONTENT:snow and moonLV.34指路人冲绳DFS以及后身的3A main place，县厅前站的商场and美国村的AEON都有很多大牌化妆品，譬如aba、sk2、奥尔滨、植村秀、DHC等等等等最后祝冲绳购物愉快！
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 1天前
+RETRES_1_CONTENT:小逝的休闲时光LV.16albion 日文名アルビオン 在县厅前的りうぼう1楼有专卖店。cpb的专卖店暂不知道哪里有。sorry-_-#
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2015-02-21 20:02
+RETRES_2_CONTENT:宇沫momoLV.2cpb也在您说的这个地方看到了！就是县前厅的对面那个商场
+RETRES_2_CNTZAN:2
+RETRES_2_PTIME:发布于 2015-02-22 07:14
+RETRES_3_CONTENT:天羽手杖LV.24指路人根据实际经验，全日本最大免税店DFS里面，各类一线大品牌，都是齐全的。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2015-11-19 07:26
+RETRES_4_CONTENT:世界任翼飞LV.13在“新都心”DFS都是高端的。。。。单轨有一站下车就是这个商场。
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2015-02-24 23:11
+RETRES_5_CONTENT:stay_33LV.4请问你有找到ablion和cpb吗
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2015-04-11 16:23

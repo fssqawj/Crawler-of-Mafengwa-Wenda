@@ -1,0 +1,61 @@
+REGIN:日本
+ID:2110740
+TITLE:#日本大阪，东京哪能买到合适的旅行箱#
+DESC:想到日本买个旅行箱，质量好的，价格实惠的，不知道有哪些 牌子，请大家帮忙，谢谢！
+TAGS:大阪#日本#东京#
+PUBTIME:2015-02-11 13:14:35
+RETRESSIZE:18
+RETRES_0_CONTENT:总想往外跑LV.22指路人奖励10蜂蜜题主采纳去奥特莱斯买新秀丽的即可。大阪的奥特莱斯比较靠近市区。
+RETRES_0_CNTZAN:5
+RETRES_0_PTIME:发布于 2015-02-12 09:52
+RETRES_1_CONTENT:simonLV.13如果你要是不图品牌的话，在东京银座八丁目有一家店就在街边的小店，所有旅行箱都是5000日元还是5500日元我忘了，反正200多人民币，而且早去的话200多人民币能买到28寸的大箱子真的很实惠，而且日本东西本来质量就很过关，放心买就好啦～我买了个24的晚上去的店员说28寸的没有了T-T
+RETRES_1_CNTZAN:10
+RETRES_1_PTIME:发布于 2015-10-24 00:26
+RETRES_2_CONTENT:Misa620LV.5看楼主要买什么品牌了。rimova系列的在东京新宿、银座、必酷、友都八喜都有卖，价格比国内便宜不少；新秀丽什么的也是同理，在奥特莱斯有卖很便宜；muji在东京买价格也很实惠；还有其他杂牌在友都八喜必酷很多；二手的可以去大黑屋之类的二手店买。
+RETRES_2_CNTZAN:6
+RETRES_2_PTIME:发布于 2015-11-06 11:12
+RETRES_3_CONTENT:BelleLV.8无印良品的话标价就比国内便宜，还时不时的有活动，比如今年的活动是打九折的基础上再优惠2016日元，其他品牌，像新秀丽、rimowa、POLO等在大商场都有，东京的话新宿、银座、涩谷都能见得到，打折季都会有特价，还会有福袋，很实惠，质量不用担心
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 2016-01-24 22:15
+RETRES_4_CONTENT:蚂蜂窝用户LV.6东京的银座有个专卖旅行箱的，如果不是太讲究质量的话可以买一个300人民币左右一个，导游都会带游客去买的，如果要好点的，也可以去无印良品，也在银座附近。
+RETRES_4_CNTZAN:1
+RETRES_4_PTIME:发布于 2016-05-19 10:32
+RETRES_5_CONTENT:专属夏天LV.7旅行箱还是建议国内买吧，便宜的都是MADE IN CHINA，而且比国内价格还高，日本制造的普遍50000以上
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2016-06-16 11:11
+RETRES_6_CONTENT:jinjin9949LV.11恰巧我买了，新秀丽的最大号。银座有卖。我买的是Made in Europe的，质量和价格都有差。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2016-02-26 16:08
+RETRES_7_CONTENT:嗷嗷嗷LV.11我先后在大阪和东京的muji买了两个不同尺寸的行李箱，带车轮锁，觉得还挺实惠的。
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2016-03-25 11:52
+RETRES_8_CONTENT:76689976LV.3本人在日本留学多年微信JAPANTokyoHappy希望能帮到您
+RETRES_8_CNTZAN:1
+RETRES_8_PTIME:发布于 2015-07-07 02:37
+RETRES_9_CONTENT:Minami酱LV.10我一般都去阿美横町买 10000日元左右 质量超级好
+RETRES_9_CNTZAN:2
+RETRES_9_PTIME:发布于 2016-02-27 21:43
+RETRES_10_CONTENT:晶LV.5奥特莱斯什么的都可以，我看过价格差不多人民币500的也有
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2015-11-04 20:50
+RETRES_11_CONTENT:正义的奥拉夫LV.10品牌的去奥特莱斯比较合适，不要品牌的路边小店很多有卖的
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2016-05-30 00:54
+RETRES_12_CONTENT:vivi3961LV.5outlet或者大阪的道顿崛有蛮多的
+RETRES_12_CNTZAN:1
+RETRES_12_PTIME:发布于 2016-01-25 00:55
+RETRES_13_CONTENT:大剑哥哥LV.15友人说，银座尽量不去。易被宰
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-12-23 06:49
+RETRES_14_CONTENT:铁臂阿童木LV.6各大商场里都有卖，AEON等
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2015-12-18 07:46
+RETRES_15_CONTENT:ＣＹＹ.BLV.18新秀丽我也在用，用了好几年
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2015-09-06 09:24
+RETRES_16_CONTENT:和风细雨声LV.4唐吉柯德吧，店铺较多
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2016-02-22 16:57
+RETRES_17_CONTENT:hibeLV.20新秀丽的不错
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2015-09-06 09:23

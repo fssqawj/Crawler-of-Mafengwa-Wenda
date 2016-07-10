@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7032737
+TITLE:这几天去长沙玩有危险吗
+DESC:湖南湖北都遭大雨侵袭了，这两天去游玩会不会很危险
+TAGS:长沙#凤凰#
+PUBTIME:2016-07-07 13:16:27
+RETRESSIZE:1
+RETRES_0_CONTENT:小奇LV.25最近都在闹水灾呢，你想去那边看海吗
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 7小时前

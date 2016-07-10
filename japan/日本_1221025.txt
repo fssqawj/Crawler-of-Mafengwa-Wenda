@@ -1,0 +1,31 @@
+REGIN:日本
+ID:1221025
+TITLE:八月份去日本热不热？
+DESC:八月份呢去热不热啊？
+TAGS:天气#日本#
+PUBTIME:2014-07-02 14:23:05
+RETRESSIZE:8
+RETRES_0_CONTENT:灵敏死胖子LV.35金牌大师奖励20蜂蜜题主采纳八月份的日本还是蛮热的，而且属于那种闷热的气候。除非你去北海道，不过北海道那个时候也不会怎么凉快。而且可能会随时降雨。除了要注意防止中暑以外，还要防雨。随身带好雨具。
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2014-07-02 21:56
+RETRES_1_CONTENT:夏至LV.5看你是去日本南部还是北部了...温度20-30度之间8月份南部以多雨高温天气为主，所以伞和雨衣是必备的。北部气温适中，但是整个8月份属于日本的雨季，要提防台风和热带气旋的侵袭。
+RETRES_1_CNTZAN:3
+RETRES_1_PTIME:发布于 2014-07-02 14:35
+RETRES_2_CONTENT:sunxuehao@sina.comLV.15日本北部天气还可以，就是要注意气象灾害，比如强降雨，台风之类的。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2天前
+RETRES_3_CONTENT:MINELV.198月是日本最热的时候，东京要达到35度以上。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2014-07-02 15:00
+RETRES_4_CONTENT:IamisLV.26指路人日本除了北海道，8月份的日本是比较热的。
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2014-07-02 17:54
+RETRES_5_CONTENT:灬龙虾酱爱萝莉LV.19感觉还好 和上海差不多的~
+RETRES_5_CNTZAN:1
+RETRES_5_PTIME:发布于 2014-07-13 15:46
+RETRES_6_CONTENT:dinkyboyLV.6再热也比国内比如上海武汉舒服啊
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2014-07-02 18:00
+RETRES_7_CONTENT:泡泡sunnyLV.68月是最热的季节！！！！
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2014-07-02 14:54

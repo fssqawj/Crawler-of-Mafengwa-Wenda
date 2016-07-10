@@ -1,0 +1,31 @@
+REGIN:日本
+ID:6809086
+TITLE:今天要去东京迪士尼乐园，可是下雨了怎么办！？
+DESC:今早起床发现窗外下雨了！可是今天要去东京迪士尼乐园！门票是提前买好的！怎么办啊？
+TAGS:迪士尼#天气#日本#东京#
+PUBTIME:2016-06-13 05:05:54
+RETRESSIZE:8
+RETRES_0_CONTENT:吕涂愉快LV.15奖励10蜂蜜题主采纳我上次去长隆欢乐世界，一起床也是大雨，忧桑！但是九点半开门的时候都停雨了。放心吧？好运！如果真的还下雨，我们已经内心脑补了方法：下雨人没那么多；很多室内的娱乐……玩的开心！
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2016-06-13 07:02
+RETRES_1_CONTENT:墨雪LV.16看运气吧 小的话可以雨中漫步 或者室内项目，要是下大了 只能进室内了，不过日本经常下小雨 很少大雨的
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2016-06-13 07:06
+RETRES_2_CONTENT:逗拌LV.11小雨的话在雨中漫步也不错，这天气也不冷，大雨就只能在室内活动了，看情况吧，不会一直下一整天的吧
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2016-06-13 06:34
+RETRES_3_CONTENT:夏の约束LV.11下雨的话没事吧～我们去的那天也下雨了～但是下下停停的，带个小雨衣啥的就完全没问题了～
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 5小时前
+RETRES_4_CONTENT:西泠听风LV.25指路人那就只能游玩室内的项目了，提前去，以免排队人多。
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2016-06-13 05:08
+RETRES_5_CONTENT:sushi0451LV.30指路人以室内项目为主，也有很多能玩的，或者带着雨衣
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2016-06-13 06:32
+RETRES_6_CONTENT:airczbLV.19下雨了就在室内玩儿呗
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2016-06-13 05:54
+RETRES_7_CONTENT:U smileLV.15有小雨中也能玩
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2016-06-13 06:56

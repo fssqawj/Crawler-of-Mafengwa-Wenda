@@ -1,0 +1,19 @@
+REGIN:latast-7-7
+ID:7033497
+TITLE:上海迪士尼度假区拍照
+DESC:我是个男孩子16岁，很想和公主拍照，大家说我跟迪士尼公主摆什么姿势不尴尬？
+TAGS:迪士尼#摄影#上海#
+PUBTIME:2016-07-07 14:32:03
+RETRESSIZE:4
+RETRES_0_CONTENT:fhLV.36指路人上海男孩16岁，已经是有身份证的大男孩了，基本上就是成人了，在和公主拍照的时候，应该有一定的份称和距离，不要让公主感到有压力。建议你在和公主拍照时，充分展示你的纯真阳光，让你自己熠熠生辉，让公主和你交相辉映。祝你快乐！
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 25分钟前
+RETRES_1_CONTENT:小ZLV.12上海迪士尼不能用自拍杆，不能穿着卡通衣服。拍照想咋拍就咋拍呗
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 3小时前
+RETRES_2_CONTENT:huoyangminLV.8喜欢和公主拍照就去拍照，最主要自己喜欢，自己高兴
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 5小时前
+RETRES_3_CONTENT:以利沙伯LV.15不能用自拍杆，自己感觉好就可以
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 5小时前

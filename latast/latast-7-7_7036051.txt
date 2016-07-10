@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7036051
+TITLE:南京南有去扬州的车吗？
+DESC:南京南有去扬州的车吗？
+TAGS:南京#扬州#交通#
+PUBTIME:2016-07-07 19:36:18
+RETRESSIZE:1
+RETRES_0_CONTENT:果然LV.35指路人南京火车站有到扬州的动车，每天就一趟D5436,20:10开车！~
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 10分钟前

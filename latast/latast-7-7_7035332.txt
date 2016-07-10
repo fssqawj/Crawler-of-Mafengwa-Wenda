@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7035332
+TITLE:落地签要查返程机票吗
+DESC:请问落地签的时候会要检查返程的机票以及酒店信息吗？
+TAGS:落地签#机票#
+PUBTIME:2016-07-07 17:30:13
+RETRESSIZE:1
+RETRES_0_CONTENT:StevenCheng10LV.8您好，泰国落地签可能会抽查您的离境机票和随身携带的现金，落地签每人10000泰铢或等值货币，每个家庭20000泰铢或等值货币。希望对您有帮助，望采纳！
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2小时前

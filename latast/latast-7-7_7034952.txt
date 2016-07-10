@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7034952
+TITLE:关于京王线和西瓜卡的使用
+DESC:想从府中座京王线到新宿，是只用西瓜卡就可以还是要再买一张加急卷
+TAGS:西瓜卡#交通#
+PUBTIME:2016-07-07 16:46:31
+RETRESSIZE:1
+RETRES_0_CONTENT:kiminonakaLV.12直接刷卡即可，京王的特急不需要加钱。
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 3小时前

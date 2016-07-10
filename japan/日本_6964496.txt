@@ -1,0 +1,16 @@
+REGIN:日本
+ID:6964496
+TITLE:东京到札幌JR怎么坐？
+DESC:东京到札幌坐JR怎么坐
+TAGS:札幌#东京#
+PUBTIME:2016-06-29 23:21:22
+RETRESSIZE:3
+RETRES_0_CONTENT:风的线条LV.15我会买JR PASS一路玩上去, 算了一下7天的行程原本要七万多日元, 只要29110日元搞定, 太划算了但若你只是想踏点打卡, 建议飞机只要一万日币左右又省时间
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 1天前
+RETRES_1_CONTENT:天地良心LV.9先從東京乘坐 はやぶさ号(鷹隼)新幹線到新函館北斗，指定席票價25070日元，然後換乘JR特急北斗星號到札幌，票價1290日元。窮遊當買JRpass七日券還是超劃算的，只要你不在意七八小時的路程，呵呵
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2天前
+RETRES_2_CONTENT:旧西圆LV.18指路人北海道东京新干线到函馆，再从函馆坐北海道JR到札幌。全程大概7-8小时，建议飞机。
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2天前

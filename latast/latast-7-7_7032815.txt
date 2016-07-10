@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7032815
+TITLE:想知道槟城到亚庇的航班
+DESC:从槟城怎么去亚庇？航班多么？在哪个网站订票？
+TAGS:槟城#亚庇#
+PUBTIME:2016-07-07 13:24:32
+RETRESSIZE:1
+RETRES_0_CONTENT:where煮花花LV.30指路人从槟城  怎么去亚庇？==》直接飞过去，亚航。航班多么？在哪个网站订票？==》从槟城飞往亚庇，如果是亚航的话每天两班，早上10:05起飞，12:55到达，下午17:20起飞，20:05到达，票价在200马币左右，促销时会更低，直接在亚航官网购买。http://www.airasia.com/cn/zh/home.page
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 5小时前

@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6957765
+TITLE:东京银座附近有亚瑟士ASICS吗！
+DESC:急！银座附近哪有亚瑟士专卖店！
+TAGS:购物#东京#
+PUBTIME:2016-06-29 10:33:50
+RETRESSIZE:2
+RETRES_0_CONTENT:NoBrainerLV.11指路人你好！有的！地址：東京都中央区銀座8-2-7 NTT銀座ビル 1F营业时间：周一～周五 11:00～21:00                  周末节假日   9:00～19:00电话：03-3572-8301
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:鱼缸里的夏天LV.7NTT银座大楼，是直营店。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2天前

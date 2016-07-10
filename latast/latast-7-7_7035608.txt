@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7035608
+TITLE:入台证下证后电子版上原居住地址错误
+DESC:入台证下证后电子版上发现原居住地址中82弄变B2弄了，要紧么？会影响出入境么？
+TAGS:自由行#入台证#
+PUBTIME:2016-07-07 18:09:47
+RETRESSIZE:2
+RETRES_0_CONTENT:老猫LV.37指路人奖励10蜂蜜题主采纳这个不会影响你入台的，台湾海关只是核对你入台证的姓名和台湾通行证的姓名是不是同一个人的，其他东西不是很重要的。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 25分钟前
+RETRES_1_CONTENT:СσdìσъLV.20指路人入台证已经收到的话，就完全没问题了，不会影响出入境的
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 2小时前

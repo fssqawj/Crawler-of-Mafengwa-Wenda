@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6724724
+TITLE:Ryudo退税是不是退6.9%后再手续费收1.1% ？等于最后只退5.8%是吧？
+DESC:Ryudo退税是不是退6.9%后再手续费收1.1% ？等于最后只退5.8%是吧？
+TAGS:退税#那霸#购物#
+PUBTIME:2016-06-03 11:01:00
+RETRESSIZE:2
+RETRES_0_CONTENT:四分之一绿茶LV.6嗯，楼上说的很对。标准税率是8%，有些商场会收1.1%-1.2%的手续费，实际退到的税在6.9%左右。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 1天前
+RETRES_1_CONTENT:scsamLV.16是最终退6.9%，因为可退消费税是8%，扣收1.1%手续费
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2016-06-03 11:24

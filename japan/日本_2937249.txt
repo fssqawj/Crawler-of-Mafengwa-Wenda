@@ -1,0 +1,59 @@
+REGIN:日本
+ID:2937249
+TITLE:请问冲绳有没有战争纪念馆的景点？
+DESC:和家人去冲绳玩，爸爸想要去参观关于战争时候的景点。
+请问冲绳有没有关于战争时候的纪念馆或博物馆之类的景点？
+TAGS:冲绳#博物馆#景点#战争纪念馆#
+PUBTIME:2015-07-09 11:46:45
+RETRESSIZE:17
+RETRES_0_CONTENT:syle16LV.21指路人冲绳奖励20蜂蜜题主采纳当然有了，冲绳和平祈年馆，是二战时冲绳战役最后的战场。来这里，还可以顺便去民俗村和玉泉洞看看，离的很近。
+RETRES_0_CNTZAN:179
+RETRES_0_PTIME:发布于 2015-07-09 13:08
+RETRES_1_CONTENT:天羽手杖LV.24指路人当然有了，最有名的有两处：1.冲绳和平祈念公园及平和之础为了向世界传递冲绳的“和平之心”，纪念冲绳之战结束50周年，于1995年在摩文仁山丘上建成的。在矗立的石碑上不分国籍、军人和平民，把所有冲绳之战的死难者的姓名都刻下来了。但是，对于冲绳县民，不光是冲绳之战的死难者，还包括所有的战争死难者。2.姬百合之塔/优美堂姬百合部队是于1945年3月根据军队的要求由冲绳师范学校女子部及县立第一女子高中的320名学生组成的，作为特别救护队被分配到南风原陆军医院工作。她们长期在充满地下水的狭窄的战壕内进行救护，从喂食护理到死体掩埋等，从事着这些对于17、8岁的少女来说十分严酷的工作。随着部队的南下，在她们中也开始出现了死伤者。纪念塔旁边的洞窟，是属于南下的第三外科的战壕，当时被敌军所包围，一步也无法突围，因自杀或美军的毒气攻击，被夺去了大约200人的生命。该塔就是集体供奉女子部211名学生及16名教职员工的纪念塔。
+RETRES_1_CNTZAN:33
+RETRES_1_PTIME:发布于 2015-12-03 16:11
+RETRES_2_CONTENT:一路前行LV.22肯定有的了，貌似叫什么和平祈年馆，可以过去看一下
+RETRES_2_CNTZAN:41
+RETRES_2_PTIME:发布于 2015-09-26 23:40
+RETRES_3_CONTENT:越南指路人LV.23有 姬百合之塔 跟 和平祈念公园 可以去的
+RETRES_3_CNTZAN:2
+RETRES_3_PTIME:发布于 2015-12-21 23:32
+RETRES_4_CONTENT:河童KAPPALV.27冲绳和平祈念公园及平和之础姬百合之塔/优美堂
+RETRES_4_CNTZAN:1
+RETRES_4_PTIME:发布于 2016-02-10 22:47
+RETRES_5_CONTENT:李英LV.17指路人肯定有啦，最多的就是和平祈念公园
+RETRES_5_CNTZAN:1
+RETRES_5_PTIME:发布于 2016-02-17 17:41
+RETRES_6_CONTENT:你女朋友能借吗，LV.27有的， 和平祈念公园哦
+RETRES_6_CNTZAN:2
+RETRES_6_PTIME:发布于 2015-12-12 16:10
+RETRES_7_CONTENT:hohai113LV.20有啊，和平祈年公园
+RETRES_7_CNTZAN:2
+RETRES_7_PTIME:发布于 2016-01-05 09:19
+RETRES_8_CONTENT:晚翠LV.26姬百合之塔和和平祈念公园
+RETRES_8_CNTZAN:1
+RETRES_8_PTIME:发布于 2016-01-19 09:21
+RETRES_9_CONTENT:情见山河LV.17有
+RETRES_9_CNTZAN:3
+RETRES_9_PTIME:发布于 2016-01-10 15:00
+RETRES_10_CONTENT:♚| 友情无限LV.15和平祈念公园
+RETRES_10_CNTZAN:1
+RETRES_10_PTIME:发布于 2016-03-20 11:18
+RETRES_11_CONTENT:甜鱼草LV.18和平祈念公园
+RETRES_11_CNTZAN:1
+RETRES_11_PTIME:发布于 2015-12-26 21:23
+RETRES_12_CONTENT:AlanLV.16冲绳和平祈年馆
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2016-04-05 08:52
+RETRES_13_CONTENT:啊吖阿嗄LV.15有。
+RETRES_13_CNTZAN:1
+RETRES_13_PTIME:发布于 2016-03-14 00:18
+RETRES_14_CONTENT:backpackerLV.19有的
+RETRES_14_CNTZAN:1
+RETRES_14_PTIME:发布于 2016-02-01 19:36
+RETRES_15_CONTENT:oracleLV.21和平祈念公园
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2016-04-20 12:55
+RETRES_16_CONTENT:AjoyLV.10有的
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2016-03-22 12:45

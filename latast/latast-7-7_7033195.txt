@@ -1,0 +1,22 @@
+REGIN:latast-7-7
+ID:7033195
+TITLE:学生去普吉带什么卡方便，
+DESC:我没有信用卡该怎么办？就这一个问题了，比较麻烦啊
+TAGS:自由行#行程#普吉岛#泰国#交通#
+PUBTIME:2016-07-07 14:04:48
+RETRESSIZE:5
+RETRES_0_CONTENT:诗晓歌LV.4信用卡都行，那如果是有银联和visa双标卡的，付款时和收银员说下走银联通道，不然会转成美金结算后，再转成人民币还款，增加汇率折损。建议在国内换好钱去，因为那边一些商户刷卡会把他们需要承担的手续费，好像是3%，转加给你，而且国外换钱的汇率也比国内低，现在大概1：4.8左右。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3小时前
+RETRES_1_CONTENT:田田LV.23指路人用华夏银行的借记卡。每天第一笔免手续费。不用信用卡也行。好多地方都支持银联的。提前多换点也行。没信用卡根本没问题。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 6小时前
+RETRES_2_CONTENT:SerenaLV.16建议多换点现金吧，每天带一点出去；信用卡的话不是很安全；而且便利店啊路边摊啊之类的，都不能刷银行卡
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 3小时前
+RETRES_3_CONTENT:Mr.DLV.5没有信用卡也可以啊！我去的时候也木有信用卡，我去的时候在国内换好泰铢，再带点RMB去不够了再换
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 6小时前
+RETRES_4_CONTENT:Breath.yuyunLV.23没有信用卡也可以啊
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 5小时前

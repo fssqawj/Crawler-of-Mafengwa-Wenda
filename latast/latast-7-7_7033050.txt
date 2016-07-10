@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7033050
+TITLE:广州附近这个天气露营哪里好
+DESC:周末突然想找个有水的地方露营，人在广州，有一起的吗？不要太远，不要太虐。
+TAGS:露营#天气#广州#
+PUBTIME:2016-07-07 13:50:54
+RETRESSIZE:2
+RETRES_0_CONTENT:若逸RoisLV.19指路人广州可以考虑一下惠东的盐洲岛，距离广州不到3小时车程。那里的黑排角徒步线是比较成熟的线路，也可以露营。要不就到珠海找一个小岛，或者深圳西冲。
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 6小时前
+RETRES_1_CONTENT:幸运草LV.22实习指路人建议到深圳西冲，觉得好，请采纳，谢谢。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 6小时前

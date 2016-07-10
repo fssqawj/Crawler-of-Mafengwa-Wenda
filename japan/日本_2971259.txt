@@ -1,0 +1,124 @@
+REGIN:日本
+ID:2971259
+TITLE:#东京#跟团到了日本后可以脱团自己玩，到时间再和旅行社一起回国吗
+DESC:跟团到了日本后可以脱团自己玩，到时间再和旅行社一起回国吗
+TAGS:跟团#旅行社#日本#东京#
+PUBTIME:2015-07-13 22:49:07
+RETRESSIZE:39
+RETRES_0_CONTENT:TitanLV.21奖励10蜂蜜题主采纳请避免这种危险的想法，旅行团和你国内的担保人都有责任要求你是按规定旅游的。虽然大部分时间是跟团行动，但一般也有自由行动的时间，例如一个晚上或者一天是自由的。你可以看清楚旅行团的安排才报名。
+RETRES_0_CNTZAN:176
+RETRES_0_PTIME:发布于 2015-07-13 23:03
+RETRES_1_CONTENT:.一点阳光LV.15日本管制比较严格，不能脱团。因为政治关系紧张，像韩国 就可以收取离团费，从而让你自由活动。可是日本不同，而且像日本的签证都算是亚洲国家最严格的了。资产证明，和担保函这些是一样都不能少，万一擅自离团，可能造成问题。而且也不建议离团，旅行社安排的行程都是合理化时间与路程去排的跟团还比较省时 ，省力。而且晚上入住酒店后，这段空闲时间，就可以自由出来逛的
+RETRES_1_CNTZAN:66
+RETRES_1_PTIME:发布于 2015-10-07 09:33
+RETRES_2_CONTENT:咖啡下午茶LV.26指路人脱团旅游一般是不行了，如果碰上一个好说话的导游还是可以的，但要给他脱团费。你给他脱团费证明你还是会和他们一起回来的，如果真的想黑在日本，一定不会交脱团费的，也不会说要脱团这样的话，提醒导游戏盯着你。脱团费也不会便宜。很多团是靠购物创收的，你不去购物那份钱还是要给他的。
+RETRES_2_CNTZAN:7
+RETRES_2_PTIME:发布于 2015-12-05 19:51
+RETRES_3_CONTENT:xiaozhugeliLV.21请勿如此尝试，现在在中国的几个一线城市已经开通了日本自由行的签证办理，你如果正好是在这些城市的人，不如就直接办理自由行。但如果选择了跟团，就一定不要有脱团的想法，这样做很不安全而且很可能会在个人的信用记录上留下不好的印记，那你以后再出国玩就各种麻烦了。
+RETRES_3_CNTZAN:2
+RETRES_3_PTIME:发布于 2016-02-19 14:13
+RETRES_4_CONTENT:岳太太LV.15正常肯定是不允许的 我们这里之前有做过这种 但是后来出事了 旅行社罚款还被停签 现在我们这里最多就是有3整天自由活动的行程
+RETRES_4_CNTZAN:5
+RETRES_4_PTIME:发布于 2015-11-17 22:53
+RETRES_5_CONTENT:kfc_jcLV.20如果是跟团，一般是不允许脱团行动的。当然，有些旅行社是加收一些钱就可以给你脱团~~~但是不是每一家都可以。你还是去问问旅行社吧~~~
+RETRES_5_CNTZAN:1
+RETRES_5_PTIME:发布于 2015-07-14 23:16
+RETRES_6_CONTENT:MadeleineLV.9当让不能的
+RETRES_6_CNTZAN:12
+RETRES_6_PTIME:发布于 2015-07-15 00:23
+RETRES_7_CONTENT:冤家小鼠LV.13每个城市都有很多敢这么做的旅行社，你不应该在这里问，直接去当地旅行社问最好。
+RETRES_7_CNTZAN:2
+RETRES_7_PTIME:发布于 2015-07-14 11:04
+RETRES_8_CONTENT:shirlinLV.12不要脱团，这样不好
+RETRES_8_CNTZAN:5
+RETRES_8_PTIME:发布于 2015-10-18 21:45
+RETRES_9_CONTENT:宅老湿LV.4最好不要哦。有一点小意外很难说得清楚
+RETRES_9_CNTZAN:3
+RETRES_9_PTIME:发布于 2015-12-09 18:17
+RETRES_10_CONTENT:大新之助LV.22一般来说是不允许的，也不建议，毕竟日本社会法制还是很严格的
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2016-03-18 16:58
+RETRES_11_CONTENT:象征LV.18任何跟团出国旅游，请不要擅自脱团，对自己对家人对团友负责！
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2015-12-13 05:53
+RETRES_12_CONTENT:emily婷LV.18指路人应该是不可以的，必须跟团去，然后完成所有旅行内容后跟团回
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2016-03-21 07:04
+RETRES_13_CONTENT:小何LV.18旅行社绝不可能让你脱团的，因为他们做了担保的
+RETRES_13_CNTZAN:1
+RETRES_13_PTIME:发布于 2015-10-28 19:19
+RETRES_14_CONTENT:我永远爱你宝宝LV.22不要脱团啊。
+RETRES_14_CNTZAN:4
+RETRES_14_PTIME:发布于 2015-10-15 22:01
+RETRES_15_CONTENT:lu13633LV.19有些旅行社是加收一些钱就可以给你脱团~
+RETRES_15_CNTZAN:1
+RETRES_15_PTIME:发布于 2015-10-15 14:58
+RETRES_16_CONTENT:CindyLV.17你要是赖在日本不回来，旅行社会到大霉的
+RETRES_16_CNTZAN:1
+RETRES_16_PTIME:发布于 2015-09-26 14:56
+RETRES_17_CONTENT:luofan1724LV.21不可以吧！除非是自由行，跟团的话要看团队安排
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2016-03-23 20:04
+RETRES_18_CONTENT:hongkLV.17可以办，看旅行社了，百程网在广州是可以办全国
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 2016-02-19 14:14
+RETRES_19_CONTENT:瓷娃娃「雅雅」LV.17不能脱团，管的比较严格，要不就选自由行的吧。
+RETRES_19_CNTZAN:0
+RETRES_19_PTIME:发布于 2016-01-07 11:22
+RETRES_20_CONTENT:Alice LuiLV.16不要脱团，这样有意外的话会害旅行社倒大霉的
+RETRES_20_CNTZAN:0
+RETRES_20_PTIME:发布于 2016-02-02 10:27
+RETRES_21_CONTENT:eh810LV.19不要这么做 ！想脱团的不如办自由行的啊
+RETRES_21_CNTZAN:0
+RETRES_21_PTIME:发布于 2016-02-19 17:04
+RETRES_22_CONTENT:lockLV.11最好不要这样，万一出点问题，那就麻烦了
+RETRES_22_CNTZAN:0
+RETRES_22_PTIME:发布于 2016-02-19 14:13
+RETRES_23_CONTENT:缬雨LV.16这个是不允许的 放弃这种想法吧
+RETRES_23_CNTZAN:0
+RETRES_23_PTIME:发布于 2016-02-19 14:06
+RETRES_24_CONTENT:abbyLV.16一般不允许
+RETRES_24_CNTZAN:2
+RETRES_24_PTIME:发布于 2015-10-31 12:30
+RETRES_25_CONTENT:淼淼LV.7如果你要这样的话，自由行吧
+RETRES_25_CNTZAN:0
+RETRES_25_PTIME:发布于 2016-02-26 09:37
+RETRES_26_CONTENT:大懒熊小墨鱼LV.23一般不能，这样不太安全，
+RETRES_26_CNTZAN:0
+RETRES_26_PTIME:发布于 2015-12-13 05:51
+RETRES_27_CONTENT:小小LV.17不可以的。
+RETRES_27_CNTZAN:1
+RETRES_27_PTIME:发布于 2015-10-13 06:23
+RETRES_28_CONTENT:DoubleLV.15最好还是跟团 有保障
+RETRES_28_CNTZAN:0
+RETRES_28_PTIME:发布于 2015-12-15 08:31
+RETRES_29_CONTENT:流浪者LV.12旅行社安全有保障些。
+RETRES_29_CNTZAN:0
+RETRES_29_PTIME:发布于 2016-01-09 00:34
+RETRES_30_CONTENT:苏打水411LV.8比较危险，语言不通
+RETRES_30_CNTZAN:0
+RETRES_30_PTIME:发布于 2016-03-29 21:37
+RETRES_31_CONTENT:每周五天🍛LV.3直接自由行不好吗？
+RETRES_31_CNTZAN:0
+RETRES_31_PTIME:发布于 2016-02-13 14:12
+RETRES_32_CONTENT:简单LV.17不要脱团，这样不好
+RETRES_32_CNTZAN:0
+RETRES_32_PTIME:发布于 2016-01-15 08:26
+RETRES_33_CONTENT:指尖上的星光LV.23不可以的勿尝试
+RETRES_33_CNTZAN:0
+RETRES_33_PTIME:发布于 2016-01-04 07:34
+RETRES_34_CONTENT:小米的旅游情结LV.21基本不允许
+RETRES_34_CNTZAN:0
+RETRES_34_PTIME:发布于 2015-12-13 17:52
+RETRES_35_CONTENT:北窗游客11LV.16这是不行的
+RETRES_35_CNTZAN:0
+RETRES_35_PTIME:发布于 2016-04-12 10:15
+RETRES_36_CONTENT:简单·幸福LV.18不可以的
+RETRES_36_CNTZAN:0
+RETRES_36_PTIME:发布于 2016-02-19 14:05
+RETRES_37_CONTENT:JuliaLV.9不可以的
+RETRES_37_CNTZAN:0
+RETRES_37_PTIME:发布于 2015-12-15 08:31
+RETRES_38_CONTENT:JoJo-maLV.15不能的
+RETRES_38_CNTZAN:0
+RETRES_38_PTIME:发布于 2016-01-09 00:33

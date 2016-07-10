@@ -1,0 +1,16 @@
+REGIN:日本
+ID:6954995
+TITLE:关于东京西瓜卡的问题
+DESC:网上买了西瓜卡，收到后是直接可以使用吗？一张卡可以几个人用吗？
+TAGS:西瓜卡#东京#
+PUBTIME:2016-06-29 00:16:07
+RETRESSIZE:3
+RETRES_0_CONTENT:sugar1216LV.20指路人东京奖励20蜂蜜题主采纳淘宝上卖的西瓜卡一般都是大人用的西瓜卡 2000日元  里面含1500金额可用 以及500押金。一卡一个人使用。如果要买儿童交通卡就必须去日本的JR窗口 或者服务中心购买了。儿童资费结算方式比大人的优惠。西瓜卡 可用于东京所有地铁   JR  METRO 都营 各类私铁。  另外也可以用于便利店的支付，很便捷。
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前
+RETRES_1_CONTENT:天地良心LV.9坐車的時候一人用一張，你買東西或販賣機點餐可以一起刷
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 3天前
+RETRES_2_CONTENT:天晓得LV.18只要里面有钱就能用，一张卡一个人使用
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 3天前

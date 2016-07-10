@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7034522
+TITLE:求京都到东京新干线购票具体步骤
+DESC:已在京都，看到卖票电子窗，也有中文，不过还是不会点，急求，最好是带图片的，谢谢
+TAGS:自由行#新干线#东京#交通#京都#
+PUBTIME:2016-07-07 16:05:02
+RETRESSIZE:2
+RETRES_0_CONTENT:tintinLV.14在京都站吗，有人工柜台呀，把目的地指给他们看，请他们帮忙。给你西日本的官网，购票指南http://www.westjr.co.jp/global/sc/howto/ticket_02.html#fq07
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 3小时前
+RETRES_1_CONTENT:SerenaLV.16什么叫做不会点？窗口有服务人员，跟他说你要从京都去东京，英语会吗？或者指中文给服务人员看
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 4小时前

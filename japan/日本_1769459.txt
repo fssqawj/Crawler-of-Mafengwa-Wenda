@@ -1,0 +1,16 @@
+REGIN:日本
+ID:1769459
+TITLE:东京大阪卖文具的在什么地方？
+DESC:我一月大阪和东京，想买一些文具，就是很精致设计很棒的小玩意，不知道在哪里买，是要到商城里面去还是街边就有呢？
+TAGS:大阪#东京#
+PUBTIME:2014-11-13 08:54:53
+RETRESSIZE:3
+RETRES_0_CONTENT:必灵兔LV.21我给女儿买过一些很可爱的橡皮，就是在那种商店街上，在心斋桥筋啥的逛逛你应该会有收获
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 2014-11-14 10:45
+RETRES_1_CONTENT:maggieLV.31指路人日本LOFT，tokyu-hands里也有卖的。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2014-11-14 13:02
+RETRES_2_CONTENT:圆圆大饼脸LV.13心斋桥东西比较多，类似那种步行商场！可以找一下
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2014-11-14 12:35

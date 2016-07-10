@@ -1,0 +1,50 @@
+REGIN:日本
+ID:2117665
+TITLE:#日本#从关西机场怎么去南波的bigcamera?
+DESC:第一天抵达日本是傍晚，住在关西机场附近的酒店。请问怎么去南波那个bigcamera?那里几点关门呢？
+请大神指点啊！
+TAGS:日本#机场#交通#
+PUBTIME:2015-02-12 23:36:06
+RETRESSIZE:14
+RETRES_0_CONTENT:maggieLV.31指路人日本奖励10蜂蜜题主采纳从机场到难波建议乘坐南海电车，其他JR啊巴士虽都有难波站分布比较远。関西空港——（南海空港線空港急行，11站 920日元）—難波，所需44分钟。难波站北口，或是从地下街（なんばウォーク）过去较容易找，Ｂ17・Ｂ19・Ｂ21出口。* 到了难波后还有乘坐地铁去别的地方的计划的话，建议在机场买南海电车的【関空ちかトクきっぷ】。南海电车（关西机场到难波）920JPY + 大阪市地下铁（难波到各站）180JPY起＝ 特价1000日元。
+RETRES_0_CNTZAN:24
+RETRES_0_PTIME:发布于 2015-02-13 07:41
+RETRES_1_CONTENT:徐总LV.12坐南海电车到难波。难波站走过去4-5分钟。买电器推荐去日本桥。哪里电器店超多。护照打折的。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2015-10-04 22:05
+RETRES_2_CONTENT:开水煮活鱼LV.2日本旅行顾问，旅日11年。专业为您解答各类日本问题，请加微信：kaishuizhuhuoyu
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2015-11-21 07:37
+RETRES_3_CONTENT:雪之饮LV.19指路人补充一下，BIC的打烊时间一般最迟是晚上9:00。其实买东西也可以去梅田的友都八喜。
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2015-12-11 09:01
+RETRES_4_CONTENT:MosmannLV.7机场有去往 難波　的电车，也有大巴，到了打开你的谷歌地图，就可看到了
+RETRES_4_CNTZAN:1
+RETRES_4_PTIME:发布于 2015-02-13 06:50
+RETRES_5_CONTENT:76689976LV.3本人在日本留学多年微信JAPANTokyoHappy希望能帮到您
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2015-07-07 02:37
+RETRES_6_CONTENT:billykimLV.15建议租赁一个移动WiFi，Google地图完全够用了，非常方便。
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2015-11-29 11:31
+RETRES_7_CONTENT:张三旅行LV.11難波是大站，直接JR和电车都到。
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2015-12-10 16:49
+RETRES_8_CONTENT:柳川今LV.5建议下个谷歌地图，非常方便
+RETRES_8_CNTZAN:0
+RETRES_8_PTIME:发布于 2016-05-23 10:31
+RETRES_9_CONTENT:美行旅鸟地图LV.15可以用美行旅鸟地图导航一下
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2015-06-28 12:10
+RETRES_10_CONTENT:_.SkyLV.12坐南海線直達難波
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2015-12-01 09:35
+RETRES_11_CONTENT:死宅要旅行LV.15电车或者大巴
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2016-06-03 08:37
+RETRES_12_CONTENT:猫饭LV.16坐南海本线
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2015-12-07 09:03
+RETRES_13_CONTENT:cathy828LV.5南海本线
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-07-31 13:45

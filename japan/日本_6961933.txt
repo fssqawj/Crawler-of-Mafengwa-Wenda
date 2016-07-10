@@ -1,0 +1,10 @@
+REGIN:日本
+ID:6961933
+TITLE:柯南主题店，东京有没有？
+DESC:请问东京哪里有柯南的主题店？
+TAGS:东京#
+PUBTIME:2016-06-29 17:30:32
+RETRESSIZE:1
+RETRES_0_CONTENT:i_voyagerLV.18有，涩谷苹果店对面就有一家
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 2天前

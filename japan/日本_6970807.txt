@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6970807
+TITLE:在日本订的民宿如何填入境单
+DESC:入境单写民宿的地址和电话可以顺利通关吗？大家都是怎么做的？
+TAGS:入境单#日本#民宿#
+PUBTIME:2016-06-30 15:18:39
+RETRESSIZE:2
+RETRES_0_CONTENT:luluLV.10指路人可以的，没有问题，而且没有人会查的，只要不涉及到初次签证消签就好了
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 1天前
+RETRES_1_CONTENT:大瑶熊LV.25指路人东京随便写都行，海关不会因为填写这个不让进关的，不用过分的担心了。
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 10小时前

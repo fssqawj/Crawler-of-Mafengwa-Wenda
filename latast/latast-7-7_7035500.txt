@@ -1,0 +1,10 @@
+REGIN:latast-7-7
+ID:7035500
+TITLE:请问从吉隆坡机场到怡宝自驾开车要多长时间？
+DESC:请问从吉隆坡机场到怡宝自驾开车要多长时间？
+TAGS:自驾#吉隆坡#机场#
+PUBTIME:2016-07-07 17:54:33
+RETRESSIZE:1
+RETRES_0_CONTENT:小迎~小迎~LV.26指路人吉隆坡金牌大师无视路况，大概3小时30分钟吧，但是有时候会堵车，还是耽误了一些些，保守估计4小时吧。驾车太久会累，可以考虑一下搭 yoyo bus 或者是 star shuttle 到怡保。
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 3分钟前

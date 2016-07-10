@@ -29,7 +29,7 @@ def getmddid(htmlstr):
 
 
 def process(mdd, detailid, htmlstr):
-    fout = codecs.open('detail/' + mdd + '_' + detailid + '.txt', 'w', 'utf-8')
+    fout = codecs.open('latast/' + mdd + '_' + detailid + '.txt', 'w', 'utf-8')
     soup = BeautifulSoup(htmlstr)
     if len(soup.select('div.q-title')) == 0:
         return
@@ -76,6 +76,7 @@ if __name__ == '__main__':
                 fout.write(item + '\n')
         fout.close()
     '''
+    ''' getwendadata code
     detailfile = os.listdir('./mfwdata')
     for df in detailfile:
         for detailid in open('mfwdata/' + df).readlines():
@@ -87,3 +88,18 @@ if __name__ == '__main__':
             print detailid
             htmlstr = fetch('http://www.mafengwo.cn/wenda/detail-' + detailid + '.html')
             process(df[0:df.index('.')], detailid, htmlstr)
+    '''
+    '''
+    urlformat = 'http://www.mafengwo.cn/qa/ajax_pager.php?type=1&mddid=0&tids=0&app_link=&action=question_index&start={}'
+    fout = open('latastdetailid.txt', 'w')
+    for i in range(0, 500, 20):
+        htmlstr = fetch(urlformat.format(i))
+        detailid = getdetaillist(htmlstr)
+        for item in detailid:
+            fout.write(item + '\n')
+    fout.close()
+    '''
+    for line in open('latastdetailid.txt').readlines():
+        line = line.strip()
+        htmlstr = fetch('http://www.mafengwo.cn/wenda/detail-' + line + '.html')
+        process('latast-7-7', line, htmlstr)

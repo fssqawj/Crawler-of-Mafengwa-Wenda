@@ -1,0 +1,67 @@
+REGIN:日本
+ID:1093500
+TITLE:请问在日本用什么导航或者地图软件啊？有没有好用的中文软件？
+DESC:请问在日本用什么导航或者地图软件啊？有没有好用的中文软件？
+TAGS:行程#语言#日本#
+PUBTIME:2014-05-22 14:14:01
+RETRESSIZE:20
+RETRES_0_CONTENT:灵敏死胖子LV.35金牌大师奖励20蜂蜜题主采纳地图和导航的话google map就不错，而且google map在国外的定位准确性要比国内高非常多，不止一点点，基本上可以定位在5M以内，如果乘坐公共交通的话，比如地铁，可以使用一个叫做换乘案内的一个软件，输入起始点和终点，就会提示出来在哪里换乘。当然也可以安装一个JR的客户端，这样更方便查看JR的信息，和时间表。
+RETRES_0_CNTZAN:6
+RETRES_0_PTIME:发布于 2014-05-22 15:11
+RETRES_1_CONTENT:李小咪爱凑热闹LV.15google map 是首选，线路准确是毫无问题的，而且会随出行时间的变化而变化乘坐时间，预计时长等。但是有一点要注意，亲身尝试，google map如果是做Bus的话，线路依然没有问题，但是车站的具体地点可能会有偏差，尤其是在一些小站，站牌只有一根杆子而已，要找到就需要花一些时间。总之一张嘴加上google map就足够了~
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2014-07-08 15:02
+RETRES_2_CONTENT:檬檬萌LV.26指路人我有写过日本交通app的帖子http://www.mafengwo.cn/i/2971539.html，你可以选择喜欢的下一个，依赖中文的话googlemap可以，但是日本的软件，阅读也无障碍，同时会有站名提醒，也不需要手动输入，还有交通状况直播，可以参考下哦~
+RETRES_2_CNTZAN:5
+RETRES_2_PTIME:发布于 2014-05-22 15:01
+RETRES_3_CONTENT:滚雪球jjLV.4谷歌地图国内下不了啊~~得到日本下~~在国内下了美行旅鸟地图安卓版，IOS我看是需要付费的，就用老公的手机下了安卓版，抢的免费使用权限，用着不错，最主要是中文的，可以中文检索，可以中文导航，不错~http://www.mxlvniao.com/  官网可以下到不同版本
+RETRES_3_CNTZAN:1
+RETRES_3_PTIME:发布于 2016-03-15 10:37
+RETRES_4_CONTENT:爱上开水的鱼LV.15就手机自带的iphone地图或google 地图，我在日本的10天就是靠这个地图活着，买张手机流量卡放手机里，随用随查，网速超级快！不怕迷路的，懒得开口，不问人也一样不会丢
+RETRES_4_CNTZAN:3
+RETRES_4_PTIME:发布于 2014-05-22 15:05
+RETRES_5_CONTENT:海豚中的海LV.14额，参考了楼上各位大侠的意见，可是为什么我在国内下载的，但是显示的是英文啊。。。。
+RETRES_5_CNTZAN:6
+RETRES_5_PTIME:发布于 2014-11-10 09:39
+RETRES_6_CONTENT:滚雪球430LV.4美行旅鸟地图，是中文显示，而且支持离线导航，还有周边酒店、美食等等的推荐，很实用
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 2015-07-31 13:57
+RETRES_7_CONTENT:rainaLV.2省流量要放大先预览下缓存，谷戈的最大长处是更新及时，几乎不误事。
+RETRES_7_CNTZAN:0
+RETRES_7_PTIME:发布于 2015-11-24 20:32
+RETRES_8_CONTENT:yy25007LV.20下了Google map，为什么打不开啊
+RETRES_8_CNTZAN:2
+RETRES_8_PTIME:发布于 2015-01-25 13:58
+RETRES_9_CONTENT:wlsangelLV.16google地图啊，在国内下的都是中文版，到了那边直接用
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2014-05-22 14:33
+RETRES_10_CONTENT:美行旅鸟地图LV.15美行旅鸟地图·日本中文地图，中文的离线下载以后就能用了
+RETRES_10_CNTZAN:0
+RETRES_10_PTIME:发布于 2015-07-09 19:43
+RETRES_11_CONTENT:ihouseLV.17谷歌地图呀，出国只有谷歌最好用！
+RETRES_11_CNTZAN:2
+RETRES_11_PTIME:发布于 2014-05-22 14:27
+RETRES_12_CONTENT:浓浓浓 。LV.3ios的，美行旅鸟地图。有日本的有韩国的
+RETRES_12_CNTZAN:1
+RETRES_12_PTIME:发布于 2015-06-16 18:28
+RETRES_13_CONTENT:天大地大任我游LV.8搭车问，谷歌地图不是中文的呀，有没有中文的啊
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2015-03-10 09:57
+RETRES_14_CONTENT:小美的痴言诳语LV.35指路人当然是google地图
+RETRES_14_CNTZAN:1
+RETRES_14_PTIME:发布于 2014-05-22 22:36
+RETRES_15_CONTENT:hibeLV.20google map就足够了~
+RETRES_15_CNTZAN:0
+RETRES_15_PTIME:发布于 2015-05-14 11:15
+RETRES_16_CONTENT:月亮无语LV.5谷歌地图不能打开怎么办？
+RETRES_16_CNTZAN:0
+RETRES_16_PTIME:发布于 2015-04-12 11:59
+RETRES_17_CONTENT:且听风吟LV.15maps.me，离线地图
+RETRES_17_CNTZAN:0
+RETRES_17_PTIME:发布于 2015-05-14 11:17
+RETRES_18_CONTENT:立白喵喵喵LV.2在线谷歌，离线探途
+RETRES_18_CNTZAN:0
+RETRES_18_PTIME:发布于 1天前
+RETRES_19_CONTENT:你值得被爱。LV.17谷歌地图就好了
+RETRES_19_CNTZAN:0
+RETRES_19_PTIME:发布于 2015-04-12 12:04

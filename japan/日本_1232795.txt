@@ -1,0 +1,52 @@
+REGIN:日本
+ID:1232795
+TITLE:日本银座里买什么最划算？
+DESC:同上
+TAGS:日本#
+PUBTIME:2014-07-04 23:07:16
+RETRESSIZE:15
+RETRES_0_CONTENT:mangLV.15奖励10蜂蜜题主采纳银座是购物者的天堂，汇集了世界顶级的品牌专卖店，如路易·威登（Louis Vuitton，简称、香奈儿（Chanel）、古驰（Gucci）、寇驰（Coach）、蒂凡尼（Tiffany）等等。钻石、珍珠、名牌鞋包、服装、电子产品、化妆品应有尽有。适宜商品：日本免税店里的小型家用电器质量非常好，价格也很便宜。但是要注意电压和制式。（日本电器电压110伏、中国电器电压220伏，电视图象显示方式日本制式NISS、中国制式PAL）带些回来馈赠亲朋又大方又实惠。买小件精品玩具，衣服、鞋等不合算，大多是中国制造，而且贵的惊人。
+RETRES_0_CNTZAN:7
+RETRES_0_PTIME:发布于 2014-07-05 08:16
+RETRES_1_CONTENT:我是我LV.20银座是日本最繁华、最著名的商业区，也是世界顶级品牌汇集地。什么LV、古驰、香奈儿、巴宝莉等我们熟知的品牌，在这里基本上每家都拥有一栋五六层大楼。所以看你自已需要什么，就算是最便宜最划算你用不上的话也是白搭。。。
+RETRES_1_CNTZAN:2
+RETRES_1_PTIME:发布于 2014-07-05 01:25
+RETRES_2_CONTENT:sandyLV.1银座百货店LV专卖店买单后退完税后怎么单子全给人拿走，过一会再给我包？而且不是原来的店员给的
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 2015-10-21 23:01
+RETRES_3_CONTENT:tarocatLV.21银座有很多国际大牌奢侈品牌，但也有便宜的服装品牌。丰俭由人啊！
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 2015-10-21 23:08
+RETRES_4_CONTENT:东邪西毒LV.15银座的好东西很多，但能买到物美价廉的东西的可能性是很小的。
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 2014-07-05 08:12
+RETRES_5_CONTENT:afeluxLV.2日用电器，厨房电器，小家电，不锈钢制品……
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 2015-11-30 20:19
+RETRES_6_CONTENT:cgryjLV.16銀座的名牌並不便宜......
+RETRES_6_CNTZAN:1
+RETRES_6_PTIME:发布于 2014-07-05 10:00
+RETRES_7_CONTENT:大号仔仔LV.15。。。。看你需求呀 。。。。
+RETRES_7_CNTZAN:1
+RETRES_7_PTIME:发布于 2014-09-07 18:53
+RETRES_8_CONTENT:therionLV.7mikimoto
+RETRES_8_CNTZAN:2
+RETRES_8_PTIME:发布于 2014-07-04 23:11
+RETRES_9_CONTENT:巴骸LV.22很都东西都不错，看你自己需要
+RETRES_9_CNTZAN:0
+RETRES_9_PTIME:发布于 2014-07-05 10:05
+RETRES_10_CONTENT:莳槑LV.26指路人看你自已需要什么
+RETRES_10_CNTZAN:1
+RETRES_10_PTIME:发布于 2014-07-05 03:15
+RETRES_11_CONTENT:陶然LV.24指路人日本请不要为了消费而消费……
+RETRES_11_CNTZAN:0
+RETRES_11_PTIME:发布于 2015-07-29 21:22
+RETRES_12_CONTENT:uggeaLV.2看缘分了，当成景区逛。
+RETRES_12_CNTZAN:0
+RETRES_12_PTIME:发布于 2016-04-23 21:45
+RETRES_13_CONTENT:☆1+1=2√☆LV.33指路人时尚电器、化妆品~
+RETRES_13_CNTZAN:0
+RETRES_13_PTIME:发布于 2014-07-05 01:17
+RETRES_14_CONTENT:拉拉LV.21化妆品，电器类
+RETRES_14_CNTZAN:0
+RETRES_14_PTIME:发布于 2014-07-05 10:09

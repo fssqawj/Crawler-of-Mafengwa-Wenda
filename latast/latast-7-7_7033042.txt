@@ -1,0 +1,25 @@
+REGIN:latast-7-7
+ID:7033042
+TITLE:7月14日从兰州-青海-兰州，二晚三天  请问要玩些什么景点帮忙推荐一下，
+DESC:我们是自己包车还是到当地找个社跟团玩
+TAGS:青海#青海湖#兰州#景点#
+PUBTIME:2016-07-07 13:50:03
+RETRESSIZE:6
+RETRES_0_CONTENT:天蓝蓝LV.17那就选环湖三日游吧，D1晚住黑马河，D2天住祁连，D3天下午回兰州刚好三天两晚。沿途景点有塔尔寺，拉鸡山，日月山，倒淌河，金沙湾，青海湖，茶卡盐湖，刚察草原，祁连卓尔山，门源油菜花等……望采纳。
+RETRES_0_CNTZAN:4
+RETRES_0_PTIME:发布于 4小时前
+RETRES_1_CONTENT:柴郡猫LV.13你好楼主！关于你的这个问题？你参考一下这篇游记：这是我们青海，敦煌走大环线时候的总结希望能给你一些帮助和惊喜哦！惊喜哦！http://www.mafengwo.cn/i/5485172.html
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 5小时前
+RETRES_2_CONTENT:旅游达人LV.6你好楼主！关于你的这个问题？你可以参考一下这篇游记：  青海 甘肃环线自驾游的总结·里面写的一些东西能够帮到你：http://www.mafengwo.cn/i/5476448.html
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 4小时前
+RETRES_3_CONTENT:青海湖LV.14关于你的问题可以看看http://www.mafengwo.cn/i/5483447.html这篇游记，是我们去年走环线总结的，希望会对你有所帮助
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 4小时前
+RETRES_4_CONTENT:希望可以帮助你LV.15你好看我游记 http://www.mafengwo.cn/i/5487776.html
+RETRES_4_CNTZAN:4
+RETRES_4_PTIME:发布于 5小时前
+RETRES_5_CONTENT:富士山下LV.3http://www.mafengwo.cn/i/5517418.html  我的游记希望对您有帮助
+RETRES_5_CNTZAN:1
+RETRES_5_PTIME:发布于 5小时前

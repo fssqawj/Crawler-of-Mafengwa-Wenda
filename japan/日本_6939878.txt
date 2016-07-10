@@ -1,0 +1,16 @@
+REGIN:日本
+ID:6939878
+TITLE:北海道jr pass
+DESC:如果在飞机是在新千岁机场19:30才抵达，是不是就不能在机场购买jr pass周游票？因为我要在新千岁直接去旭川，所以jr费用比较高，如果买不到那个票就不划算～
+TAGS:北海道#
+PUBTIME:2016-06-27 13:28:27
+RETRESSIZE:3
+RETRES_0_CONTENT:noslenLV.30指路人北海道我不知道是否有便宜照理說價錢應該是JR網站定價的，應該是沒有什麼便宜可說。但我沒買過也不好說。你可以參考官網的JR pass http://www2.jrhokkaido.co.jp/global/chinese/railpass/rail.html首先你不可能第一天買或者兌換JR周遊卷的票，因為新千歲機場  的櫃檯只開到1900新千歲機場站（營業時間 8:30 ～19:00）   我是有聽說可以託代購在日本幫你劃位置，但需要護照，不知道現在還能不能用。http://www2.jrhokkaido.co.jp/global/chinese/faq/faq03.html#Q3
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 2016-06-27 17:25
+RETRES_1_CONTENT:---雨林---LV.15指路人题主你好~欢迎来北海道~~您这个航班抵达时间非常尴尬~~~~首先，是的，因为JR PASS 是几天内随意乘坐的票，所以，如果按行程，JR pass比单买票要便宜的话，这一天【机场→旭川】的路程就没办法了，只能单买票。然而，您抵达后的问题，并不在这里。就算在国内事先买好JR PASS兑换券，来到新千岁机场的时候，换票处已经下班了。您这一段还是没办法换到JR PASS票。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 2016-06-28 16:52
+RETRES_2_CONTENT:散落一地的饼干儿LV.17实习指路人推荐你在穷游买这个之前我在穷游买的东日本 南北海道的周游券 比官网上买还要便宜100+人民币而且周五下的订单 周一就收到了~你可以参考看看~日本JR北海道hokkaido rail pass周游券(3/4/5/7日可选)http://z.qyer.com/deal/49110/如果我的答案对你有帮助，希望可以被采纳~
+RETRES_2_CNTZAN:1
+RETRES_2_PTIME:发布于 2016-06-27 16:16

@@ -1,0 +1,28 @@
+REGIN:日本
+ID:6978011
+TITLE:日本签证工资条提供不了
+DESC:请问我家我跟我爱人由于工作的特殊性都不能提供月收入8400的工资条，那还能办签证吗？
+TAGS:签证#日本#
+PUBTIME:2016-07-01 11:20:28
+RETRESSIZE:7
+RETRES_0_CONTENT:假装一朵花LV.33指路人如果没有工资的流水，其他银行的流水也是可以的，但是要每个月都有1W的进出会比较靠谱。另外，你是哪里的呢？我是杭州的，现在杭州上海办个签很多淘宝店家都不需要提供银行流水了，你可以多找几家问问看
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 8小时前
+RETRES_1_CONTENT:DrogbyLV.30指路人银行流水单是可以的，或者单位在职证明。你的情况最好是找比较好的签证代理，把你的情况说清楚，应该问题不大。
+RETRES_1_CNTZAN:1
+RETRES_1_PTIME:发布于 7小时前
+RETRES_2_CONTENT:SaraLV.19指路人其实给银行流水就好了 实在不行 还有房产证呢 其实还挺简单的 希望亲采纳
+RETRES_2_CNTZAN:0
+RETRES_2_PTIME:发布于 7小时前
+RETRES_3_CONTENT:金穆泰LV.21银行流水单可以代替的
+RETRES_3_CNTZAN:0
+RETRES_3_PTIME:发布于 7小时前
+RETRES_4_CONTENT:风吹过_73188LV.15无固定收入很难办
+RETRES_4_CNTZAN:0
+RETRES_4_PTIME:发布于 8小时前
+RETRES_5_CONTENT:瀚旻LV.17冻结存款5万
+RETRES_5_CNTZAN:0
+RETRES_5_PTIME:发布于 8小时前
+RETRES_6_CONTENT:skyweixinLV.17应该不能
+RETRES_6_CNTZAN:0
+RETRES_6_PTIME:发布于 8小时前

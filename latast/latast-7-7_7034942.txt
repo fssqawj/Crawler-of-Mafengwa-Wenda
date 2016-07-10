@@ -1,0 +1,13 @@
+REGIN:latast-7-7
+ID:7034942
+TITLE:找一个有人工浪的水上乐园
+DESC:这是国内的水上乐园吗
+TAGS:景点#
+PUBTIME:2016-07-07 16:45:37
+RETRESSIZE:2
+RETRES_0_CONTENT:范豪喋LV.2深圳欢乐谷里的玛雅水乐园有人工浪和水上娱乐项目
+RETRES_0_CNTZAN:0
+RETRES_0_PTIME:发布于 3小时前
+RETRES_1_CONTENT:卤嘻嘻LV.18指路人秦皇岛的乐岛，有人工浪
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 3小时前

@@ -1,0 +1,13 @@
+REGIN:日本
+ID:6971832
+TITLE:jr pass可以用于jr开头的地铁吗还是只能用于新干线
+DESC:如题
+TAGS:自由行#地铁#新干线#日本#交通#
+PUBTIME:2016-06-30 17:00:00
+RETRESSIZE:2
+RETRES_0_CONTENT:扑了个扑的LV.18指路人奖励10蜂蜜题主采纳既然是JR开头就不会是地铁，地铁都不是JR，在日本，JR和地铁是两个概念哦，JR相当于我们中国的铁路局的角色，承包全国的那种，地铁只是每个城市自己建设的~~新干线是JR旗下的，除了NOZOMI和MIZUHO这两列新干线不能坐，其他新干线都可以用JRPASS的。除了新干线外，夜间寝台车也不能用JRPASS，要加钱。除此之外的JR旗下车辆都可以用JRPASS坐，并且划指定席也是免费的。
+RETRES_0_CNTZAN:1
+RETRES_0_PTIME:发布于 1天前
+RETRES_1_CONTENT:khonLV.16实习指路人jr pass只可以用于jr开头的线路，jr线路分为普通，快速，急行，特急和新干线
+RETRES_1_CNTZAN:0
+RETRES_1_PTIME:发布于 1天前

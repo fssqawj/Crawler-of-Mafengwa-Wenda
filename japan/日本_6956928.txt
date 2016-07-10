@@ -1,0 +1,10 @@
+REGIN:日本
+ID:6956928
+TITLE:冲绳机场到海滩塔楼酒店的机场大巴
+DESC:请问下午三点到冲绳，几点有去海滩塔楼酒店的大巴车？？多久一班，票价多少？我们是三个大人一个两岁多的孩子
+TAGS:酒店#冲绳#巴士#机场大巴#交通#
+PUBTIME:2016-06-29 09:27:31
+RETRESSIZE:1
+RETRES_0_CONTENT:NoBrainerLV.11指路人那覇空港的20号或120番号大巴上车、在『軍病院前』下車、走7分。一共所要時間大概1小时。値段：７３０円或790日币时间，一般1小时2次（比如1:00，13:30）http://okinawabus.com/wp/wp-content/uploads/2014/02/30d7688572f3c1b940698af023673207.pdf
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前

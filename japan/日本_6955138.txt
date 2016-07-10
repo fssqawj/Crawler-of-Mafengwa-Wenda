@@ -1,0 +1,10 @@
+REGIN:日本
+ID:6955138
+TITLE:hellokitty乐园附近景点
+DESC:我想去hellokitty乐园附近还有什么景点值得一去，或者离那个经典近些，交通方便一些呢
+TAGS:景点#
+PUBTIME:2016-06-29 00:36:41
+RETRESSIZE:1
+RETRES_0_CONTENT:sugar1216LV.20指路人东京个人感觉那里没有其他景点可去，京王多摩中心站下来 就是条主干道，旁边就是些小商店。而且KITTY乐园可以玩一个大白天呢，出乐园后可以考虑返回新宿逛街或者其他市区景点。
+RETRES_0_CNTZAN:2
+RETRES_0_PTIME:发布于 2天前
